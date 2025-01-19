@@ -1,0 +1,5770 @@
+[
+  {
+    "id": "0",
+    "start": 35173,
+    "end": 38273,
+    "enText": "These are my friends, Jerry and Marge Selbee.",
+    "ruText": "Встречайте моих друзей, Джерри и Мардж Сэлби."
+  },
+  {
+    "id": "1",
+    "start": 43140,
+    "end": 45350,
+    "enText": "They live in Evart, Michigan.",
+    "ruText": "Они живут в Эварте, штат Мичиган."
+  },
+  {
+    "id": "2",
+    "start": 47835,
+    "end": 51597,
+    "enText": "It's a small town that's not exactly in its prime.",
+    "ruText": "Это маленький городишко, потихоньку приходящий в упадок."
+  },
+  {
+    "id": "3",
+    "start": 51701,
+    "end": 55360,
+    "enText": "Though, to be honest, neither are Jerry and Marge.",
+    "ruText": "Хотя, будем честны, это касается и Джерри с Мардж."
+  },
+  {
+    "id": "4",
+    "start": 56740,
+    "end": 59812,
+    "enText": "Today, they're on their way to buy lottery tickets.",
+    "ruText": "Сегодня они отправились за лотерейными билетами."
+  },
+  {
+    "id": "5",
+    "start": 59916,
+    "end": 62877,
+    "enText": "Lots and lots of lottery tickets.",
+    "ruText": "Огромной кучей лотерейных билетов."
+  },
+  {
+    "id": "6",
+    "start": 63858,
+    "end": 65749,
+    "enText": "But they're not hoping to get lucky.",
+    "ruText": "Но они не надеются на удачу."
+  },
+  {
+    "id": "7",
+    "start": 66716,
+    "end": 69546,
+    "enText": "You see, they don't need luck.",
+    "ruText": "Видите ли, им она не нужна."
+  },
+  {
+    "id": "8",
+    "start": 78072,
+    "end": 80385,
+    "enText": "But this story doesn't start there.",
+    "ruText": "Но история начинается не здесь."
+  },
+  {
+    "id": "9",
+    "start": 81247,
+    "end": 88047,
+    "enText": "It starts with Jerry, getting up before dawn just like he has every day for 42 years,",
+    "ruText": "Она начинается с Джерри, встающего перед рассветом так же, как и в свои предыдущие сорок два года,"
+  },
+  {
+    "id": "10",
+    "start": 88051,
+    "end": 94053,
+    "enText": "going to work at the Corn Flakes factory, for what he fears will be the last time.",
+    "ruText": "и отправляющегося на фабрику хлопьев, и боящегося, что это будет в последний раз."
+  },
+  {
+    "id": "11",
+    "start": 94157,
+    "end": 96573,
+    "enText": "It's a math problem, really.",
+    "ruText": "Это вроде математической задачки."
+  },
+  {
+    "id": "12",
+    "start": 96677,
+    "end": 107066,
+    "enText": "If you count the letters, uh, except the letter \"I,\" which they skip because it looks like a \"1\", then you realize that \"J\" is February.",
+    "ruText": "Если сосчитать буквы, э-э, кроме буквы \"Зэ\", ведь она так похожа на тройку, становится ясно, что \"Ж\" это февраль."
+  },
+  {
+    "id": "13",
+    "start": 107170,
+    "end": 111243,
+    "enText": "And then, the last letter... Oh, boy.",
+    "ruText": "А вот последняя буква... Боже мой."
+  },
+  {
+    "id": "14",
+    "start": 111346,
+    "end": 118837,
+    "enText": "That designates the plant code, which was not easy to figure out, but, uh... I did.",
+    "ruText": "Это и есть код предприятия, расшифровать который было нелегко, но, э-э... я смог."
+  },
+  {
+    "id": "15",
+    "start": 120908,
+    "end": 124739,
+    "enText": "Jerry, you don't have to work so hard. You're retiring.",
+    "ruText": "Джерри, зачем так стараться перед отставкой?"
+  },
+  {
+    "id": "16",
+    "start": 126396,
+    "end": 130193.00000000001,
+    "enText": "Well, yeah. But... I... I don't have to be. Um...",
+    "ruText": "Ну, да, но я-я... я могу не уходить. Э-э..."
+  },
+  {
+    "id": "17",
+    "start": 130295.99999999999,
+    "end": 133265,
+    "enText": "I know my line is shutting down, but...",
+    "ruText": "Конечно, мой конвейер закрывается, но..."
+  },
+  {
+    "id": "18",
+    "start": 133368,
+    "end": 137027,
+    "enText": "You know, I have a thing with numbers. Come on.",
+    "ruText": "в цифрах я всё ещё смыслю. Да ладно."
+  },
+  {
+    "id": "19",
+    "start": 137131,
+    "end": 140514,
+    "enText": "You've served your time. These are your golden years.",
+    "ruText": "Ты своё отслужил. Это твои золотые годы."
+  },
+  {
+    "id": "20",
+    "start": 140617,
+    "end": 144932,
+    "enText": "He's the best line manager we ever had, right? Absolutely.",
+    "ruText": "Он наш лучший руководитель отдела, правда? Ясное дело."
+  },
+  {
+    "id": "21",
+    "start": 145035,
+    "end": 149419,
+    "enText": "Hey. Why don't you tell these guys how you started working here in high school?",
+    "ruText": "Эй, можешь рассказать ребятам, как ты работал здесь, будучи школьником?"
+  },
+  {
+    "id": "22",
+    "start": 150316,
+    "end": 152871,
+    "enText": "You worked nights, right?",
+    "ruText": "Ты работал ночами, так?"
+  },
+  {
+    "id": "23",
+    "start": 167437,
+    "end": 173305,
+    "enText": "To Jerry. All right. Not everybody can pull off 42 years without getting fired.",
+    "ruText": "За Джерри. Да! Мало кто может протянуть сорок два года без увольнения."
+  },
+  {
+    "id": "24",
+    "start": 173408,
+    "end": 176204,
+    "enText": "And now you have a boss who's going to let you sleep in.",
+    "ruText": "А твоё новое начальство даст тебе высыпаться."
+  },
+  {
+    "id": "25",
+    "start": 176729,
+    "end": 179722,
+    "enText": "And won't yell at me. Wrong about that. Oh.",
+    "ruText": "И орать не будет. Тут ты ошибся."
+  },
+  {
+    "id": "26",
+    "start": 181278,
+    "end": 186145,
+    "enText": "You know, you should get your real estate license, just like Howard did. It's like having a job.",
+    "ruText": "Тебе нужна лицензия на продажу недвижимости, как у Говарда. Это похоже на работу."
+  },
+  {
+    "id": "27",
+    "start": 186249,
+    "end": 189804,
+    "enText": "But it's also like being retired, because you don't do anything.",
+    "ruText": "В сочетании с отдыхом, потому что делать ничего не надо."
+  },
+  {
+    "id": "28",
+    "start": 189908,
+    "end": 192923,
+    "enText": "It's true. Most days, I don't even leave the house.",
+    "ruText": "Она права. Я почти не выхожу из дома."
+  },
+  {
+    "id": "29",
+    "start": 193470,
+    "end": 196604,
+    "enText": "Well... You know, I'll make it work.",
+    "ruText": "Что ж... Знаете, я разберусь."
+  },
+  {
+    "id": "30",
+    "start": 196708,
+    "end": 199331,
+    "enText": "You know, I can always help Marge around the house.",
+    "ruText": "Например, буду помогать Мардж с делами по дому."
+  },
+  {
+    "id": "31",
+    "start": 199434,
+    "end": 202541,
+    "enText": "No, you don't need to do that. No, I'd be happy to.",
+    "ruText": "Нет, незачем это делать. Что ты, я буду рад."
+  },
+  {
+    "id": "32",
+    "start": 202645,
+    "end": 204888,
+    "enText": "I mean, you've been taking care of this place for years.",
+    "ruText": "Ты годами заботилась о нашем гнёздышке."
+  },
+  {
+    "id": "33",
+    "start": 204992,
+    "end": 207788,
+    "enText": "I kind of have a system. Oh, yeah, and a good one.",
+    "ruText": "И создала свою систему. Точно, и отличную."
+  },
+  {
+    "id": "34",
+    "start": 207891,
+    "end": 210687,
+    "enText": "But, you know, every system can use an improvement.",
+    "ruText": "Но каждой системе не помешает модернизация."
+  },
+  {
+    "id": "35",
+    "start": 210791,
+    "end": 213310,
+    "enText": "Oh, God. Here we go. Hey. I got an idea. Yeah?",
+    "ruText": "Господи. Началось. У меня есть идея. Да? "
+  },
+  {
+    "id": "36",
+    "start": 213414,
+    "end": 216451,
+    "enText": "Why don't I try consulting on some of your job sites?",
+    "ruText": "Может, я могу устроиться консультантом на твою работу?"
+  },
+  {
+    "id": "37",
+    "start": 216555,
+    "end": 219040,
+    "enText": "You know, find ways of making things run better.",
+    "ruText": "Я бы придумал, как улучшить твои дела."
+  },
+  {
+    "id": "38",
+    "start": 219144,
+    "end": 223804,
+    "enText": "You wanna walk around on my construction site and tell me what I'm doing wrong? Oof.",
+    "ruText": "Ты хочешь расхаживать по моей стройке и при этом говорить мне, в чём я ошибаюсь?"
+  },
+  {
+    "id": "39",
+    "start": 223907,
+    "end": 226217,
+    "enText": "I wouldn't charge much. Oh, and I have to pay you for this?",
+    "ruText": "Я много не возьму. Я ещё и платить должен?"
+  },
+  {
+    "id": "40",
+    "start": 226227,
+    "end": 230224,
+    "enText": "Darn right. Are you going to also come by and teach my wife how to grade papers?",
+    "ruText": "Ну да. Может, ещё научишь мою жену проверять диктанты?"
+  },
+  {
+    "id": "41",
+    "start": 230327,
+    "end": 234124,
+    "enText": "Hey, Dad, if I lived here, I would welcome that. Thank you, Dawn.",
+    "ruText": "Если бы я тут жила, мне было бы в радость. Спасибо, Доун."
+  },
+  {
+    "id": "42",
+    "start": 234228,
+    "end": 237749,
+    "enText": "I'm gonna take you up on that. I'm gonna drive down to Grand Rapids more often.",
+    "ruText": "Но не беспокойся. Я буду почаще заезжать в Гранд-Рапидс."
+  },
+  {
+    "id": "43",
+    "start": 238163,
+    "end": 242757,
+    "enText": "Oh, whoops. You sold it too well. Shut up. Backfired right in your face. Yeah, sweetie? Okay.",
+    "ruText": "О, упс. Ты перестаралась. Тише. Теперь огребай. Да, малыш? Хватит."
+  },
+  {
+    "id": "44",
+    "start": 242761,
+    "end": 244169,
+    "enText": "Can we show Pop Pop?",
+    "ruText": "Покажем дедушке?"
+  },
+  {
+    "id": "45",
+    "start": 244272,
+    "end": 246692,
+    "enText": "Uh, yeah, you wanna show Pop Pop right now?",
+    "ruText": "Э-э, хочешь показать дедушке сейчас?"
+  },
+  {
+    "id": "46",
+    "start": 246896,
+    "end": 250693,
+    "enText": "Show me what? We got you a retirement present. Surprise.",
+    "ruText": "Показать что? Мы купили тебе подарок к пенсии. Сюрприз."
+  },
+  {
+    "id": "47",
+    "start": 250796,
+    "end": 254213,
+    "enText": "Okay. Open your eyes. Open.",
+    "ruText": "Аккуратно. Открой глаза. Открой."
+  },
+  {
+    "id": "48",
+    "start": 254317,
+    "end": 260288,
+    "enText": "Holy cow! A fishing boat. What...",
+    "ruText": "Нихрена себе! Рыбацкая лодка. Что..."
+  },
+  {
+    "id": "49",
+    "start": 260392,
+    "end": 263326,
+    "enText": "Do I like fishing? I do? Okay. Yeah, you took me once.",
+    "ruText": "Я люблю рыбалку? Люблю? Ладно. Мы с тобой рыбачили."
+  },
+  {
+    "id": "50",
+    "start": 263429,
+    "end": 266501,
+    "enText": "Yeah, now you can go whenever you want. Yeah, how about that?",
+    "ruText": "Будешь ездить почаще. Да, и сказать нечего."
+  },
+  {
+    "id": "51",
+    "start": 267237,
+    "end": 272128,
+    "enText": "This is great. Thank you. Thank you, thank you, thank you. Oh, good.",
+    "ruText": "Она прекрасна. Спасибо. Спасибо, спасибо, спасибо. Мы рады."
+  },
+  {
+    "id": "52",
+    "start": 273508,
+    "end": 278548,
+    "enText": "And you, for keeping a secret. Thank you, pumpkin.",
+    "ruText": "А ты смогла сохранить тайну. Спасибо, тыковка."
+  },
+  {
+    "id": "53",
+    "start": 278652,
+    "end": 281275,
+    "enText": "Thank you, Doug. You like it? Yeah. All right.",
+    "ruText": "Спасибо, Даг. Нравится? Да. Хорошо."
+  },
+  {
+    "id": "54",
+    "start": 281689,
+    "end": 285003,
+    "enText": "My goodness. My goodness. Good job. You didn't spoil it.",
+    "ruText": "Господи. Боже мой. Молодец, смогла не разболтать."
+  },
+  {
+    "id": "55",
+    "start": 285106,
+    "end": 290836,
+    "enText": "That was your one job. You did so good. You okay? Oh, yeah. Yeah.",
+    "ruText": "А это самое главное. Всё хорошо? О, да. Да."
+  },
+  {
+    "id": "56",
+    "start": 295220,
+    "end": 299856,
+    "enText": "I don't have many regular clothes. It's all work shirts.",
+    "ruText": "У меня маловато повседневной одежды. Только рабочие рубашки."
+  },
+  {
+    "id": "57",
+    "start": 299959,
+    "end": 302883,
+    "enText": "Well, we can get you more clothes. Hmm.",
+    "ruText": "Значит, сходим в магазин."
+  },
+  {
+    "id": "58",
+    "start": 304788,
+    "end": 310097,
+    "enText": "It'll be an adjustment. You'll find your way. Hmm.",
+    "ruText": "Ты ещё свыкнешься. Я в этом уверена."
+  },
+  {
+    "id": "59",
+    "start": 310200,
+    "end": 313445,
+    "enText": "Have you? Not really. But I don't have a boat.",
+    "ruText": "А ты смогла? Нет, но у меня не было лодки."
+  },
+  {
+    "id": "60",
+    "start": 316137,
+    "end": 319071,
+    "enText": "You want this one? Nope.",
+    "ruText": "Заберёшь её себе? Нет!"
+  },
+  {
+    "id": "61",
+    "start": 352967,
+    "end": 355038,
+    "enText": "Morning, Leon. Morning, Jerry.",
+    "ruText": "Привет, Леон. Привет, Джерри."
+  },
+  {
+    "id": "62",
+    "start": 362252,
+    "end": 364979,
+    "enText": "Card was declined, Helen. I'm sorry.",
+    "ruText": "Платёж отклонён. Прости, Хелен."
+  },
+  {
+    "id": "63",
+    "start": 365083,
+    "end": 368673,
+    "enText": "Dang it. Maybe I have cash. Let me just...",
+    "ruText": "Вот сука. Сейчас поищу наличку, минутку..."
+  },
+  {
+    "id": "64",
+    "start": 372297,
+    "end": 375093,
+    "enText": "I know you're good for it. Thanks, Leon.",
+    "ruText": "Потом занесёшь. Спасибо, Леон."
+  },
+  {
+    "id": "65",
+    "start": 387909,
+    "end": 390004,
+    "enText": "What are you doing out here?",
+    "ruText": "Что ты здесь делаешь?"
+  },
+  {
+    "id": "66",
+    "start": 390108,
+    "end": 393145,
+    "enText": "My appointment is at 10. No, you said you'd come at 10.",
+    "ruText": "У меня встреча в десять. Нет, ты сказал, что придёшь в десять."
+  },
+  {
+    "id": "67",
+    "start": 393249,
+    "end": 396735,
+    "enText": "I don't have any other appointments. I have six clients. Okay.",
+    "ruText": "У меня нет других встреч. У меня шесть клиентов. Ладно."
+  },
+  {
+    "id": "68",
+    "start": 396839,
+    "end": 399117,
+    "enText": "How do you make a living with only six clients?",
+    "ruText": "Как ты зарабатываешь с шестью клиентами?"
+  },
+  {
+    "id": "69",
+    "start": 399220,
+    "end": 405465,
+    "enText": "I don't. I just became an online travel agent. See the posters? Oh, yeah.",
+    "ruText": "Никак. Я только что стал онлайн-турагентом, видишь постеры? Да, вижу."
+  },
+  {
+    "id": "70",
+    "start": 406369,
+    "end": 410128,
+    "enText": "So, why do you need posters if it's online?",
+    "ruText": "Но зачем тебе постеры, если ты онлайн?"
+  },
+  {
+    "id": "71",
+    "start": 410231,
+    "end": 411888,
+    "enText": "Because they were free.",
+    "ruText": "Бесплатные же."
+  },
+  {
+    "id": "72",
+    "start": 411992,
+    "end": 414806,
+    "enText": "Why do you always have to understand the reasoning behind everything?",
+    "ruText": "Почему тебе для всего нужно найти какую-то причину?"
+  },
+  {
+    "id": "73",
+    "start": 414806,
+    "end": 418964,
+    "enText": "Oh, well. It's the only way I can make sense of things.",
+    "ruText": "Ну, что ж, только так я начинаю видеть суть вещей."
+  },
+  {
+    "id": "74",
+    "start": 419872,
+    "end": 423900,
+    "enText": "How's the boat? Water's still too cold.",
+    "ruText": "Как лодка? Вода все еще слишком холодная."
+  },
+  {
+    "id": "75",
+    "start": 424004,
+    "end": 426914,
+    "enText": "You don't get in the water. That's the point of the boat.",
+    "ruText": "Тебе же не нужно туда лезть. В этом и есть смысл лодки."
+  },
+  {
+    "id": "76",
+    "start": 426917,
+    "end": 430942,
+    "enText": "Hmm. How's my account? Speaking of cold...",
+    "ruText": "Как там мой счёт? Тут всё печально."
+  },
+  {
+    "id": "77",
+    "start": 432144,
+    "end": 437120,
+    "enText": "2% gains, which doesn't sound like much, because it isn't.",
+    "ruText": "Прибыль два процента. Звучит хреново, и на деле тоже хреново."
+  },
+  {
+    "id": "78",
+    "start": 437224,
+    "end": 438915,
+    "enText": "Look, you gotta be more aggressive.",
+    "ruText": "Слушай, тебе нужно быть смелее."
+  },
+  {
+    "id": "79",
+    "start": 439019,
+    "end": 441918,
+    "enText": "If you let me put that in stocks, I could probably get you 10%.",
+    "ruText": "Если позволишь вложиться в акции, я подниму её до десяти."
+  },
+  {
+    "id": "80",
+    "start": 442022,
+    "end": 447475,
+    "enText": "That would double your money in only... 7.27 years.",
+    "ruText": "Это удвоит твои деньги всего через... Семь и двадцать семь сотых лет."
+  },
+  {
+    "id": "81",
+    "start": 449029,
+    "end": 451859,
+    "enText": "Literally the only time I was going to get to use that today.",
+    "ruText": "Может, мне свой калькулятор выкинуть?"
+  },
+  {
+    "id": "82",
+    "start": 451963,
+    "end": 454759,
+    "enText": "Nope. This is all we've got.",
+    "ruText": "Нет. Работаем только с этим."
+  },
+  {
+    "id": "83",
+    "start": 454862,
+    "end": 456619,
+    "enText": "And I'm not about to gamble with it.",
+    "ruText": "Я не хочу лезть в ставки."
+  },
+  {
+    "id": "84",
+    "start": 456622,
+    "end": 462905,
+    "enText": "It's not gambling. It seems like a risk, but the market... Yeah, well, if you could lose it, it's gambling.",
+    "ruText": "Это не ставки. С виду рискованно, но рынок... Слушай, если деньги можно потерять, это ставки."
+  },
+  {
+    "id": "85",
+    "start": 463008,
+    "end": 466598,
+    "enText": "I'll call you in a month for my next appointment. Don't need an appointment. Okay.",
+    "ruText": "Я позвоню через месяц, чтобы договориться о следующей встрече. Просто приходи. Ладно."
+  },
+  {
+    "id": "86",
+    "start": 467392,
+    "end": 471465,
+    "enText": "Take out the boat. I may just do that.",
+    "ruText": "И прокатись на лодке. Этим и займусь."
+  },
+  {
+    "id": "87",
+    "start": 500839,
+    "end": 516958.99999999994,
+    "enText": "Oh! No. Holy cow!",
+    "ruText": " Нет! Да твою же мать!"
+  },
+  {
+    "id": "88",
+    "start": 526623,
+    "end": 535736,
+    "enText": "Hey, Jer. What's a roll down? It's when the jackpot hits two million and nobody gets six numbers.",
+    "ruText": "Привет, Джер. Что за \"ролл-даун\"? Это когда джекпот уже два миллиона, а шестёрка не находится."
+  },
+  {
+    "id": "89",
+    "start": 535840,
+    "end": 541259,
+    "enText": "Then the whole jackpot rolls down to the people who got three or four... Whatever.",
+    "ruText": "Тогда весь джекпот переходит людям, у которых три-четыре... Типа того."
+  },
+  {
+    "id": "90",
+    "start": 541262,
+    "end": 546989,
+    "enText": "Just better odds. Good luck. Yeah. Thanks. Better odds.",
+    "ruText": "Повышает шансы. Удачи. Ага. Спасибо. Лучшие шансы."
+  },
+  {
+    "id": "91",
+    "start": 598695,
+    "end": 603114,
+    "enText": "Can that be right? All right.",
+    "ruText": "Не верится. Ладно."
+  },
+  {
+    "id": "92",
+    "start": 611294,
+    "end": 617162,
+    "enText": "It's not gambling. The lottery? Yup. There's a way to win every time.",
+    "ruText": "Это не ставки. Лотерея? Точно. Можно побеждать каждый раз."
+  },
+  {
+    "id": "93",
+    "start": 617266,
+    "end": 618267,
+    "enText": "Are you having a stroke?",
+    "ruText": "На солнце перегрелся?"
+  },
+  {
+    "id": "94",
+    "start": 618370,
+    "end": 621329,
+    "enText": "There's a loophole they didn't see, and it's right here in the math.",
+    "ruText": "Они не заметили одну лазейку в подсчётах. "
+  },
+  {
+    "id": "95",
+    "start": 621339,
+    "end": 631211,
+    "enText": "Now, on a typical drawing, you'd have a one in 54 chance of hitting three out of six numbers, and a one in 1,500 chance of hitting four.",
+    "ruText": "Короче, в обычной лотерее у тебя есть один шанс из пятидесяти четырёх получить три числа из шести, и один из полутора тысяч - получить четыре."
+  },
+  {
+    "id": "96",
+    "start": 631314,
+    "end": 633834,
+    "enText": "Odds are you'll lose every time. Not every time.",
+    "ruText": "То есть ты всегда проигрываешь. Ну не всегда. "
+  },
+  {
+    "id": "97",
+    "start": 633938,
+    "end": 636285,
+    "enText": "I won a free ticket last week, which lost.",
+    "ruText": "На прошлой неделе я выиграл бесплатный билет, но проигрышный."
+  },
+  {
+    "id": "98",
+    "start": 636388,
+    "end": 644603,
+    "enText": "But on the roll down weeks, the payouts to the lower numbers increases above the amount that you would pay to play.",
+    "ruText": "Но на неделях с ролл-дауном выплаты меньшим числам превышают ту сумму денег, которую ты платишь для участия."
+  },
+  {
+    "id": "99",
+    "start": 644707,
+    "end": 649022,
+    "enText": "So, the math is in your favor. And they missed it.",
+    "ruText": "И вот, математика на твоей стороне. Они облажались."
+  },
+  {
+    "id": "100",
+    "start": 649125,
+    "end": 653927,
+    "enText": "I don't know what this says. Looks like the numbers a crazy man drew on his cell wall.",
+    "ruText": "Ничего не понимаю. Будто псих рисовал случайные числа на стене своей камеры."
+  },
+  {
+    "id": "101",
+    "start": 654130,
+    "end": 657409,
+    "enText": "It means that on the roll down weeks, you're guaranteed to win.",
+    "ruText": "Это значит, что во время ролл-дауна ты стопроцентно выиграешь."
+  },
+  {
+    "id": "102",
+    "start": 657513,
+    "end": 662380,
+    "enText": "That can't be true. Why not? Because it's the lottery, Jerry.",
+    "ruText": "Это же невозможно. Но почему? Потому что это лотерея, Джерри."
+  },
+  {
+    "id": "103",
+    "start": 662483,
+    "end": 667109,
+    "enText": "There's a building of people in Detroit whose job it is to know how the numbers work. And they do.",
+    "ruText": "В Детройте целое здание людей, работа которых - шарить в числах. И они мастера."
+  },
+  {
+    "id": "104",
+    "start": 668355,
+    "end": 671665,
+    "enText": "I cannot believe you are my accountant.",
+    "ruText": "Просто не верится, что я нанял тебя бухгалтером."
+  },
+  {
+    "id": "105",
+    "start": 672359,
+    "end": 673563,
+    "enText": "Part-time accountant.",
+    "ruText": "Только на полставки."
+  },
+  {
+    "id": "106",
+    "start": 673667,
+    "end": 675841,
+    "enText": "Full-time online travel agent.",
+    "ruText": "Я ещё и турагент на полную ставку."
+  },
+  {
+    "id": "107",
+    "start": 684333,
+    "end": 687336,
+    "enText": "Hey, Mindy. Hey, Jerry. Making a deposit?",
+    "ruText": "Привет, Минди. Привет, Джерри. Вносите депозит?"
+  },
+  {
+    "id": "108",
+    "start": 687439,
+    "end": 695101,
+    "enText": "Uh, no... I... I'd like to withdraw $2,000. Yep.",
+    "ruText": "Э-э, нет, я... хотел бы снять две тысячи долларов. Ага."
+  },
+  {
+    "id": "109",
+    "start": 697042,
+    "end": 700452,
+    "enText": "So, how are your feet? Been better.",
+    "ruText": "Ну, как ноги? Бывало и лучше. "
+  },
+  {
+    "id": "110",
+    "start": 700456,
+    "end": 704491,
+    "enText": "Rolling the tennis ball helped, until my manager tripped on it and threw it into the street.",
+    "ruText": "Упражнения с мячом помогли, но потом на него наступил менеджер, и мяч улетел на дорогу."
+  },
+  {
+    "id": "111",
+    "start": 704594,
+    "end": 708115,
+    "enText": "I can bring you another one. They come in threes. Thanks.",
+    "ruText": "Могу принести ещё, они идут тройками. Спасибо."
+  },
+  {
+    "id": "112",
+    "start": 712602,
+    "end": 717883,
+    "enText": "Oh, thank you. I'll be back in a couple of days with a deposit. Okay.",
+    "ruText": "О, спасибо. Вернусь через пару дней внести депозит. Ладно."
+  },
+  {
+    "id": "113",
+    "start": 720162,
+    "end": 726892,
+    "enText": "Oh. Probably be 20% more than this. Give or take. See you then. Okay.",
+    "ruText": "Скорее всего, будет на двадцать процентов больше. Плюс-минус. Тогда до встречи. Ладно."
+  },
+  {
+    "id": "114",
+    "start": 762480,
+    "end": 764378,
+    "enText": "Two thousand WinFall tickets.",
+    "ruText": "Две тысячи билетов Уинфолл."
+  },
+  {
+    "id": "115",
+    "start": 765793,
+    "end": 768831,
+    "enText": "Two thousand? Yes, ma'am.",
+    "ruText": "Две тысячи? Да, мэм."
+  },
+  {
+    "id": "116",
+    "start": 775976,
+    "end": 780877,
+    "enText": "Good evening, folks, and welcome to this week's WinFall lottery roll down.",
+    "ruText": "Рад вас приветствовать на еженедельной ролл-даун-лотерее Уинфолл."
+  },
+  {
+    "id": "117",
+    "start": 780781,
+    "end": 784405,
+    "enText": "Grab your tickets, have a seat and let's get right to it.",
+    "ruText": "Берите билеты, садитесь и давайте начинать шоу."
+  },
+  {
+    "id": "118",
+    "start": 784409,
+    "end": 787850,
+    "enText": "The first lucky number is six.",
+    "ruText": "Первое счастливое число - это шесть."
+  },
+  {
+    "id": "119",
+    "start": 787953,
+    "end": 793269,
+    "enText": "The second number... Twenty-three.",
+    "ruText": "Второе число - двадцать три."
+  },
+  {
+    "id": "120",
+    "start": 794305,
+    "end": 796238,
+    "enText": "You okay? Oh, yeah. Never better.",
+    "ruText": "Ты в порядке? О, да. Лучше не бывает."
+  },
+  {
+    "id": "121",
+    "start": 798412,
+    "end": 800173,
+    "enText": "Forty-three. So, how'd it go with the boat?",
+    "ruText": "Сорок три. Ну, как все прошло с лодкой?"
+  },
+  {
+    "id": "122",
+    "start": 800794,
+    "end": 806351,
+    "enText": "Oh, uh... They said they can fix the motor, but it's not for me.",
+    "ruText": "Ой, э-э... Мотор ещё можно починить, но это не для меня. "
+  },
+  {
+    "id": "123",
+    "start": 806455,
+    "end": 809009,
+    "enText": "I mean, we're supposed to be doing stuff together anyway, right?",
+    "ruText": "Лучше нам проводить время вместе, так?"
+  },
+  {
+    "id": "124",
+    "start": 809113,
+    "end": 812623,
+    "enText": "Thirty-one. You want to watch a movie? The next winning number is...",
+    "ruText": "Тридцать один. Тогда глянем фильм? Следующее число..."
+  },
+  {
+    "id": "125",
+    "start": 812633,
+    "end": 819916,
+    "enText": "Oh... No, I didn't mean right now. Ten. Well, so, when? Well, I don't know.",
+    "ruText": "Ну, то есть, не прямо сейчас. Десять. Тогда когда? Я не знаю."
+  },
+  {
+    "id": "126",
+    "start": 820020,
+    "end": 824472,
+    "enText": "I'm watching a program. You're watching this? No.",
+    "ruText": "Я программу смотрю. Ты смотришь это? Нет."
+  },
+  {
+    "id": "127",
+    "start": 838383,
+    "end": 844493,
+    "enText": "Forty-three, 31, 10, and 32. And we hope you're a winner.",
+    "ruText": "Сорок три, тридцать один, десять и тридцать два. Надеюсь, вы победитель."
+  },
+  {
+    "id": "128",
+    "start": 845356,
+    "end": 856332,
+    "enText": "That's one's four. Twenty-one, 28. Sixteen.",
+    "ruText": "Один... Это четыре. Двадцать один, двадцать восемь. Шестнадцать."
+  },
+  {
+    "id": "129",
+    "start": 868172,
+    "end": 870864,
+    "enText": "Problem is, nobody knows about this town.",
+    "ruText": "Проблема в том, что наш город никому не известен."
+  },
+  {
+    "id": "130",
+    "start": 870967,
+    "end": 876214,
+    "enText": "Evart should start selling houses for a dollar, like they do in Tuscany. Lure people here.",
+    "ruText": "Нужно продавать дома в Эварте за доллар, прямо как в Тоскане. Заманить сюда людей."
+  },
+  {
+    "id": "131",
+    "start": 876318,
+    "end": 878016,
+    "enText": "We can live in Tuscany for a dollar?",
+    "ruText": "Можно жить в Тоскане за доллар?"
+  },
+  {
+    "id": "132",
+    "start": 878020,
+    "end": 880770,
+    "enText": "Well, a Euro. That's a dollar.",
+    "ruText": "Ну, за евро. Это доллар. "
+  },
+  {
+    "id": "133",
+    "start": 880874,
+    "end": 882807,
+    "enText": "No, a little more than that.",
+    "ruText": "Нет, чуть-чуть больше."
+  },
+  {
+    "id": "134",
+    "start": 882910,
+    "end": 884464,
+    "enText": "Jerry, how much is a Euro?",
+    "ruText": "Джерри, сколько сейчас евро?"
+  },
+  {
+    "id": "135",
+    "start": 887933,
+    "end": 898236,
+    "enText": "Jerry. Oh. Sorry. Mmm. Full house.",
+    "ruText": "Джерри. А. Простите. Фулл-хаус."
+  },
+  {
+    "id": "136",
+    "start": 898795,
+    "end": 901929,
+    "enText": "We're playing gin. Oh.",
+    "ruText": "Мы играем в джин. А."
+  },
+  {
+    "id": "137",
+    "start": 907822,
+    "end": 914494,
+    "enText": "Thank you so much. All right. Well, goodnight. Goodnight. Take care. Have a good walk home. Okay.",
+    "ruText": "Спасибо вам. Ага. Спокойной ночи. И вам. Удачи. Не заблудитесь. Ладно."
+  },
+  {
+    "id": "138",
+    "start": 915391,
+    "end": 922433,
+    "enText": "Gin, or poker, or cribbage, I get confused by them all. You don't care. Scrabble. Scrabble next. All right, night.",
+    "ruText": "Джин, покер, криббедж, я ведь постоянно их путаю. Конечно, конечно. Скрэббл! Ещё скрэббл. Доброй ночи."
+  },
+  {
+    "id": "139",
+    "start": 924331,
+    "end": 928542,
+    "enText": "You're going to have to tell me what's going on. I'm too old to wait it out.",
+    "ruText": "Я жду объяснений происходящего с тобой. И я слишком стара, чтобы ждать."
+  },
+  {
+    "id": "140",
+    "start": 931752,
+    "end": 936343,
+    "enText": "Oh... I missed my chance.",
+    "ruText": " Я упустил свой шанс."
+  },
+  {
+    "id": "141",
+    "start": 938863,
+    "end": 940520,
+    "enText": "I did everything I was supposed to do.",
+    "ruText": "Я сделал всё, что должен был."
+  },
+  {
+    "id": "142",
+    "start": 941314,
+    "end": 942591,
+    "enText": "Everything I had to do.",
+    "ruText": "Всё, что надо было."
+  },
+  {
+    "id": "143",
+    "start": 944109,
+    "end": 946491,
+    "enText": "Now it's too late to do anything else.",
+    "ruText": "Теперь уже поздно для чего-то нового."
+  },
+  {
+    "id": "144",
+    "start": 947561,
+    "end": 950599,
+    "enText": "Oh, your life isn't over.",
+    "ruText": "Ну, твоя жизнь далека от конца."
+  },
+  {
+    "id": "145",
+    "start": 955362,
+    "end": 957330,
+    "enText": "Everybody seems to think it is.",
+    "ruText": "А все думают, что это конец."
+  },
+  {
+    "id": "146",
+    "start": 957847,
+    "end": 963025,
+    "enText": "Well... Heck, I can do anything.",
+    "ruText": "Ну... Я способен на многое."
+  },
+  {
+    "id": "147",
+    "start": 963128,
+    "end": 965993,
+    "enText": "I'd still be at the factory if they didn't cut my line.",
+    "ruText": "Даже продолжил бы работу, не закрой они конвейер."
+  },
+  {
+    "id": "148",
+    "start": 967926,
+    "end": 973656,
+    "enText": "But instead... These are my golden years.",
+    "ruText": "Но вместо этого... я переживаю свои золотые годы."
+  },
+  {
+    "id": "149",
+    "start": 973760,
+    "end": 978265,
+    "enText": "Yeah, just because things didn't work out the way you wanted, doesn't mean they won't.",
+    "ruText": "То, что всё пошло не так, как в твоём плане, не значит, что это не изменится."
+  },
+  {
+    "id": "150",
+    "start": 978468,
+    "end": 987359,
+    "enText": "Good luck happens, same as bad. What?",
+    "ruText": "Везение приходит и уходит. Что?"
+  },
+  {
+    "id": "151",
+    "start": 988361,
+    "end": 994298,
+    "enText": "Good luck, it happens same as bad? Yeah. It's just math. Yeah.",
+    "ruText": "Везение приходит и уходит? Да. Математика."
+  },
+  {
+    "id": "152",
+    "start": 994401,
+    "end": 1002202,
+    "enText": "What? Oh, man. What a dummy. Not you. Me. You're a genius.",
+    "ruText": "Что? Вот чёрт, ну и тупица. Не ты. Я. Ты мой гений."
+  },
+  {
+    "id": "153",
+    "start": 1004031,
+    "end": 1009585,
+    "enText": "Sample size. That is where I went wrong.",
+    "ruText": "Объём выборки. Именно в нём я просчитался."
+  },
+  {
+    "id": "154",
+    "start": 1009589,
+    "end": 1014594,
+    "enText": "I didn't calculate the frequency of probability. It's just math.",
+    "ruText": "Просто не рассчитал частоту вероятности. Математика."
+  },
+  {
+    "id": "155",
+    "start": 1014697,
+    "end": 1021673,
+    "enText": "Oh, I don't like math. Oh. Oh, I'm sorry. Here, let me show you...",
+    "ruText": "Я не люблю математику. О. Ну, прости. Позволь показать..."
+  },
+  {
+    "id": "156",
+    "start": 1021677,
+    "end": 1029540,
+    "enText": "Here. So, if you take a coin and you flipped it 1,000 times, you might still get 60% heads.",
+    "ruText": "Вот. Если взять монетку и подбросить её тысячу раз, в шестидесяти процентах случаев тебе выпадет орёл."
+  },
+  {
+    "id": "157",
+    "start": 1029643,
+    "end": 1036063.0000000001,
+    "enText": "But if you flipped it 5,000 times, the probability gets closer to 50%.",
+    "ruText": "Но если бросить её пять тысяч раз, тогда вероятность приблизится к пятидесяти процентам."
+  },
+  {
+    "id": "158",
+    "start": 1036166.9999999999,
+    "end": 1040204.9999999999,
+    "enText": "The sample has to be large enough to take luck out of the equation.",
+    "ruText": "Выборка должна быть достаточно большой, чтобы выкинуть удачу из уравнения."
+  },
+  {
+    "id": "159",
+    "start": 1040309,
+    "end": 1043242.9999999999,
+    "enText": "And this is for you.",
+    "ruText": "А это для тебя."
+  },
+  {
+    "id": "160",
+    "start": 1044070.9999999999,
+    "end": 1049387,
+    "enText": "Are you depositing a penny? No. No.",
+    "ruText": "Вы вносите один пенни? Нет. Нет."
+  },
+  {
+    "id": "161",
+    "start": 1049767,
+    "end": 1056636,
+    "enText": "No. Uh... I wanna make a withdrawal. $4,200.",
+    "ruText": "Нет, э-э, я-я хочу снять деньги. Четыре тысячи двести долларов."
+  },
+  {
+    "id": "162",
+    "start": 1058327,
+    "end": 1060050,
+    "enText": "Oh, and how much does that leave us with?",
+    "ruText": "Сколько в итоге остаётся?"
+  },
+  {
+    "id": "163",
+    "start": 1060087,
+    "end": 1066300,
+    "enText": "I am checking. A little over four.",
+    "ruText": "Сейчас проверю... Чуть больше четырёх."
+  },
+  {
+    "id": "164",
+    "start": 1066715,
+    "end": 1074688,
+    "enText": "Okay. Make it six, then. Six? Mmm-hmm.",
+    "ruText": "Ладно. Тогда сними шесть. Шесть?"
+  },
+  {
+    "id": "165",
+    "start": 1082247,
+    "end": 1090203,
+    "enText": "Eight? Eight? $8,000. Are you sure? Hmm.",
+    "ruText": "Восемь. Восемь? Восемь тысяч. Уверены?"
+  },
+  {
+    "id": "166",
+    "start": 1092613,
+    "end": 1103407,
+    "enText": "Ninety-eight. Ninety-nine. Eight thousand.",
+    "ruText": "Девяносто восемь. Девяносто девять. Восемь тысяч."
+  },
+  {
+    "id": "167",
+    "start": 1105388,
+    "end": 1109653,
+    "enText": "Thank you, Midge. There we go. Bye-bye.",
+    "ruText": "Спасибо, Мидж. Теперь всё. До встречи."
+  },
+  {
+    "id": "168",
+    "start": 1111656,
+    "end": 1115077,
+    "enText": "You know, every town has a thing. We need a thing.",
+    "ruText": "В каждом городе есть фишка. Нам нужна фишка."
+  },
+  {
+    "id": "169",
+    "start": 1115280,
+    "end": 1119430,
+    "enText": "What happened to jazz fest? Well, we couldn't keep the stage up to code.",
+    "ruText": "Куда пропал фестиваль джаза? У нас не получилось починить сцену."
+  },
+  {
+    "id": "170",
+    "start": 1119733,
+    "end": 1123427,
+    "enText": "Oh, one of those clogger girls fell right through. Oh, yeah.",
+    "ruText": "Под одной из танцовщиц провалился пол. А, точно."
+  },
+  {
+    "id": "171",
+    "start": 1123430,
+    "end": 1125007,
+    "enText": "Jazz fest made money, too.",
+    "ruText": "С фестиваля шли деньги."
+  },
+  {
+    "id": "172",
+    "start": 1125011,
+    "end": 1127741,
+    "enText": "I mean, not that year, because the girl sued us. Yeah.",
+    "ruText": "Ну, не в тот год, ведь она нас засудила. Да."
+  },
+  {
+    "id": "173",
+    "start": 1127845,
+    "end": 1130157,
+    "enText": "She was upset 'cause we were still clapping.",
+    "ruText": "Её разозлило то, что мы аплодировали."
+  },
+  {
+    "id": "174",
+    "start": 1130261,
+    "end": 1132159,
+    "enText": "We thought it was part of the show.",
+    "ruText": "Решили, что это часть шоу."
+  },
+  {
+    "id": "175",
+    "start": 1132263,
+    "end": 1137175,
+    "enText": "Oh. By the way, a bunch of us are pooling money for the lottery tonight.",
+    "ruText": "Кстати говоря, мы сегодня откладываем деньги на лотерею."
+  },
+  {
+    "id": "176",
+    "start": 1137279,
+    "end": 1140029,
+    "enText": "They're doing that roll down thing, where you can win more.",
+    "ruText": "Там идёт ролл-даун, повышенный шанс выигрыша."
+  },
+  {
+    "id": "177",
+    "start": 1140133,
+    "end": 1143001,
+    "enText": "We're not lottery people. That's probably for the best.",
+    "ruText": "Мы не любим лотереи. Думаю, это к лучшему."
+  },
+  {
+    "id": "178",
+    "start": 1143005,
+    "end": 1146519,
+    "enText": "You know, there are some people who blow thousands on those things?",
+    "ruText": "Некоторые спускают на таких вещах тысячи."
+  },
+  {
+    "id": "179",
+    "start": 1146622,
+    "end": 1154423,
+    "enText": "You all right? Here we go. What's the matter? Take the drink. Down the wrong pipe. Eating too fast. Yeah.",
+    "ruText": "Ты в порядке? Ты как? Что такое? Попей. Поперхнулся. Поторопился. Да."
+  },
+  {
+    "id": "180",
+    "start": 1157564,
+    "end": 1180552,
+    "enText": "Ooh. Four. Whoo.",
+    "ruText": " Четыре."
+  },
+  {
+    "id": "181",
+    "start": 1201995,
+    "end": 1207259,
+    "enText": "I mean, it's like a regular travel agent, but it's online, so people can act like animals when something doesn't work out.",
+    "ruText": "Я будто обычный турагент, только онлайн, и люди ведут себя по свински, когда что-то идёт не так."
+  },
+  {
+    "id": "182",
+    "start": 1207269,
+    "end": 1208995,
+    "enText": "Hey, you should be traveling.",
+    "ruText": "Тогда путешествуй сам."
+  },
+  {
+    "id": "183",
+    "start": 1209098,
+    "end": 1213227,
+    "enText": "You and Wendy used to go on all these cruises and come back and call everything port and starboard.",
+    "ruText": "Вы с Вэнди раньше ездили в круизы, возвращались и измеряли всё в узлах."
+  },
+  {
+    "id": "184",
+    "start": 1213237,
+    "end": 1214473,
+    "enText": "I didn't even know which was which.",
+    "ruText": "Я даже не знал, сколько это."
+  },
+  {
+    "id": "185",
+    "start": 1214483,
+    "end": 1219039,
+    "enText": "Depends which ocean you're on. Hmm. No. No. Yep.",
+    "ruText": "Это зависит от океана. Нет. Нет. Ага."
+  },
+  {
+    "id": "186",
+    "start": 1219143,
+    "end": 1220834,
+    "enText": "She'd want you to have fun.",
+    "ruText": "Она хочет развеяться."
+  },
+  {
+    "id": "187",
+    "start": 1220938,
+    "end": 1224493,
+    "enText": "It's been three years. Oh, brats. Brats and burgers. All?",
+    "ruText": "Прошло три года. Сосиски. Сосиски и бургеры. А?"
+  },
+  {
+    "id": "188",
+    "start": 1224597,
+    "end": 1227392,
+    "enText": "With cheese on it. Okay. Brats and... Oh. Cheddar?",
+    "ruText": "С сыром. Ладно. Сосиски... О. Чеддер?"
+  },
+  {
+    "id": "189",
+    "start": 1227496,
+    "end": 1229291,
+    "enText": "Doug, would you watch the grill for a second?",
+    "ruText": "Даг, можешь приглядеть за грилем?"
+  },
+  {
+    "id": "190",
+    "start": 1229394,
+    "end": 1231362,
+    "enText": "See? This is a good time. Huh?",
+    "ruText": "А вы тут веселитесь, да?"
+  },
+  {
+    "id": "191",
+    "start": 1231465,
+    "end": 1233157,
+    "enText": "Mmm. I told you it'd be worth the drive.",
+    "ruText": "Говорил же, не пожалеешь."
+  },
+  {
+    "id": "192",
+    "start": 1233260,
+    "end": 1235953,
+    "enText": "No, you said you didn't know how many weekends you have left.",
+    "ruText": "Нет, ты говорил, что не знаешь, сколько ещё проживёшь."
+  },
+  {
+    "id": "193",
+    "start": 1236056,
+    "end": 1240405,
+    "enText": "Well, I don't. Yeah, but the math works.",
+    "ruText": "Я и не знаю. Да, но сама посчитай."
+  },
+  {
+    "id": "194",
+    "start": 1240509,
+    "end": 1245031,
+    "enText": "Drive for two hours, get a free burger. Offsets the cost of gas. I don't eat meat, Dad.",
+    "ruText": "Проедешь два часа - бесплатный бургер, минус стоимость бензина. Я не ем мясо, пап."
+  },
+  {
+    "id": "195",
+    "start": 1245134,
+    "end": 1249380,
+    "enText": "Oh, right. I'll get the chicken. No, that's still meat. Okay.",
+    "ruText": "Точно. Схожу за курицей. Нет, это тоже мясо! Ладно."
+  },
+  {
+    "id": "196",
+    "start": 1250001,
+    "end": 1255041,
+    "enText": "Is he okay? He just doesn't know the formula for \"I miss you.\"",
+    "ruText": "Он в порядке? Он просто не знает формулы для фразы \"я скучаю\"."
+  },
+  {
+    "id": "197",
+    "start": 1255144,
+    "end": 1256411,
+    "enText": "It is more fun when you're here.",
+    "ruText": "С тобой гораздо веселее."
+  },
+  {
+    "id": "198",
+    "start": 1256421,
+    "end": 1260149,
+    "enText": "I know, but you and Dad, you gotta have fun together. Yeah.",
+    "ruText": "Я знаю, но вы с папой должны веселиться сами. Да. "
+  },
+  {
+    "id": "199",
+    "start": 1260253,
+    "end": 1263256,
+    "enText": "I know you've waited a really long time for him to retire. I know.",
+    "ruText": "Я знаю, ты так ждала его выхода на пенсию. Точно."
+  },
+  {
+    "id": "200",
+    "start": 1263359,
+    "end": 1265503,
+    "enText": "I know. We need to work on it.",
+    "ruText": "Ждала. Мы над этим работаем."
+  },
+  {
+    "id": "201",
+    "start": 1265507,
+    "end": 1268682,
+    "enText": "I can't even remember the last time that we had...",
+    "ruText": "Я даже не помню, когда у нас в последний раз был..."
+  },
+  {
+    "id": "202",
+    "start": 1268786,
+    "end": 1273119,
+    "enText": "You know? What? Yeah. Oh, no, that's okay. I don't need to hear about...",
+    "ruText": "Ну знаешь... Что? Да. Ой, нет, прости. Я не хочу слушать..."
+  },
+  {
+    "id": "203",
+    "start": 1273215,
+    "end": 1278167,
+    "enText": "Honey. I'm gonna get a beer. Okay? Okay. We'll work on it.",
+    "ruText": "Милая. Сбегаю за пивом. Хорошо? Ладно. Но мы исправимся. "
+  },
+  {
+    "id": "204",
+    "start": 1278271,
+    "end": 1281585,
+    "enText": "I'm thinking about it anyway. Okay. I wish he would.",
+    "ruText": "Я подумаю, как именно. Ясно. Надеюсь, он тоже."
+  },
+  {
+    "id": "205",
+    "start": 1286486,
+    "end": 1289144,
+    "enText": "No, Lizzy, Lizzy, Lizzy! No, no, no, no, Liz.",
+    "ruText": "Нет, Лиззи, Лиззи, Лиззи! Нет-нет-нет-нет, Лиз."
+  },
+  {
+    "id": "206",
+    "start": 1289247,
+    "end": 1291215,
+    "enText": "Let's not... Let's not open that.",
+    "ruText": "Давай не будем его открывать."
+  },
+  {
+    "id": "207",
+    "start": 1291318,
+    "end": 1298774,
+    "enText": "Why? I want the popcorn. I know. I know. But this... this popcorn's very stale. Ugh. I like stale.",
+    "ruText": "Почему? Я хочу попкорн. Знаю, знаю. Но этот попкорн очень старый. Я люблю старый."
+  },
+  {
+    "id": "208",
+    "start": 1298878,
+    "end": 1304746,
+    "enText": "Well, but this is full of sugar. It's no good for you. I saw you eat seven Oreos.",
+    "ruText": "Но в нём много сахара, тебе будет вредно столько. Я видела, как ты съел семь Орео."
+  },
+  {
+    "id": "209",
+    "start": 1306092,
+    "end": 1308853,
+    "enText": "You want an Oreo? You ate them all, Pop Pop.",
+    "ruText": "Хочешь Орео? Ты их все съел, дедушка."
+  },
+  {
+    "id": "210",
+    "start": 1310303,
+    "end": 1314618,
+    "enText": "Okay. All right. Uh... Let me just have it for one minute.",
+    "ruText": "Хорошо. Так, э-э, отдай мне его на одну минутку."
+  },
+  {
+    "id": "211",
+    "start": 1314721,
+    "end": 1318905,
+    "enText": "Pop Pop will give it back to you. I promise. You trust Pop Pop now, right?",
+    "ruText": "Дедушка скоро вернёт его, обещаю. Ты же веришь дедушке, так ведь?"
+  },
+  {
+    "id": "212",
+    "start": 1318908,
+    "end": 1322626,
+    "enText": "Let me just take one minute. And I'll be right out.",
+    "ruText": "Дай мне одну минутку. Я скоро вернусь."
+  },
+  {
+    "id": "213",
+    "start": 1337226,
+    "end": 1343508,
+    "enText": "Here you go. Take. Thanks, Pop Pop. Yep.",
+    "ruText": "Она твоя. Вот. Спасибо, дедушка. Ага."
+  },
+  {
+    "id": "214",
+    "start": 1360874,
+    "end": 1364368,
+    "enText": "Something you wanna tell me? What?",
+    "ruText": "Ничего мне не скажешь? Что?"
+  },
+  {
+    "id": "215",
+    "start": 1364571,
+    "end": 1372676,
+    "enText": "The pantry. I'm playing the lottery.",
+    "ruText": "Кладовка. Я играю в лотерею."
+  },
+  {
+    "id": "216",
+    "start": 1374608,
+    "end": 1376783,
+    "enText": "I meant the empty bag of Oreos.",
+    "ruText": "Я говорила про пустую пачку Орео."
+  },
+  {
+    "id": "217",
+    "start": 1380487,
+    "end": 1384480,
+    "enText": "I'm playing the lottery, and I'm winning.",
+    "ruText": "Я играю в лотерею и выигрываю."
+  },
+  {
+    "id": "218",
+    "start": 1384584,
+    "end": 1387760,
+    "enText": "I figured out the math, and I won $15,000.",
+    "ruText": "Я всё просчитал и выиграл пятнадцать тысяч долларов."
+  },
+  {
+    "id": "219",
+    "start": 1387863,
+    "end": 1393075,
+    "enText": "It's stuffed inside the Frosted Mini-Wheats box. Wow.",
+    "ruText": "Они лежат в коробке из-под хлопьев Мини-Уитс. Ого."
+  },
+  {
+    "id": "220",
+    "start": 1398574,
+    "end": 1403983,
+    "enText": "I gave $20 to Shirley's lottery pool. I guess it's not such a big deal now.",
+    "ruText": "Я отдала Ширли двадцать долларов на лотерею, и кажется, теперь это уже не важно."
+  },
+  {
+    "id": "221",
+    "start": 1405792,
+    "end": 1409436,
+    "enText": "I... I had to try it.",
+    "ruText": "Я... решил попробовать."
+  },
+  {
+    "id": "222",
+    "start": 1409540,
+    "end": 1415304,
+    "enText": "I... I found this flaw in the game, and I had to find out if I was right.",
+    "ruText": "Я нашёл один изъян в этой игре, и хотел убедиться, не ошибся ли я."
+  },
+  {
+    "id": "223",
+    "start": 1415308,
+    "end": 1420827,
+    "enText": "Well, why didn't you just tell me? I... felt silly.",
+    "ruText": "Почему ты ничего не сказал? Чувствовал себя глупо."
+  },
+  {
+    "id": "224",
+    "start": 1420931,
+    "end": 1426902,
+    "enText": "We barely have enough money to retire on as it is, and... This is no time to risk it.",
+    "ruText": "У нас и так мало денег, чтобы провести последние годы, и... рисковать не время."
+  },
+  {
+    "id": "225",
+    "start": 1429118,
+    "end": 1432218,
+    "enText": "Yes, it is. What? It's time to risk it.",
+    "ruText": "Это не так. Что? Пришло время рискнуть."
+  },
+  {
+    "id": "226",
+    "start": 1432321,
+    "end": 1435739,
+    "enText": "Because right now we're losing something that matters even more.",
+    "ruText": "Потому что мы теряем кое-что поважнее денег."
+  },
+  {
+    "id": "227",
+    "start": 1436578,
+    "end": 1441572,
+    "enText": "I've waited 40 years for it to be just us, and so far we kind of suck at it.",
+    "ruText": "Я ждала сорок лет, пока мы останемся вдвоём, и пока что всё достаточно хреново."
+  },
+  {
+    "id": "228",
+    "start": 1442676,
+    "end": 1446660,
+    "enText": "We have Jeopardy. Oh, that's not a thing. Jerry!",
+    "ruText": "А телевизор? Да это всё херня, Джерри!"
+  },
+  {
+    "id": "229",
+    "start": 1446964,
+    "end": 1451582,
+    "enText": "I wanna have fun. I wanna have fun.",
+    "ruText": "Я хочу веселиться. Я хочу веселиться."
+  },
+  {
+    "id": "230",
+    "start": 1453809,
+    "end": 1457143,
+    "enText": "Let's be a little stupid. Huh?",
+    "ruText": "Давай побудем глупцами, а?"
+  },
+  {
+    "id": "231",
+    "start": 1457146,
+    "end": 1460833,
+    "enText": "We got married when we were 17, so we know how to do it.",
+    "ruText": "Мы поженились в семнадцать лет, что-то мы в этом понимаем."
+  },
+  {
+    "id": "232",
+    "start": 1462282,
+    "end": 1467529,
+    "enText": "Well, that's true. We need something for us.",
+    "ruText": "Это точно. Нам нужно нечто своё."
+  },
+  {
+    "id": "233",
+    "start": 1468903,
+    "end": 1477684,
+    "enText": "I didn't think it would be playing the lottery, but I'd rob a bank if it gave us something to talk about. Okay.",
+    "ruText": "Я не думала, что это будет лотерея, но я бы банк ограбила, лишь бы нам было, о чём поговорить. Ладно."
+  },
+  {
+    "id": "234",
+    "start": 1477688,
+    "end": 1481798,
+    "enText": "$15,000? Yep.",
+    "ruText": "Пятнадцать тысяч долларов? Ага."
+  },
+  {
+    "id": "235",
+    "start": 1484028,
+    "end": 1488964,
+    "enText": "If we bet the whole $15,000... Oh, we should. Let's bet it all. You think?",
+    "ruText": "Если мы поставим все пятнадцать тысяч... А давай. Поставим всё. Думаешь?"
+  },
+  {
+    "id": "236",
+    "start": 1489068,
+    "end": 1491940,
+    "enText": "Yeah, 'cause I was thinking the same thing. It's right...",
+    "ruText": "Я думал в том же ключе, нам как раз сю..."
+  },
+  {
+    "id": "237",
+    "start": 1491943,
+    "end": 1496661,
+    "enText": "No. No, no, no, no. Leon, what happened to WinFall?",
+    "ruText": "Нет. Нет, нет, нет, нет. Леон, куда делся Уинфолл?"
+  },
+  {
+    "id": "238",
+    "start": 1496765,
+    "end": 1501321,
+    "enText": "Oh, they... they phased it out. What? It's gone, just like that?",
+    "ruText": "А, ну, его убрали. Что? Убрали? Вот так просто?"
+  },
+  {
+    "id": "239",
+    "start": 1501425,
+    "end": 1504044,
+    "enText": "You don't play anyway, do you? No.",
+    "ruText": "Вы же всё равно не играете? Нет."
+  },
+  {
+    "id": "240",
+    "start": 1504044,
+    "end": 1508225,
+    "enText": "Yeah, well, I guess people will just have to play the one in Massachusetts now.",
+    "ruText": "Ну, видимо, теперь людям придётся ради этого гонять в Массачусетс."
+  },
+  {
+    "id": "241",
+    "start": 1510710,
+    "end": 1513402,
+    "enText": "The math works. You can see that. You're an accountant.",
+    "ruText": "Расчёты верны, ты же видишь, ты бухгалтер."
+  },
+  {
+    "id": "242",
+    "start": 1513506,
+    "end": 1517717,
+    "enText": "Yeah. I mean... I mean, it looks right. And Massachusetts isn't that far.",
+    "ruText": "Да. То есть... Похоже на то. И Массачусетс не так далеко."
+  },
+  {
+    "id": "243",
+    "start": 1517821,
+    "end": 1520876,
+    "enText": "No, it's only about a 10-hour drive if our truck doesn't break down.",
+    "ruText": "Ну да, примерно десять часов, если наш пикап выдержит дорогу."
+  },
+  {
+    "id": "244",
+    "start": 1521479,
+    "end": 1524524,
+    "enText": "If it does, we'll get a ride. Yeah. From whom?",
+    "ruText": "А если нет, поймаем попутку. Да. Какую?"
+  },
+  {
+    "id": "245",
+    "start": 1524528,
+    "end": 1526864,
+    "enText": "Truckers. Yeah, they're always looking for company.",
+    "ruText": "Дальнобойщики. Да, они любят людей."
+  },
+  {
+    "id": "246",
+    "start": 1526968,
+    "end": 1529311,
+    "enText": "To murder. We'll jump out if it gets weird.",
+    "ruText": "Убивать. Выпрыгнем, если что."
+  },
+  {
+    "id": "247",
+    "start": 1529315,
+    "end": 1532211,
+    "enText": "And they won't even know that we have a duffle bag full of cash.",
+    "ruText": "Они и не догадаются, что у нас рюкзак, полный нала."
+  },
+  {
+    "id": "248",
+    "start": 1532214,
+    "end": 1534423,
+    "enText": "Yeah, we'll keep that zipped up.",
+    "ruText": "Да, главное не открывать его."
+  },
+  {
+    "id": "249",
+    "start": 1534527,
+    "end": 1540188,
+    "enText": "All right. All right, what? I'm in, too. You sure? No.",
+    "ruText": "Ладно. Ладно? Ты о чём? Я тоже в деле. Уверен? Нет."
+  },
+  {
+    "id": "250",
+    "start": 1540291,
+    "end": 1543577,
+    "enText": "But what the hell? Put me in for 1,000.",
+    "ruText": "Но какого хрена? Подкину тысячу."
+  },
+  {
+    "id": "251",
+    "start": 1543881,
+    "end": 1545883,
+    "enText": "I just got a cruise I gotta cancel now.",
+    "ruText": "Отменю круиз, да и хрен с ним."
+  },
+  {
+    "id": "252",
+    "start": 1561061,
+    "end": 1567353,
+    "enText": "Hey. Got our dinner. Yeah. We're going to need three days of food.",
+    "ruText": "Привет. Принесла обед. Да. Надо запастись едой на три дня."
+  },
+  {
+    "id": "253",
+    "start": 1567478,
+    "end": 1571081,
+    "enText": "Oh. And I found us a small town to play in.",
+    "ruText": "И я нашла нам небольшой городок."
+  },
+  {
+    "id": "254",
+    "start": 1571633,
+    "end": 1573704,
+    "enText": "Yeah, keep things quiet.",
+    "ruText": "Да, чтобы не шуметь."
+  },
+  {
+    "id": "255",
+    "start": 1573807,
+    "end": 1577570,
+    "enText": "You know, like how I park a block away at a good garage sale.",
+    "ruText": "Я так же обычно паркуюсь в квартале от распродажи."
+  },
+  {
+    "id": "256",
+    "start": 1577573,
+    "end": 1584108,
+    "enText": "Yeah? Oh. Move. You got a ham radio? What?",
+    "ruText": "Да? В сторону. У нас есть рация? Что? "
+  },
+  {
+    "id": "257",
+    "start": 1584411,
+    "end": 1586510,
+    "enText": "Ham radio. We're gonna hit some dead zones.",
+    "ruText": "Нужна рация, связь будет плохо ловить."
+  },
+  {
+    "id": "258",
+    "start": 1586613,
+    "end": 1589616,
+    "enText": "I suppose I can go to Ace... Wait a minute.",
+    "ruText": "Ну, я могу сходить в Эйс, или может... Погоди-ка."
+  },
+  {
+    "id": "259",
+    "start": 1590690,
+    "end": 1597003,
+    "enText": "How are we on batteries? Uh... I... Ah.",
+    "ruText": "У нас есть батарейки? Э-э, я... Я... "
+  },
+  {
+    "id": "260",
+    "start": 1597107,
+    "end": 1600973,
+    "enText": "Okay. Let's get some more. Just in case.",
+    "ruText": "Ладно. Давай купим побольше. На всякий случай."
+  },
+  {
+    "id": "261",
+    "start": 1601076,
+    "end": 1603113,
+    "enText": "Feels like we really are robbing a bank.",
+    "ruText": "У меня чувство, будто мы грабим банк."
+  },
+  {
+    "id": "262",
+    "start": 1603216,
+    "end": 1606364,
+    "enText": "Nah. It's gonna be more fun. You take that.",
+    "ruText": "Не. Будет гораздо веселее. Возьми его."
+  },
+  {
+    "id": "263",
+    "start": 1606368,
+    "end": 1612536,
+    "enText": "Here are the keys. All right. I got the coupons.",
+    "ruText": "Вот ключи. Ладно. Возьму купоны... "
+  },
+  {
+    "id": "264",
+    "start": 1612639,
+    "end": 1617303,
+    "enText": "All right. You grab that. Oh, now? Oh. Let's go.",
+    "ruText": "Бери контейнер. Что, сейчас? Вперёд!"
+  },
+  {
+    "id": "265",
+    "start": 1617206,
+    "end": 1619405,
+    "enText": "Can I get dressed first?",
+    "ruText": "Можно мне сначала одеться?"
+  },
+  {
+    "id": "266",
+    "start": 1626757,
+    "end": 1635386,
+    "enText": "You have cookies?",
+    "ruText": "Печенье есть?"
+  },
+  {
+    "id": "267",
+    "start": 1671905,
+    "end": 1673283,
+    "enText": "Doesn't look like much.",
+    "ruText": "Выглядит не очень."
+  },
+  {
+    "id": "268",
+    "start": 1673386,
+    "end": 1676393,
+    "enText": "Well, all we need is a ticket machine, right?",
+    "ruText": "Ну, нам ведь нужен только билетный автомат, да?"
+  },
+  {
+    "id": "269",
+    "start": 1681419,
+    "end": 1685643,
+    "enText": "Hey, kid, those are buy one, get one free, 'cause they're so out of date.",
+    "ruText": "Пацан, они два по цене одного, потому что просроченные."
+  },
+  {
+    "id": "270",
+    "start": 1685647,
+    "end": 1690200,
+    "enText": "They're from 2013, but they'll still turn your mouth blue.",
+    "ruText": "Две тысячи тринадцатый год, но рот в синий всё равно красят."
+  },
+  {
+    "id": "271",
+    "start": 1692098,
+    "end": 1695757,
+    "enText": "Actually, I'm gonna get them first. How can I help you?",
+    "ruText": "Только с этими разберусь. Чем могу помочь?"
+  },
+  {
+    "id": "272",
+    "start": 1695860,
+    "end": 1699174,
+    "enText": "We'd like to buy 8,000 WinFall tickets.",
+    "ruText": "Мы хотим купить восемь тысяч билетов Уинфолл."
+  },
+  {
+    "id": "273",
+    "start": 1701142,
+    "end": 1707389,
+    "enText": "I'm gonna get you first. No way is this enough.",
+    "ruText": "Нет, сначала с тобой. Этого явно мало."
+  },
+  {
+    "id": "274",
+    "start": 1708401,
+    "end": 1711569,
+    "enText": "There's no way that was enough.",
+    "ruText": "Явно было мало."
+  },
+  {
+    "id": "275",
+    "start": 1711573,
+    "end": 1717027,
+    "enText": "Eight thousand WinFall tickets is, like... $29,000.",
+    "ruText": "Восемь тысяч билетов стоит где-то... Двадцать девять тысяч долларов."
+  },
+  {
+    "id": "276",
+    "start": 1717030,
+    "end": 1719988,
+    "enText": "No. 16,000. $16,000.",
+    "ruText": "Нет. Шестнадцать тысяч. Шестнадцать тысяч долларов."
+  },
+  {
+    "id": "277",
+    "start": 1720098,
+    "end": 1722887,
+    "enText": "And that is how much we brought.",
+    "ruText": "Именно столько мы и взяли."
+  },
+  {
+    "id": "278",
+    "start": 1724786,
+    "end": 1728100,
+    "enText": "Well, the machine prints 1,000 tickets an hour, so you'll be here all day.",
+    "ruText": "Автомат печатает тысячу билетов в час, вы застряли тут на день."
+  },
+  {
+    "id": "279",
+    "start": 1728103,
+    "end": 1730792,
+    "enText": "And let me tell you from experience, being here all day sucks.",
+    "ruText": "И можете мне поверить, находиться здесь весь день - отстой."
+  },
+  {
+    "id": "280",
+    "start": 1732000,
+    "end": 1739214,
+    "enText": "Because I'm here all day. Well, he's right. It's gonna take eight hours.",
+    "ruText": "Потому что я здесь весь день. Что ж, он прав. Это займет восемь часов."
+  },
+  {
+    "id": "281",
+    "start": 1739846,
+    "end": 1745776,
+    "enText": "I can do it. Let's get rolling. You want us? Yeah, come on. I got work to do.",
+    "ruText": "Я выдержу. Тогда погнали. Мы сами? Да, конечно. Мне работать надо. "
+  },
+  {
+    "id": "282",
+    "start": 1745779,
+    "end": 1749914,
+    "enText": "I'm busy. Well, can you show us how it works? You'll figure it out.",
+    "ruText": "Я занят. Можете показать, как оно работает? Разберётесь."
+  },
+  {
+    "id": "283",
+    "start": 1750018,
+    "end": 1756093,
+    "enText": "Sorry, the motel's not so great. The Pick and Shovel. Perfect name.",
+    "ruText": "Прости, что мотель не очень. \"Кирка и лопата\". Отличное название."
+  },
+  {
+    "id": "284",
+    "start": 1756097,
+    "end": 1758689,
+    "enText": "Because it's what you need to dig a grave.",
+    "ruText": "Всё, что нужно, чтобы выкопать могилу."
+  },
+  {
+    "id": "285",
+    "start": 1758892,
+    "end": 1763204,
+    "enText": "Reminds me of our wedding night. Huh?",
+    "ruText": "Мне вспомнилась ночь нашей свадьбы. Да?"
+  },
+  {
+    "id": "286",
+    "start": 1763307,
+    "end": 1766586,
+    "enText": "My dad gave me enough money to take you to the prom.",
+    "ruText": "Мой отец дал мне денег, чтобы сводить тебя на выпускной."
+  },
+  {
+    "id": "287",
+    "start": 1766690,
+    "end": 1773628,
+    "enText": "But then I thought, \"Heck, the prom ends at midnight, but a marriage, that lasts forever. And it's 20 bucks cheaper.\"",
+    "ruText": "А я подумал: \"Выпускной кончается в полночь, а вот брак длится вечно. И дешевле на двадцать баксов.\" "
+  },
+  {
+    "id": "288",
+    "start": 1773731,
+    "end": 1779012,
+    "enText": "Which you spent on a Days Inn. Oh, on our honeymoon. Yeah.",
+    "ruText": "Которые ты потратил на отель. Да, в наш медовый месяц. Ага."
+  },
+  {
+    "id": "289",
+    "start": 1779116,
+    "end": 1782844,
+    "enText": "Well, I'm glad we're being crazy.",
+    "ruText": "Что ж, я рада, что мы ведем себя как безумцы."
+  },
+  {
+    "id": "290",
+    "start": 1782847,
+    "end": 1787090,
+    "enText": "I'd sleep in the car if I had to. Well, you may have to.",
+    "ruText": "Я и в машине посплю, если надо. Может, в неё и пойдём."
+  },
+  {
+    "id": "291",
+    "start": 1787987,
+    "end": 1797203,
+    "enText": "I don't think this door locks. Oh, it's on, Jerry. Oh, oh, oh, oh. All right.",
+    "ruText": "Наша дверь не запирается. Ой, началось, Джерри. Ой, ой, ой, ой. Итак."
+  },
+  {
+    "id": "292",
+    "start": 1798653,
+    "end": 1803520,
+    "enText": "Oh, you have the... Cross those fingers, our very last lucky number is 21.",
+    "ruText": "Ты можешь, э-э... Скрестите пальцы, наше последнее счастливое число - двадцать один."
+  },
+  {
+    "id": "293",
+    "start": 1803623,
+    "end": 1809526,
+    "enText": "Folks, those numbers, one more time, are 23, 45, 01, 25, 06 and 21.",
+    "ruText": "Дамы и господа, повторяю: двадцать три, сорок пять, один, двадцать пять, шесть и двадцать один."
+  },
+  {
+    "id": "294",
+    "start": 1809629,
+    "end": 1814669,
+    "enText": "All right, folks, check those numbers. We wish you the best of luck. Hopefully this was your week. Okay.",
+    "ruText": "Всё, ребята, проверяйте билеты. Мы желаем вам удачи. Надеюсь, вам повезло. Ладненько."
+  },
+  {
+    "id": "295",
+    "start": 1819501,
+    "end": 1825990,
+    "enText": "Well, we got 8,000 tickets to check. Let's get started.",
+    "ruText": "Теперь нам надо проверить восемь тысяч билетов. Давай начинать. "
+  },
+  {
+    "id": "296",
+    "start": 1826094,
+    "end": 1828096,
+    "enText": "We'll probably see sunrise.",
+    "ruText": "Видимо, мы тут до рассвета."
+  },
+  {
+    "id": "297",
+    "start": 1851526,
+    "end": 1860335,
+    "enText": "The last one is a three-number winner. Oh, good. Okay.",
+    "ruText": "В самом последнем билете совпадают три победных числа. Хорошо. Ладно."
+  },
+  {
+    "id": "298",
+    "start": 1861930,
+    "end": 1865961,
+    "enText": "So we bet 16,000. Mmm-hmm.",
+    "ruText": "Итак, мы поставили шестнадцать тысяч."
+  },
+  {
+    "id": "299",
+    "start": 1867170,
+    "end": 1874491,
+    "enText": "And the two number winners just gives us free tickets, so if we count those as a push...",
+    "ruText": "А билеты с двумя числами делают наши билеты бесплатными, и если посчитать ещё и их... "
+  },
+  {
+    "id": "300",
+    "start": 1874494,
+    "end": 1883013,
+    "enText": "Which means we made... $21,043.",
+    "ruText": "Получается, мы заработали... двадцать одну тысячу сорок три доллара."
+  },
+  {
+    "id": "301",
+    "start": 1883116,
+    "end": 1885843,
+    "enText": "I think we're gonna need more Oreos.",
+    "ruText": "Нам явно надо запастись Орео."
+  },
+  {
+    "id": "302",
+    "start": 1887207,
+    "end": 1891849,
+    "enText": "Yeah, we're all... No, heck. There's a little piece left there for you.",
+    "ruText": "Да, их уже... А, нет. Тебе остался небольшой кусочек."
+  },
+  {
+    "id": "303",
+    "start": 1891953,
+    "end": 1895957,
+    "enText": "No. You sure you don't... No, thank you.",
+    "ruText": "Нет. Уверена, что... Нет, спасибо."
+  },
+  {
+    "id": "304",
+    "start": 1915079,
+    "end": 1920326,
+    "enText": "They just said, \"Congratulations.\" Of course they did.",
+    "ruText": "Они просто сказали: \"Поздравляем\". Естественно."
+  },
+  {
+    "id": "305",
+    "start": 1920330,
+    "end": 1922294,
+    "enText": "It's not against the rules to buy tickets.",
+    "ruText": "Покупать билеты не преступление."
+  },
+  {
+    "id": "306",
+    "start": 1922397,
+    "end": 1928023,
+    "enText": "I thought an alarm would go off and they'd start yelling at me. So did I.",
+    "ruText": "Я думал, сработает сигнализация, и на меня начнут кричать. Я тоже."
+  },
+  {
+    "id": "307",
+    "start": 1929404,
+    "end": 1932304,
+    "enText": "Do you really think we're the only ones who know?",
+    "ruText": "Ты правда думаешь, что мы единственные, кто в курсе?"
+  },
+  {
+    "id": "308",
+    "start": 1951599,
+    "end": 1955844,
+    "enText": "Hey, why are there ultrasonic sensors on our toilet stalls?",
+    "ruText": "Эй, зачем в туалете поставили ультразвуковые датчики?"
+  },
+  {
+    "id": "309",
+    "start": 1955948,
+    "end": 1957398,
+    "enText": "Bathroom vacancy grid.",
+    "ruText": "Радар свободных туалетов."
+  },
+  {
+    "id": "310",
+    "start": 1957501,
+    "end": 1963266,
+    "enText": "I got tired of walking in there and seeing feet under every stall. So, now I know that when the light is green, the toilet is...",
+    "ruText": "Я устал туда ходить и высматривать, где торчат ноги. Теперь я знаю, что если свет зелёный, то туалет..."
+  },
+  {
+    "id": "311",
+    "start": 1963369,
+    "end": 1965368,
+    "enText": "Well, not clean, but nobody is sitting on it.",
+    "ruText": "Ну, не чист, но хотя бы не занят."
+  },
+  {
+    "id": "312",
+    "start": 1965371,
+    "end": 1968304,
+    "enText": "We're supposed to be doing our research projects. I am.",
+    "ruText": "Предполагается, что мы занимаемся нашими исследовательскими проектами. Так и есть."
+  },
+  {
+    "id": "313",
+    "start": 1968374,
+    "end": 1971191,
+    "enText": "Bathroom lights? No. That'd be stupid. I'm doing one on the lottery.",
+    "ruText": "Туалетный свет? Нет, это идиотизм. Я исследую лотерею."
+  },
+  {
+    "id": "314",
+    "start": 1971274,
+    "end": 1974593,
+    "enText": "Ah. That's way more stupid. It's not.",
+    "ruText": "А, ещё идиотичнее. Нет."
+  },
+  {
+    "id": "315",
+    "start": 1974593,
+    "end": 1978429,
+    "enText": "I'm evaluating the exact odds of winning Power ball versus Mega Millions.",
+    "ruText": "Я оцениваю шансы выигрыша в Пауэрболле и в Мега Миллионах."
+  },
+  {
+    "id": "316",
+    "start": 1978833,
+    "end": 1984156,
+    "enText": "Okay. Yeah, it's stupid. Whatever. I'll still get a B. What are these?",
+    "ruText": "Хорошо. Это тупо, плевать, главное получить зачёт. А это что?"
+  },
+  {
+    "id": "317",
+    "start": 1984259,
+    "end": 1986951,
+    "enText": "The smaller state games. I need them for comparison.",
+    "ruText": "Лотереи мелких штатов. Нужны для выборки."
+  },
+  {
+    "id": "318",
+    "start": 1987255,
+    "end": 1989602,
+    "enText": "Sweet. The handicapped stall is open.",
+    "ruText": "Супер. Туалет для инвалидов свободен."
+  },
+  {
+    "id": "319",
+    "start": 2027171,
+    "end": 2033991,
+    "enText": "Jerry, pull over. Come on, pull over. We're only a mile from home. No. You can't hold it?",
+    "ruText": "Джерри, притормози. Остановись. До дома полтора километра. Нет. Не дотерпишь?"
+  },
+  {
+    "id": "320",
+    "start": 2033995,
+    "end": 2038237,
+    "enText": "It's not that. Okay. Okay.",
+    "ruText": "Дело не в этом. Ладно, ладно."
+  },
+  {
+    "id": "321",
+    "start": 2056714,
+    "end": 2060466,
+    "enText": "Marge, how long is this gonna take? 'Cause I actually have to go.",
+    "ruText": "Мардж, надолго мы здесь? Потому что я бы отлучился."
+  },
+  {
+    "id": "322",
+    "start": 2062030,
+    "end": 2065540,
+    "enText": "Did you ever think maybe the world wasn't passing you by?",
+    "ruText": "Ты когда-нибудь думал, что мир справедлив с тобой?"
+  },
+  {
+    "id": "323",
+    "start": 2067266,
+    "end": 2069371,
+    "enText": "Maybe you were meant to be here.",
+    "ruText": "Может, это ты и должен делать."
+  },
+  {
+    "id": "324",
+    "start": 2070221,
+    "end": 2078449,
+    "enText": "To work in the factory and to care about all these people the way you do, because the day would come when you could help them.",
+    "ruText": "Работать на фабрике, по своему заботиться обо всех этих людях, ведь придёт день, когда ты им поможешь."
+  },
+  {
+    "id": "325",
+    "start": 2080776,
+    "end": 2086768,
+    "enText": "What do you mean? Well, you said the more we bet, the better the odds.",
+    "ruText": "Ты это о чём? Ну, ты сказал, чем больше ставим, тем больше шансы."
+  },
+  {
+    "id": "326",
+    "start": 2101218,
+    "end": 2103267,
+    "enText": "I did say that.",
+    "ruText": "Так я и сказал."
+  },
+  {
+    "id": "327",
+    "start": 2109177,
+    "end": 2113081,
+    "enText": "So you wanna start a corporation? Bring in the whole town.",
+    "ruText": "Вы хотите основать корпорацию? Привлечь весь город."
+  },
+  {
+    "id": "328",
+    "start": 2113385,
+    "end": 2118182,
+    "enText": "If we sell shares, we'll have more capital to invest. Go big or go home.",
+    "ruText": "Продадим доли - получим капитал для вложения. Мощно повышаем ставки."
+  },
+  {
+    "id": "329",
+    "start": 2118186,
+    "end": 2122321,
+    "enText": "Then we'll split the profits with the shareholders. Everybody rides.",
+    "ruText": "Потом разделим прибыль с вложившимися. Все в выигрыше."
+  },
+  {
+    "id": "330",
+    "start": 2122425,
+    "end": 2127019,
+    "enText": "Will you stop talking like that? Sorry. I'm just really into it. She's really into it.",
+    "ruText": "Может, прекратишь уже? Прости. Меня слегка занесло. Её сильно занесло."
+  },
+  {
+    "id": "331",
+    "start": 2127022,
+    "end": 2130781,
+    "enText": "Because she knows it'll work. House always wins. Stop it.",
+    "ruText": "Ведь это сработает. Казино всегда в выигрыше! Хватит!"
+  },
+  {
+    "id": "332",
+    "start": 2131924,
+    "end": 2134927,
+    "enText": "You really think people will come in on this? Yup. You did.",
+    "ruText": "Вы думаете, люди согласятся? Да. Ты был за. "
+  },
+  {
+    "id": "333",
+    "start": 2135030,
+    "end": 2137450,
+    "enText": "Yeah, but I'm a depressed widower with nothing to live for.",
+    "ruText": "Да, но я подавленный вдовец без цели в жизни."
+  },
+  {
+    "id": "334",
+    "start": 2137578,
+    "end": 2140235,
+    "enText": "You wanna buy more shares, then? Yes!",
+    "ruText": "Хочешь увеличить свою долю? Да!"
+  },
+  {
+    "id": "335",
+    "start": 2141067,
+    "end": 2144481,
+    "enText": "And that about does it. Any questions?",
+    "ruText": "Думаю, на этом всё. Вопросы есть?"
+  },
+  {
+    "id": "336",
+    "start": 2144585,
+    "end": 2148347,
+    "enText": "So, uh, GS Investment Strategies? That's right.",
+    "ruText": "Так, Инвестиционная Стратегия Джи-Эс? Да, верно."
+  },
+  {
+    "id": "337",
+    "start": 2148351,
+    "end": 2151039,
+    "enText": "We've got a business license and everything.",
+    "ruText": "У нас есть бизнес-лицензия и всё такое."
+  },
+  {
+    "id": "338",
+    "start": 2151143,
+    "end": 2153663,
+    "enText": "Not much of a name. Well, don't worry about the name.",
+    "ruText": "Название такое себе. Пусть оно вас не волнует."
+  },
+  {
+    "id": "339",
+    "start": 2153766,
+    "end": 2156735,
+    "enText": "You need \"lottery\" in there somewhere. Well, the name's not important.",
+    "ruText": "Надо вставить \"лотерея\". Ну, название здесь не важно. "
+  },
+  {
+    "id": "340",
+    "start": 2156838,
+    "end": 2160601,
+    "enText": "It is if you wanna sell the idea. I took a class on marketing.",
+    "ruText": "Важно, если хотите продать идею. Я шарю в маркетинге."
+  },
+  {
+    "id": "341",
+    "start": 2160704,
+    "end": 2166851,
+    "enText": "Well, the idea sells itself. You buy a share for $500 and you make a profit. It's that simple.",
+    "ruText": "Идея продаёт сама себя. Вы покупаете долю за пятьсот долларов и получаете прибыль. Всё очень просто. "
+  },
+  {
+    "id": "342",
+    "start": 2166851,
+    "end": 2171784,
+    "enText": "Do you have a logo? Don't need a logo. Logos help. I have a pig on a tractor.",
+    "ruText": "А логотип есть? Он не нужен. Он поможет. У меня - свинья на тракторе."
+  },
+  {
+    "id": "343",
+    "start": 2172968,
+    "end": 2177272,
+    "enText": "Yeah. Okay, look, you all have known me for years.",
+    "ruText": "Ага. Так, послушайте, вы все знаете меня уже много лет."
+  },
+  {
+    "id": "344",
+    "start": 2177376,
+    "end": 2180344,
+    "enText": "This will work, and it'll help everybody.",
+    "ruText": "Это сработает, и поможет каждому из вас."
+  },
+  {
+    "id": "345",
+    "start": 2180448,
+    "end": 2185729,
+    "enText": "What if we want in, but we're behind on our bills, and don't have enough for a share?",
+    "ruText": "А если мы за, но у нас есть долги, и нам не хватит на вложение?"
+  },
+  {
+    "id": "346",
+    "start": 2185833,
+    "end": 2189388,
+    "enText": "Do you accept other forms of payment? Like what?",
+    "ruText": "Другие формы оплаты принимаете? Это какие?"
+  },
+  {
+    "id": "347",
+    "start": 2202750,
+    "end": 2207164,
+    "enText": "Wait, wait, wait. Got it all right here. Oh, we're in.",
+    "ruText": "Стоп-стоп-стоп. У меня всё здесь. Ой, мы за."
+  },
+  {
+    "id": "348",
+    "start": 2207168,
+    "end": 2211548,
+    "enText": "I've never done anything criminal like this. No, Shirley, it's not criminal.",
+    "ruText": "Никогда не делала ничего противозаконного. Нет, Ширли, тут всё законно."
+  },
+  {
+    "id": "349",
+    "start": 2211652,
+    "end": 2217558,
+    "enText": "We're gonna pay taxes on all the winnings and claim expenses. Jerry's got it all worked out.",
+    "ruText": "Мы вычтем налоги из всех выигрышей и расходов на выплату. Джерри уже всё продумал."
+  },
+  {
+    "id": "350",
+    "start": 2217661,
+    "end": 2220833,
+    "enText": "Your mother and I are going into business.",
+    "ruText": "Мы с твоей мамой начинаем свой бизнес."
+  },
+  {
+    "id": "351",
+    "start": 2220937,
+    "end": 2223595,
+    "enText": "Are you selling her toffee or something?",
+    "ruText": "Ты начал продавать её ириски что ли?"
+  },
+  {
+    "id": "352",
+    "start": 2223698,
+    "end": 2229366,
+    "enText": "No. We're gonna play the lottery. It's 500 a share. Okay.",
+    "ruText": "Нет. Мы будем играть в лотерею. Доля стоит пятьсот. Ладно."
+  },
+  {
+    "id": "353",
+    "start": 2229670,
+    "end": 2234364,
+    "enText": "Oh, yeah? Okay? You don't wanna know details? No, no, no, I'm good. It sounds great.",
+    "ruText": "Э-э, да? Ладно? Подробности не нужны? Не-не-не, не надо, звучит отлично."
+  },
+  {
+    "id": "354",
+    "start": 2234367,
+    "end": 2239234,
+    "enText": "You can see in the first three plays Dad, Dad. That we've increased our profit. It's just not for me.",
+    "ruText": "За первые три раза видно... Пап, пап... что прибыль растёт. Это не по мне."
+  },
+  {
+    "id": "355",
+    "start": 2239238,
+    "end": 2244098,
+    "enText": "I just don't understand this. It's just math. It's always just math.",
+    "ruText": "Нихрена не понимаю. Это математика. Ты всегда так говоришь."
+  },
+  {
+    "id": "356",
+    "start": 2244201,
+    "end": 2250625,
+    "enText": "It's like sorting through coins, looking for buffalo nickels, because you had calculated there was, what, one in every seven rolls or something?",
+    "ruText": "Я помню, как мы искали редкие монеты, ведь ты рассчитал, что соотношение было один к семи, да?"
+  },
+  {
+    "id": "357",
+    "start": 2250629,
+    "end": 2252934,
+    "enText": "Yeah. We made $600.",
+    "ruText": "Да. Заработали шестьсот долларов."
+  },
+  {
+    "id": "358",
+    "start": 2253038,
+    "end": 2258664,
+    "enText": "We sorted through coins every weekend for a month. I was 12. It was fun.",
+    "ruText": "В двенадцать лет я сортировал монеты все выходные целый месяц. Было весело."
+  },
+  {
+    "id": "359",
+    "start": 2260155,
+    "end": 2263635,
+    "enText": "It would have been nice to just throw the football or something.",
+    "ruText": "Было бы приятней поиграть в футбол или типа того."
+  },
+  {
+    "id": "360",
+    "start": 2266120,
+    "end": 2270456,
+    "enText": "Look, I'm... Hey, Doug?",
+    "ruText": "Слушай, я... Эй, Даг?"
+  },
+  {
+    "id": "361",
+    "start": 2270459,
+    "end": 2273393,
+    "enText": "Doug, the Porters lost power in their barn and they want you to come take a look.",
+    "ruText": "Даг, у Портеров нет света в сарае, не заглянешь к ним?"
+  },
+  {
+    "id": "362",
+    "start": 2273403,
+    "end": 2277062,
+    "enText": "All right. I'll be right there. Okay. I gotta go. Okay. Yup.",
+    "ruText": "Да, сейчас буду. Ну, мне... Мне пора. Ладно. Ага."
+  },
+  {
+    "id": "363",
+    "start": 2282219,
+    "end": 2284552,
+    "enText": "I'll be in your business, Pop Pop.",
+    "ruText": "Можно мне в твой бизнес, деда?"
+  },
+  {
+    "id": "364",
+    "start": 2285816,
+    "end": 2288874,
+    "enText": "How are you at logos? Good.",
+    "ruText": "Логотипы красиво рисуешь? Да."
+  },
+  {
+    "id": "365",
+    "start": 2288877,
+    "end": 2292802,
+    "enText": "Well, come here and show Pop Pop. Here.",
+    "ruText": "Иди сюда, покажи деду. Давай."
+  },
+  {
+    "id": "366",
+    "start": 2295701,
+    "end": 2298117,
+    "enText": "Let me give you some paper.",
+    "ruText": "Сейчас возьмём бумагу..."
+  },
+  {
+    "id": "367",
+    "start": 2298221,
+    "end": 2303578,
+    "enText": "And you show me what you can do about drawing a logo for Pop Pop's business.",
+    "ruText": "И ты покажешь мне, какой логотип ты можешь нарисовать для бизнеса дедушки."
+  },
+  {
+    "id": "368",
+    "start": 2303582,
+    "end": 2307989,
+    "enText": "If you wanna get that going, push your button. Right there. Push the button.",
+    "ruText": "Только тебе нужно нажать на эту кнопку. Вот здесь. На кнопку."
+  },
+  {
+    "id": "369",
+    "start": 2319242,
+    "end": 2323695,
+    "enText": "Bill? Hey, Jerry. Hey, Marge. Hi.",
+    "ruText": "Билл? Привет, Джерри. Привет, Мардж. Привет. "
+  },
+  {
+    "id": "370",
+    "start": 2323698,
+    "end": 2328182,
+    "enText": "Hey, uh, if we're gonna do this again, I'm gonna need to charge you for using the microwave.",
+    "ruText": "Эй, если хотите повторить, за микроволновку придётся платить."
+  },
+  {
+    "id": "371",
+    "start": 2329562,
+    "end": 2334498,
+    "enText": "We are betting 40,000. You guys drug dealers?",
+    "ruText": "Теперь мы ставим сорок тысяч. Вы наркоторговцы?"
+  },
+  {
+    "id": "372",
+    "start": 2334502,
+    "end": 2337857,
+    "enText": "No. We're professional lottery players.",
+    "ruText": "Нет. Мы профессиональные игроки в лотерею."
+  },
+  {
+    "id": "373",
+    "start": 2337961,
+    "end": 2340967,
+    "enText": "I don't think that's a thing. It is now.",
+    "ruText": "А что, такие бывают? Теперь бывают. "
+  },
+  {
+    "id": "374",
+    "start": 2341171,
+    "end": 2349623,
+    "enText": "Listen, as much as I'd like to see if you can stand behind that thing for that long without breaking a hip, there's no way you can buy that many tickets before closing time.",
+    "ruText": "Слушайте, как бы я ни хотел глянуть, сможете ли вы простоять так долго, не сломав бедро, вы явно не успеете напечатать всё до закрытия."
+  },
+  {
+    "id": "375",
+    "start": 2349652,
+    "end": 2352827,
+    "enText": "Can you stay open later? Oh, I'm afraid not.",
+    "ruText": "Так может закроетесь позже? О, боюсь, что нет."
+  },
+  {
+    "id": "376",
+    "start": 2354867,
+    "end": 2357649,
+    "enText": "I'm undergoing some marital trauma at the moment.",
+    "ruText": "Я сейчас страдаю от супружеской травмы."
+  },
+  {
+    "id": "377",
+    "start": 2357652,
+    "end": 2362181,
+    "enText": "Well, truth be told, tonight is a drinking celebration with my buddies.",
+    "ruText": "Ну, по правде говоря, мы сегодня отмечаем с моими друзьями."
+  },
+  {
+    "id": "378",
+    "start": 2362285,
+    "end": 2370707,
+    "enText": "Now, admittedly we do it out there, in the parking lot, but, uh, I just can't have customers in here. It's a liability.",
+    "ruText": "И мы, конечно, выпиваем здесь, на парковке, но, э-э, покупателям нельзя тут быть. Правила такие."
+  },
+  {
+    "id": "379",
+    "start": 2372164,
+    "end": 2376437,
+    "enText": "Well... What if we weren't customers?",
+    "ruText": "Что ж, а если мы будем не покупателями?"
+  },
+  {
+    "id": "380",
+    "start": 2383662,
+    "end": 2385860,
+    "enText": "I have no idea what you're talking about.",
+    "ruText": "Не понимаю, к чему вы клоните."
+  },
+  {
+    "id": "381",
+    "start": 2386758,
+    "end": 2389668,
+    "enText": "What if we were partners?",
+    "ruText": "А если мы станем партнёрами?"
+  },
+  {
+    "id": "382",
+    "start": 2390071,
+    "end": 2396837,
+    "enText": "Bill, I'd like to introduce you to GS Investment Strategies.",
+    "ruText": "Билл, я бы хотел пригласить вас в Инвестиционную Стратегию Джи-Эс."
+  },
+  {
+    "id": "383",
+    "start": 2398549,
+    "end": 2400772,
+    "enText": "I'm in. Can I be in?",
+    "ruText": "Я за. Возьмите меня."
+  },
+  {
+    "id": "384",
+    "start": 2403985,
+    "end": 2407779,
+    "enText": "So I'm a shareholder, and I could totally get you guys in if you want.",
+    "ruText": "Короче, у меня есть доля, и я могу и за вас словечко замолвить."
+  },
+  {
+    "id": "385",
+    "start": 2407882,
+    "end": 2415469,
+    "enText": "So, it's a WinFall, so when the numbers... Okay, you're an investor... Okay, let's say you've got several hundred dollars.",
+    "ruText": "Речь идёт про Уинфолл, и когда числа... В общем, вы инвесторы. Скажем, у вас есть пара сотен долларов."
+  },
+  {
+    "id": "386",
+    "start": 2415472,
+    "end": 2420653,
+    "enText": "Then there is these lottery numbers. If they don't hit, you win.",
+    "ruText": "Дальше в дело вступают лотерейные числа. Нет совпадений - вы в выигрыше."
+  },
+  {
+    "id": "387",
+    "start": 2421447,
+    "end": 2424005,
+    "enText": "You in? You got any money?",
+    "ruText": "Ты за? Деньги есть?"
+  },
+  {
+    "id": "388",
+    "start": 2425072,
+    "end": 2427039,
+    "enText": "I believe we are done.",
+    "ruText": "Думаю, мы закончили."
+  },
+  {
+    "id": "389",
+    "start": 2427868,
+    "end": 2429732,
+    "enText": "Hey, I got two more shareholders.",
+    "ruText": "Эй, у нас есть ещё два инвестора."
+  },
+  {
+    "id": "390",
+    "start": 2429835,
+    "end": 2432955,
+    "enText": "One of them's got to rob his parents' house real quick, but he's definitely in.",
+    "ruText": "Один уже побежал грабить дом родителей, и он точно за."
+  },
+  {
+    "id": "391",
+    "start": 2433950,
+    "end": 2437774,
+    "enText": "That's 500 more tickets. Yup. All right.",
+    "ruText": "Ещё пятьсот билетов. Ага. Отлично! "
+  },
+  {
+    "id": "392",
+    "start": 2437878,
+    "end": 2439569,
+    "enText": "You want a bong hit real quick?",
+    "ruText": "Как насчёт бонга?"
+  },
+  {
+    "id": "393",
+    "start": 2439672,
+    "end": 2445678,
+    "enText": "I don't know what that is. Marge? No thanks, Bill. All right. Ow!",
+    "ruText": "Я не знаю, что это. Мардж? Нет, спасибо, Билл. Ну, ладно."
+  },
+  {
+    "id": "394",
+    "start": 2450407,
+    "end": 2454998,
+    "enText": "Our next number is 46... Number 24...",
+    "ruText": "Следующее число - сорок шесть. Потом двадцать четыре."
+  },
+  {
+    "id": "395",
+    "start": 2455102,
+    "end": 2459102,
+    "enText": "And our very last number for today is number 23.",
+    "ruText": "И последнее счастливое число - номер двадцать три."
+  },
+  {
+    "id": "396",
+    "start": 2459206,
+    "end": 2465629,
+    "enText": "So, one more time, those numbers are 05, 21, 39, 46, 24, 23... Okay, here we go.",
+    "ruText": "Повторяю числа ещё раз: пять, двадцать один, тридцать девять, сорок шесть, двадцать четыре, двадцать три, запишите... Ладно, начинаем."
+  },
+  {
+    "id": "397",
+    "start": 2465733,
+    "end": 2468632,
+    "enText": "No more cigarette burns, huh? Yeah.",
+    "ruText": "И никаких сигаретных ожогов. Да."
+  },
+  {
+    "id": "398",
+    "start": 2472751,
+    "end": 2482405,
+    "enText": "Well... I guess we fire up some of that delicious motel coffee and get started.",
+    "ruText": "Что ж, полагаю, пора запасаться местным вкуснейшим кофе... и начинать дело."
+  },
+  {
+    "id": "399",
+    "start": 2482508,
+    "end": 2505911,
+    "enText": "Or it could wait till morning. Tomorrow?",
+    "ruText": "Или подождём до утра. Завтра?"
+  },
+  {
+    "id": "400",
+    "start": 2513332,
+    "end": 2516542,
+    "enText": "The lottery? Lottery winners get a lot of clicks.",
+    "ruText": "Лотерея? Победители собирают просмотры."
+  },
+  {
+    "id": "401",
+    "start": 2516646,
+    "end": 2518648,
+    "enText": "I don't do clicks. I do news.",
+    "ruText": "К чёрту просмотры. Нужны новости."
+  },
+  {
+    "id": "402",
+    "start": 2518651,
+    "end": 2521754,
+    "enText": "Do you not see all these empty cubicles?",
+    "ruText": "Ты что, не видишь все эти пустые кабинки?"
+  },
+  {
+    "id": "403",
+    "start": 2522352,
+    "end": 2524827,
+    "enText": "Just poke around for something.",
+    "ruText": "Найди что-нибудь, покопайся."
+  },
+  {
+    "id": "404",
+    "start": 2525317,
+    "end": 2529245,
+    "enText": "Find me a headline that I can throw in the Spotlight section.",
+    "ruText": "Дай мне какой-нибудь заголовок для раздела \"В центре внимания\"."
+  },
+  {
+    "id": "405",
+    "start": 2539462,
+    "end": 2544122,
+    "enText": "Oh, nice thing about this mattress is, we both roll to the center.",
+    "ruText": "Мне нравится этот матрас тем, что мы оба скатываемся к центру."
+  },
+  {
+    "id": "406",
+    "start": 2546310,
+    "end": 2551056,
+    "enText": "I don't think I can get out if I tried. Well, we have time.",
+    "ruText": "Я не вылезу отсюда, как бы я не пытался. Ну, у нас есть время."
+  },
+  {
+    "id": "407",
+    "start": 2552682,
+    "end": 2557273,
+    "enText": "What? What the heck? Hey, hey, all right, all right.",
+    "ruText": "Что? Что такое? Эй-эй-эй, сейчас, иду."
+  },
+  {
+    "id": "408",
+    "start": 2558861,
+    "end": 2563137,
+    "enText": "Got the wrong room. Got the wrong room. It came in! What did?",
+    "ruText": "Не тот номер. Не тот номер. Пришёл! Кто?"
+  },
+  {
+    "id": "409",
+    "start": 2563141,
+    "end": 2566489,
+    "enText": "The lottery sends a tally of all the winnings sold by the store.",
+    "ruText": "Лотерея прислала подсчёт выигрышных билетов из магазина."
+  },
+  {
+    "id": "410",
+    "start": 2566592,
+    "end": 2569944,
+    "enText": "WinFall tickets won $82,000.",
+    "ruText": "Билеты Уинфолл выиграли восемьдесят две тысячи долларов."
+  },
+  {
+    "id": "411",
+    "start": 2570728,
+    "end": 2574773,
+    "enText": "And how many WinFall tickets did you sell at your store?",
+    "ruText": "А сколько билетов Уинфолл ты продал в магазине?"
+  },
+  {
+    "id": "412",
+    "start": 2574877,
+    "end": 2579260,
+    "enText": "Just yours, plus six more. Yes! To me. But those didn't win.",
+    "ruText": "Только ваши! И ещё шесть! Да! Для меня. Но они не совпали."
+  },
+  {
+    "id": "413",
+    "start": 2580303,
+    "end": 2587268,
+    "enText": "We doubled it. We doubled it. We doubled it! We doubled it! We doubled it!",
+    "ruText": "Сумма удвоилась. Сумма удвоилась. Сумма удвоилась!"
+  },
+  {
+    "id": "414",
+    "start": 2641736,
+    "end": 2646017,
+    "enText": "It's Steve. Hey, Steve. Hey, Jerry.",
+    "ruText": "Это Стив. Привет, Стив. Привет, Джерри."
+  },
+  {
+    "id": "415",
+    "start": 2646120,
+    "end": 2649606,
+    "enText": "I was just checking to see how we did. Um, you know, curious.",
+    "ruText": "Я хотел узнать, как дела. Ну знаешь, просто так."
+  },
+  {
+    "id": "416",
+    "start": 2649710,
+    "end": 2653127,
+    "enText": "I will be sending out an official shareholder report.",
+    "ruText": "Я обязательно пошлю официальный отчёт инвесторам."
+  },
+  {
+    "id": "417",
+    "start": 2653231,
+    "end": 2655958,
+    "enText": "Yeah, yeah, right, right, but you know...",
+    "ruText": "Да, да, это отлично, но всё-таки..."
+  },
+  {
+    "id": "418",
+    "start": 2656061,
+    "end": 2658029,
+    "enText": "He wants to know. What do you think?",
+    "ruText": "Он хочет знать. Что скажем?"
+  },
+  {
+    "id": "419",
+    "start": 2661177,
+    "end": 2666245,
+    "enText": "Well, we doubled it. We doubled it!",
+    "ruText": "Ну, сумма удвоилась. Сумма удвоилась!"
+  },
+  {
+    "id": "420",
+    "start": 2701624,
+    "end": 2706698,
+    "enText": "This can't be real. I didn't believe it either, but I've been running simulations during the drawings, and it's right.",
+    "ruText": "Быть не может. Я тоже не верил. Но я прогнал симуляции во время лотереи, сошлось."
+  },
+  {
+    "id": "421",
+    "start": 2706801,
+    "end": 2709356,
+    "enText": "If you bet at least 10 grand, the odds tilt towards the buyer.",
+    "ruText": "Ставишь хотя бы десять кусков - получаешь шанс."
+  },
+  {
+    "id": "422",
+    "start": 2709359,
+    "end": 2711730,
+    "enText": "Can you get money from your dad? I'm not asking him for shit.",
+    "ruText": "Попросишь у отца? Да нихрена я не попрошу."
+  },
+  {
+    "id": "423",
+    "start": 2711703,
+    "end": 2715607,
+    "enText": "Why not? His name is on a building. I think he can afford it. Because this is mine.",
+    "ruText": "Почему бы и нет? Его имя написано на здании. Я думаю, он может себе это позволить. Потому что это мое."
+  },
+  {
+    "id": "424",
+    "start": 2715610,
+    "end": 2720474,
+    "enText": "Do you have 10 grand? No. I have a dorm.",
+    "ruText": "У тебя есть 10 тысяч? Нет. У меня есть общежитие."
+  },
+  {
+    "id": "425",
+    "start": 2720577,
+    "end": 2726166,
+    "enText": "Okay, that is one slice of pizza per person. One slice. Thank you. Hey, only take a piece if you contributed to the fund.",
+    "ruText": "Так, брать по одному куску пиццы. По одному, спасибо. Эй, пицца только для тех, кто вложился в фонд."
+  },
+  {
+    "id": "426",
+    "start": 2726269,
+    "end": 2732796,
+    "enText": "The first thing you learn at Harvard is that you're here for your future. Right?",
+    "ruText": "Первое, что вы узнаёте в Гарварде - вы здесь ради своего будущего. Так?"
+  },
+  {
+    "id": "427",
+    "start": 2733000,
+    "end": 2739631,
+    "enText": "Second thing you learn... Is that's all bullshit. There is no future.",
+    "ruText": "Ну, а что второе? Что это всё ложь. Будущего нет."
+  },
+  {
+    "id": "428",
+    "start": 2739734,
+    "end": 2743669,
+    "enText": "There is just now waiting for you to take it.",
+    "ruText": "Есть лишь настоящее, ждущее, когда вы придёте за ним."
+  },
+  {
+    "id": "429",
+    "start": 2743873,
+    "end": 2747739,
+    "enText": "I found a flaw in the lottery.",
+    "ruText": "Я нашёл изъян в лотерее."
+  },
+  {
+    "id": "430",
+    "start": 2747842,
+    "end": 2753407,
+    "enText": "Okay? A way to beat the game every time because nobody at the lottery figured out what I did.",
+    "ruText": "Ясно? Способ выигрывать каждый раз, потому что больше никто до этого не дошёл."
+  },
+  {
+    "id": "431",
+    "start": 2753410,
+    "end": 2756575,
+    "enText": "But it only works if you can bet big.",
+    "ruText": "Но это работает только с большими ставками."
+  },
+  {
+    "id": "432",
+    "start": 2756679,
+    "end": 2764204,
+    "enText": "So, tell your parents that you have new lab fees, or need books, or got an STD.",
+    "ruText": "Итак, скажите предкам, что у вас оплата лабораторий, или вам нужны книги, или вы словили сифилис."
+  },
+  {
+    "id": "433",
+    "start": 2765164,
+    "end": 2771790,
+    "enText": "Whatever it takes, because if we pull this off, then we are legends!",
+    "ruText": "Короче, достаньте деньги, ведь если мы это провернём, то мы станем легендами!"
+  },
+  {
+    "id": "434",
+    "start": 2774635,
+    "end": 2780806,
+    "enText": "Also, I'm gonna need you all to fill out about 300 lottery slips, so we don't bet duplicates.",
+    "ruText": "И ещё вы должны заполнить примерно три сотни лотерейных бланков, чтобы не было дубликатов."
+  },
+  {
+    "id": "435",
+    "start": 2780810,
+    "end": 2784534,
+    "enText": "Here you go. That's for you. Thank you.",
+    "ruText": "Держи. Это тебе. Спасибо."
+  },
+  {
+    "id": "436",
+    "start": 2787479,
+    "end": 2791403,
+    "enText": "You're not filling any out? No. I'm in charge.",
+    "ruText": "А ты не заполняешь? Нет. Я главный."
+  },
+  {
+    "id": "437",
+    "start": 2794372,
+    "end": 2796895,
+    "enText": "Okay, talk to me. So you wanna renovate it?",
+    "ruText": "Проясни немного. Ты хочешь его восстановить?"
+  },
+  {
+    "id": "438",
+    "start": 2797099,
+    "end": 2801551,
+    "enText": "Yup. All the shareholders are chipping in. We're bringing back the jazz festival.",
+    "ruText": "Ага. И все инвесторы будут скидываться. Мы возвращаем фестиваль джаза."
+  },
+  {
+    "id": "439",
+    "start": 2801655,
+    "end": 2804796,
+    "enText": "The best music is the music you make up as you go along.",
+    "ruText": "Лучшая музыка - это та, которую ты сочиняешь в порыве души."
+  },
+  {
+    "id": "440",
+    "start": 2804899,
+    "end": 2808075,
+    "enText": "Ah, I'm just sad we couldn't have had it when Prince was around.",
+    "ruText": "Только жаль, что этого не произошло, когда Принс был жив."
+  },
+  {
+    "id": "441",
+    "start": 2808179,
+    "end": 2810782,
+    "enText": "He wouldn't have come, Howard. We'll never know.",
+    "ruText": "Он бы не пришёл, Говард. Уже не узнаем."
+  },
+  {
+    "id": "442",
+    "start": 2810785,
+    "end": 2813422,
+    "enText": "You guys are sure this is what you wanna do with your money?",
+    "ruText": "Вы точно хотите потратить деньги на это?"
+  },
+  {
+    "id": "443",
+    "start": 2813632,
+    "end": 2821432,
+    "enText": "You don't wanna invest it somewhere? We are investing it somewhere. All right.",
+    "ruText": "Может, инвестируете? Мы их и так инвестируем. Ладно."
+  },
+  {
+    "id": "444",
+    "start": 2822127,
+    "end": 2831650,
+    "enText": "I'll give you a hand. All right. Doug, put it on top there.Yup. All right. Thank you. Wow.",
+    "ruText": "Я помогу. Да, спасибо. Давай вот туда, Даг. Ага. Вот так. Спасибо. Ого."
+  },
+  {
+    "id": "445",
+    "start": 2832589,
+    "end": 2835516,
+    "enText": "Why do you keep all these? The IRS.",
+    "ruText": "Зачем они тебе? Налоговая."
+  },
+  {
+    "id": "446",
+    "start": 2836114,
+    "end": 2840594,
+    "enText": "When we get audited, we'll need a paper trail of all the losing tickets we bought.",
+    "ruText": "Во время ревизии нам понадобится бумажный след всех проигрышных билетов."
+  },
+  {
+    "id": "447",
+    "start": 2840597,
+    "end": 2845506,
+    "enText": "Think you're gonna get audited? Oh, yeah. Jesus.",
+    "ruText": "Думаешь, будет ревизия? О, да. Господи."
+  },
+  {
+    "id": "448",
+    "start": 2845509,
+    "end": 2849910,
+    "enText": "You know, your group hired me to fix the amphitheater. Six-month job.",
+    "ruText": "Твоя группа скинулась на ремонт амфитеатра. Полгода работы."
+  },
+  {
+    "id": "449",
+    "start": 2850013,
+    "end": 2855157,
+    "enText": "Oh. How about that? Yeah, how about that?",
+    "ruText": "О, ничего себе. Да, я сказал так же."
+  },
+  {
+    "id": "450",
+    "start": 2855260,
+    "end": 2860852,
+    "enText": "Well, you may wanna consider chipping in on that. What?",
+    "ruText": "Ну, ты мог бы и сам в это вложиться. Что?"
+  },
+  {
+    "id": "451",
+    "start": 2860955,
+    "end": 2867169,
+    "enText": "Well, you have a share. You did, from the start.",
+    "ruText": "Ну, у тебя есть доля. С самого начала."
+  },
+  {
+    "id": "452",
+    "start": 2869078,
+    "end": 2874072,
+    "enText": "Dad... You didn't have to do that.",
+    "ruText": "Пап, не стоило этого делать."
+  },
+  {
+    "id": "453",
+    "start": 2874076,
+    "end": 2876488,
+    "enText": "Oh, I didn't wanna count nickels without you.",
+    "ruText": "Я не хотел считать монеты без тебя."
+  },
+  {
+    "id": "454",
+    "start": 2881335,
+    "end": 2885877,
+    "enText": "I'm telling you, Dottie has done such a great job with this bookstore.",
+    "ruText": "Серьёзно, Дотти проделала отличную работу, улучшая этот магазинчик."
+  },
+  {
+    "id": "455",
+    "start": 2885980,
+    "end": 2888431,
+    "enText": "Yeah. You know, Leon is renovating the hotel.",
+    "ruText": "Да. Кстати говоря, Леон ремонтирует отель."
+  },
+  {
+    "id": "456",
+    "start": 2888535,
+    "end": 2893954,
+    "enText": "Howard got him a deal on it, but his commission is that he and Shirley get to use the hot tub whenever they want.",
+    "ruText": "Говард сделал скидку, правда с условием, что они с Ширли будут сидеть в джакузи в любое время."
+  },
+  {
+    "id": "457",
+    "start": 2894057,
+    "end": 2897268,
+    "enText": "Leon will regret that. You are not kidding.",
+    "ruText": "Леон об этом пожалеет. Ага, согласен."
+  },
+  {
+    "id": "458",
+    "start": 2897371,
+    "end": 2906932,
+    "enText": "Hello, hello, everybody. Oh, hey! All right. Well, go ahead... Go on, sit on down.",
+    "ruText": "Привет, привет, друзья. Привет! Хорошо. Ну, хватит. Прошу, садитесь, садитесь."
+  },
+  {
+    "id": "459",
+    "start": 2910333,
+    "end": 2918261,
+    "enText": "Well... Look, first off, I can say that we're doing pretty darn well. Yes.",
+    "ruText": "Итак, конечно, хочу сказать что, э-э, дела идут неплохо. Да."
+  },
+  {
+    "id": "460",
+    "start": 2918265,
+    "end": 2924156,
+    "enText": "Yeah. But you probably already know that by reading your shareholder report... I can't get mine to open.",
+    "ruText": "Да. Скорее всего вы уже заглянули в свой инвесторский отчёт... А мой не открывается."
+  },
+  {
+    "id": "461",
+    "start": 2924260,
+    "end": 2927270,
+    "enText": "Oh, do you have Word? I have Windows, I think.",
+    "ruText": "А, у тебя есть Ворд? У меня Виндоус, кажется."
+  },
+  {
+    "id": "462",
+    "start": 2927274,
+    "end": 2932061,
+    "enText": "I'll print you one, Shirley. Oh, thank you. Anyhoo...",
+    "ruText": "Я тебе распечатаю, Ширли. Ой, спасибо! В общем, э-э..."
+  },
+  {
+    "id": "463",
+    "start": 2933096,
+    "end": 2940072,
+    "enText": "As you might have imagined it, we're gonna use the majority of our capital for betting. Yeah.",
+    "ruText": "Как вы уже могли догадаться, большую часть капитала мы используем на ставки. Да."
+  },
+  {
+    "id": "464",
+    "start": 2940076,
+    "end": 2946144,
+    "enText": "But there are dividends that you can access.",
+    "ruText": "Но, э-э, вы получили доступ к части ваших дивидендов."
+  },
+  {
+    "id": "465",
+    "start": 2946248,
+    "end": 2951356,
+    "enText": "Right. So, I know a lot of people would like to see the jazz festival come back.",
+    "ruText": "Вот. Я знаю, что многие ожидают возвращения джазового фестиваля."
+  },
+  {
+    "id": "466",
+    "start": 2952547,
+    "end": 2957189,
+    "enText": "And, Old Frank can sure use a mail truck he doesn't fall out of.",
+    "ruText": "И... старику Фрэнку очень пригодился бы новый почтовый грузовик."
+  },
+  {
+    "id": "467",
+    "start": 2958215,
+    "end": 2963320,
+    "enText": "Uh, so, now on to the profit ratios. We...",
+    "ruText": "Теперь перейдем к показателям прибыли. Мы..."
+  },
+  {
+    "id": "468",
+    "start": 2963724,
+    "end": 2966578,
+    "enText": "Yes, Raj? Is there not food at this thing?",
+    "ruText": "Да, Радж? А нас не покормят, да?"
+  },
+  {
+    "id": "469",
+    "start": 2966682,
+    "end": 2970341,
+    "enText": "No. No. This is a shareholder meeting. It's not a party.",
+    "ruText": "Нет! Нет, это собрание инвесторов, а не вечеринка."
+  },
+  {
+    "id": "470",
+    "start": 2970444,
+    "end": 2973658,
+    "enText": "Then why did you have it at 6, when we all eat?",
+    "ruText": "Тогда почему ты собрал нас в шесть, во время ужина?"
+  },
+  {
+    "id": "471",
+    "start": 2975042,
+    "end": 2981800,
+    "enText": "Well, you're welcome to all go to the diner, but... No, then you're not gonna learn about the numbers.",
+    "ruText": "Что ж, э-э, вы можете сбегать в столовую, но... тогда вы ничего не узнаете о цифрах."
+  },
+  {
+    "id": "472",
+    "start": 2983354,
+    "end": 2989532,
+    "enText": "So, what's the next play? 312,000 tickets. That's $600,000. Yeah.",
+    "ruText": "Ну, есть дальнейший план? Триста двенадцать тысяч билетов. Это шестьсот тысяч долларов. Да."
+  },
+  {
+    "id": "473",
+    "start": 2989636,
+    "end": 2993122,
+    "enText": "We're betting half a million in one play?",
+    "ruText": "Мы ставим... полмиллиона за один раз?"
+  },
+  {
+    "id": "474",
+    "start": 2993225,
+    "end": 2996263,
+    "enText": "Oh, the money is the easy part. Is it? Yeah.",
+    "ruText": "Деньги - это самое лёгкое. Правда? Да."
+  },
+  {
+    "id": "475",
+    "start": 2996367,
+    "end": 3000995,
+    "enText": "It'll take four days of betting, two machines, 12 hours a day.",
+    "ruText": "Придётся стоять четыре дня у двух автоматов по двенадцать часов в день."
+  },
+  {
+    "id": "476",
+    "start": 3000999,
+    "end": 3003374,
+    "enText": "Then why don't you just bet the normal amount?",
+    "ruText": "Может, проще поставить обычную сумму?"
+  },
+  {
+    "id": "477",
+    "start": 3003377,
+    "end": 3009034,
+    "enText": "Math. It's Newton's law. If you push against something, it's gonna push back.",
+    "ruText": "Наука. Закон Ньютона. На действие всегда есть противодействие."
+  },
+  {
+    "id": "478",
+    "start": 3009138,
+    "end": 3015255,
+    "enText": "And we discovered a flaw. But by using it, we've introduced a variable that changes it.",
+    "ruText": "А мы нашли просчёт. Воспользовавшись им, мы ввели переменную, переворачивающую всё."
+  },
+  {
+    "id": "479",
+    "start": 3015458,
+    "end": 3018492,
+    "enText": "And we don't know how long this game is gonna last.",
+    "ruText": "И неизвестно, сколько будет длиться эта игра."
+  },
+  {
+    "id": "480",
+    "start": 3018596,
+    "end": 3021944,
+    "enText": "Then we need to make as much money as we can, while we can.",
+    "ruText": "Значит, нужно заработать как можно больше денег, пока есть шанс."
+  },
+  {
+    "id": "481",
+    "start": 3022047,
+    "end": 3027336,
+    "enText": "Get the festival going, and finish rebuilding before it pushes back.",
+    "ruText": "Устроить фестиваль и закончить стройку, пока нас не засекли."
+  },
+  {
+    "id": "482",
+    "start": 3027239,
+    "end": 3033224,
+    "enText": "I ordered a second machine from the lottery, but they said you're only allowed one per location, so I was like, \"Well, what if I have a second store?\"",
+    "ruText": "Я заказал второй автомат, но мне сказали, что больше одного нельзя, а я им: \"А если у меня есть второй магазин?\""
+  },
+  {
+    "id": "483",
+    "start": 3033227,
+    "end": 3038443,
+    "enText": "They're like, \"What's the address?\" I was like, \"Uh-oh. There's my mistake.\" And that's where my buddy, Darryl, comes in.",
+    "ruText": "Они мне: \"Какой адрес?\", а я им: \"Упс, ошибочка вышла\". Мне здорово помог мой друг Дэррил!"
+  },
+  {
+    "id": "484",
+    "start": 3038547,
+    "end": 3045312,
+    "enText": "And, uh, we're gonna give him an extra share, but here you are. You can print out 24 hours a day, plus unlimited pie.",
+    "ruText": "Конечно, он получит лишнюю долю, но вот и он, можно печатать круглосуточно, плюс бесконечные пироги."
+  },
+  {
+    "id": "485",
+    "start": 3048943,
+    "end": 3052112,
+    "enText": "Look at this. What's this?",
+    "ruText": "Посмотрите. Что это?"
+  },
+  {
+    "id": "486",
+    "start": 3052215,
+    "end": 3053838,
+    "enText": "From my source at the AG's office.",
+    "ruText": "От источника из прокуратуры."
+  },
+  {
+    "id": "487",
+    "start": 3053841,
+    "end": 3058532,
+    "enText": "Now, the lottery has to disclose players who claim more than 50 grand, five times a year.",
+    "ruText": "Лотерея должна раскрывать выигравших больше пятидесяти тысяч пять раз в год."
+  },
+  {
+    "id": "488",
+    "start": 3058536,
+    "end": 3067790,
+    "enText": "Sometimes the winners are fronts, you know, cashing tickets for people who owe child support, or have a warrant, but look at this guy. Wins big every three weeks.",
+    "ruText": "Иногда победители - это прикрытие, выдающее билеты тем, кто должен алименты, или под распиской, но глянь на него. Крупно выигрывает каждые три недели."
+  },
+  {
+    "id": "489",
+    "start": 3067993,
+    "end": 3071925,
+    "enText": "Lives in Michigan. A retired factory worker. No criminal record.",
+    "ruText": "Из Мичигана. Работник фабрики в отставке. Судимостей нет."
+  },
+  {
+    "id": "490",
+    "start": 3072028,
+    "end": 3073823,
+    "enText": "He's won this much? Yeah.",
+    "ruText": "Он столько выиграл? Да."
+  },
+  {
+    "id": "491",
+    "start": 3073927,
+    "end": 3078103,
+    "enText": "Who drives 10 hours every month to play the lottery in a different state?",
+    "ruText": "Кто будет ежемесячно ездить в другой штат десять часов ради лотереи?"
+  },
+  {
+    "id": "492",
+    "start": 3078207,
+    "end": 3080209,
+    "enText": "Yeah, that doesn't make any sense. Right.",
+    "ruText": "Да, чушь какая-то. Точно."
+  },
+  {
+    "id": "493",
+    "start": 3100091,
+    "end": 3110929,
+    "enText": "Loser! Did that woman just rob you?",
+    "ruText": "Неудачник! Эта женщина только что ограбила тебя?"
+  },
+  {
+    "id": "494",
+    "start": 3111033,
+    "end": 3114864,
+    "enText": "That's my wife. Wow.",
+    "ruText": "Это моя жена. Ого."
+  },
+  {
+    "id": "495",
+    "start": 3115669,
+    "end": 3119662,
+    "enText": "Well, she certainly seems spirited. Yeah, she's a spitfire.",
+    "ruText": "Она явно задиристая. Да, она вспыльчивая."
+  },
+  {
+    "id": "496",
+    "start": 3119766,
+    "end": 3125382,
+    "enText": "No, she's just pissed off 'cause I filed for divorce, and she didn't ever think I'd be able to afford it.",
+    "ruText": "Она просто злится, что я подал на развод, ведь она не думала, что смогу его оплатить."
+  },
+  {
+    "id": "497",
+    "start": 3125986,
+    "end": 3128706,
+    "enText": "Looks like money well spent. Yeah.",
+    "ruText": "Видимо, не зря подал. Да."
+  },
+  {
+    "id": "498",
+    "start": 3128809,
+    "end": 3136997,
+    "enText": "Kind of lost the magic ever since Steely Dan stopped touring. You know...",
+    "ruText": "Очарование прошло, когда Стили Дэн прекратили концерты. Знаешь..."
+  },
+  {
+    "id": "499",
+    "start": 3137000,
+    "end": 3142972,
+    "enText": "I need to find someone like you. Only younger. Yeah, that started off great.",
+    "ruText": "Мне нужна такая, как ты. Но помоложе. Ну, начал ты неплохо. "
+  },
+  {
+    "id": "500",
+    "start": 3143275,
+    "end": 3147594,
+    "enText": "No, I mean, you know, just someone that's still fertile.",
+    "ruText": "Нет, я имею в виду такую, чтобы была ещё плодородная."
+  },
+  {
+    "id": "501",
+    "start": 3147697,
+    "end": 3151245,
+    "enText": "And their womb can have babies. You're not good at this.",
+    "ruText": "Чтобы в её матке рождались дети. У тебя с этим проблемы."
+  },
+  {
+    "id": "502",
+    "start": 3151349,
+    "end": 3153282,
+    "enText": "Oh, I'm really not. Can you help me?",
+    "ruText": "Да, огромные. Можешь помочь?"
+  },
+  {
+    "id": "503",
+    "start": 3154110,
+    "end": 3161911,
+    "enText": "Well, my mother used to say, \"Kiss a few frogs, then when you find your prince, you'll realize that the frogs are better, 'cause they make you laugh.\"",
+    "ruText": "Что ж, мама говорила мне: \"Поцелуй пару лягушек, а когда найдёшь принца, поймёшь, что лягушки лучше, ведь с ними весело.\""
+  },
+  {
+    "id": "504",
+    "start": 3164500,
+    "end": 3170472,
+    "enText": "Does laughing at you count? Bill, you need a new frog. I need a new frog.",
+    "ruText": "А если смеются над тобой? Билл, тебе нужна новая лягушка. Должен согласиться."
+  },
+  {
+    "id": "505",
+    "start": 3170655,
+    "end": 3177934,
+    "enText": "$50,000. Welcome to the now, bitches.",
+    "ruText": "Пятьдесят тысяч долларов. Вот оно - настоящее, сучки!"
+  },
+  {
+    "id": "506",
+    "start": 3177938,
+    "end": 3184009,
+    "enText": "We are going to make a shitload of money, but it's going to take time, and sweat, and passion, okay?",
+    "ruText": "Мы заработаем дохера денег, но нам нужно время, и пот, и страсть, ясно?"
+  },
+  {
+    "id": "507",
+    "start": 3184110,
+    "end": 3190215,
+    "enText": "So, everybody fill out two stacks of slips. We need to get 25,000 in in the next three weeks.",
+    "ruText": "Так что все заполните две стопки бланков, нужно сделать двадцать пять тысяч за три недели."
+  },
+  {
+    "id": "508",
+    "start": 3197547,
+    "end": 3202158,
+    "enText": "Something wrong? There's another group. What?",
+    "ruText": "Что-то не так? Есть другая группа. Что?"
+  },
+  {
+    "id": "509",
+    "start": 3202162,
+    "end": 3203746,
+    "enText": "The payout should have been bigger.",
+    "ruText": "Выигрыш должен быть больше."
+  },
+  {
+    "id": "510",
+    "start": 3203750,
+    "end": 3208237,
+    "enText": "The only thing that makes sense is another group eating into the pot, so I checked sales at every store.",
+    "ruText": "Единственный логичный вариант - мы делим с кем-то банк, так что я проверил продажи в магазинах."
+  },
+  {
+    "id": "511",
+    "start": 3208240,
+    "end": 3211582,
+    "enText": "That's public information? No, I hacked the state lottery.",
+    "ruText": "Они их раскрывают? Нет, я взломал лотерею."
+  },
+  {
+    "id": "512",
+    "start": 3212065,
+    "end": 3215137,
+    "enText": "Nice. Wait. That's my laptop. Yeah. ",
+    "ruText": "Класс. Стоп, это мой ноут. Да."
+  },
+  {
+    "id": "513",
+    "start": 3215240,
+    "end": 3219797,
+    "enText": "You should destroy your hard drive after this. Dude. Whatever. It worked.",
+    "ruText": "После этого тебе следует уничтожить свой жесткий диск. Чел. Забей. Это сработало."
+  },
+  {
+    "id": "514",
+    "start": 3219900,
+    "end": 3222524,
+    "enText": "Look at the winnings in Sunderland, from only two locations.",
+    "ruText": "Выигрыши в Сандерлэнде идут из двух мест."
+  },
+  {
+    "id": "515",
+    "start": 3222627,
+    "end": 3230393,
+    "enText": "Two locations. They'd have to buy tickets for a week to get those kind of numbers. They're there right now.",
+    "ruText": "Из двух мест. Для таких цифр им нужно сидеть там неделю. Они и сейчас там."
+  },
+  {
+    "id": "516",
+    "start": 3249005,
+    "end": 3253002,
+    "enText": "Hey. I finished early tonight.",
+    "ruText": "Привет. Я закончил пораньше."
+  },
+  {
+    "id": "517",
+    "start": 3253416,
+    "end": 3257524,
+    "enText": "What's the rush? Oh...",
+    "ruText": "Куда спешил? Ну..."
+  },
+  {
+    "id": "518",
+    "start": 3258939,
+    "end": 3261908,
+    "enText": "You didn't think I'd forget our anniversary, did you?",
+    "ruText": "Ты же не думала, что я забуду нашу годовщину?"
+  },
+  {
+    "id": "519",
+    "start": 3261911,
+    "end": 3267292,
+    "enText": "Oh, you just got that out of the cooler. Well, yeah.",
+    "ruText": "Да ты... Ты же только что достал его из холодильника. Ну да."
+  },
+  {
+    "id": "520",
+    "start": 3267396,
+    "end": 3270986,
+    "enText": "But I hid it behind the Yoo-hoo this morning so that nobody would get it.",
+    "ruText": "Но утром я спрятал его за Ю-Ху, чтобы никто не купил."
+  },
+  {
+    "id": "521",
+    "start": 3279753,
+    "end": 3281790,
+    "enText": "You know it's good when it does that.",
+    "ruText": "Вообще-то это хороший признак."
+  },
+  {
+    "id": "522",
+    "start": 3283688,
+    "end": 3288486,
+    "enText": "Beautiful plastic china. Here you go.",
+    "ruText": "Красивое пластиковое стекло. Держи."
+  },
+  {
+    "id": "523",
+    "start": 3289839,
+    "end": 3298669,
+    "enText": "Here's to 46 more years. Cheers.",
+    "ruText": "Выпьем за ещё сорок шесть лет. Выпьем."
+  },
+  {
+    "id": "524",
+    "start": 3304436,
+    "end": 3307712,
+    "enText": "I think I still owe you a prom night.",
+    "ruText": "Кажется, я задолжал тебе танец с выпускного."
+  },
+  {
+    "id": "525",
+    "start": 3323808,
+    "end": 3326697,
+    "enText": "This was easier when I was 16.",
+    "ruText": "В шестнадцать лет всё было чуть проще."
+  },
+  {
+    "id": "526",
+    "start": 3328019,
+    "end": 3330908,
+    "enText": "You're even more beautiful now.",
+    "ruText": "Теперь ты еще красивее."
+  },
+  {
+    "id": "527",
+    "start": 3331011,
+    "end": 3333807,
+    "enText": "That's the out-of-date champagne talking.",
+    "ruText": "Это всё просроченное шампанское."
+  },
+  {
+    "id": "528",
+    "start": 3335367,
+    "end": 3341677,
+    "enText": "Yeah, he really shouldn't be selling that.",
+    "ruText": "Да, не стоило его продавать."
+  },
+  {
+    "id": "529",
+    "start": 3342609,
+    "end": 3344956,
+    "enText": "No teacher to pull us apart.",
+    "ruText": "И никаких учителей, которые могли бы разлучить нас."
+  },
+  {
+    "id": "530",
+    "start": 3355487,
+    "end": 3362111,
+    "enText": "You guys are the other group? Oh, man. We thought it was gonna be, like, a crime syndicate or something.",
+    "ruText": "Это вы - другая группа? Блин, а мы думали, что наткнёмся на преступный синдикат."
+  },
+  {
+    "id": "531",
+    "start": 3364327,
+    "end": 3366219,
+    "enText": "I don't know what you're talking about.",
+    "ruText": "Не понимаю, о чём вы говорите."
+  },
+  {
+    "id": "532",
+    "start": 3366322,
+    "end": 3371569,
+    "enText": "Sorry, we are being super rude. I'm Tyler, this is Eric. We run a betting club at Harvard.",
+    "ruText": "Простите, что невежливо повели себя. Я Тайлер, а это Эрик. У нас в Гарварде клуб ставок."
+  },
+  {
+    "id": "533",
+    "start": 3371573,
+    "end": 3375987,
+    "enText": "We're called Random Industries, which is also the name of my skateboard brand.",
+    "ruText": "Мы называемся \"Рандом Индастриз\", прямо как мой скейтбордный брэнд."
+  },
+  {
+    "id": "534",
+    "start": 3375991,
+    "end": 3378714,
+    "enText": "Well, I figured there'd be somebody else.",
+    "ruText": "Я так и думал, что есть кто-то ещё."
+  },
+  {
+    "id": "535",
+    "start": 3378718,
+    "end": 3383995,
+    "enText": "Me, too, but I mean, I didn't expect this. Look at you guys. It's like Up.",
+    "ruText": "Я тоже, но этого я не ожидал. Вы же как в мультике \"Вверх\"."
+  },
+  {
+    "id": "536",
+    "start": 3386757,
+    "end": 3388759,
+    "enText": "Would you like a glass of champagne?",
+    "ruText": "Не хотите бокал шампанского?"
+  },
+  {
+    "id": "537",
+    "start": 3388862,
+    "end": 3391831,
+    "enText": "No, I only drink Jager and Red Bull. But thank you.",
+    "ruText": "Не, я пью только Йегер и Рэд Булл, спасибо."
+  },
+  {
+    "id": "538",
+    "start": 3391934,
+    "end": 3396249,
+    "enText": "Oh, well, at least you'll never have to worry about being our age.",
+    "ruText": "Ну, вам хотя бы не придётся бояться нашего возраста."
+  },
+  {
+    "id": "539",
+    "start": 3398458,
+    "end": 3404671,
+    "enText": "Look, we're really only hurting each other by playing at the same time, so here's a better offer.",
+    "ruText": "Слушайте, мы только делаем друг другу хуже, играя одновременно, вот предложение получше."
+  },
+  {
+    "id": "540",
+    "start": 3404775,
+    "end": 3414577,
+    "enText": "You join my group, add your capital to our pot, and we'll handle all the betting. Well, I don't know.",
+    "ruText": "Вы присоединяетесь к моей группе, добавляете свой капитал в наш банк, и мы берем на себя все ставки. Ну, не знаю."
+  },
+  {
+    "id": "541",
+    "start": 3415140,
+    "end": 3419134,
+    "enText": "We kind of like to do our own thing. What?",
+    "ruText": "Нам нравится работать самим. Что?"
+  },
+  {
+    "id": "542",
+    "start": 3419137,
+    "end": 3421412,
+    "enText": "You'll get a cut without having to do anything.",
+    "ruText": "Вы будете получать деньги ни за что."
+  },
+  {
+    "id": "543",
+    "start": 3421515,
+    "end": 3428222,
+    "enText": "I have an army of bettors. You won't even have to leave your rocking chairs. We're good.",
+    "ruText": "У меня есть армия игроков. Вам даже из кресла-качалки вставать не надо. Нет, спасибо."
+  },
+  {
+    "id": "544",
+    "start": 3428326,
+    "end": 3431905,
+    "enText": "This is about making money. You like money, right?",
+    "ruText": "Речь идёт о зарабатывании денег. Вы же любите деньги?"
+  },
+  {
+    "id": "545",
+    "start": 3431909,
+    "end": 3437255,
+    "enText": "Well, not as much as I like other things. Oh, my God.",
+    "ruText": "Ну, кое-что я люблю гораздо больше. Господи."
+  },
+  {
+    "id": "546",
+    "start": 3437359,
+    "end": 3443210,
+    "enText": "Uh, now, look, if you two don't mind, this is our anniversary.",
+    "ruText": "Э-э, а теперь, если вы не против, у нас сегодня годовщина."
+  },
+  {
+    "id": "547",
+    "start": 3443614,
+    "end": 3447742,
+    "enText": "And you are killing the ambience of our liquor store.",
+    "ruText": "Вы немного портите атмосферу уютного магазинчика."
+  },
+  {
+    "id": "548",
+    "start": 3448246,
+    "end": 3453962,
+    "enText": "You're welcome to take a Red Bull for the road. Or maybe a juice box.",
+    "ruText": "Можете взять на дорогу Рэд Булл. Или, может, коробку сока."
+  },
+  {
+    "id": "549",
+    "start": 3459702,
+    "end": 3463834,
+    "enText": "You're good at math. Yay!",
+    "ruText": "Ты знаешь числа. Класс."
+  },
+  {
+    "id": "550",
+    "start": 3463737,
+    "end": 3470465,
+    "enText": "I'm sure that helps out on the farm, but at Harvard, we learn a little something called binomial distribution. Look it up.",
+    "ruText": "Уверен, на ферме это полезно, но в Гарварде мы изучаем вещи вроде биномиального распределения. Почитай."
+  },
+  {
+    "id": "551",
+    "start": 3470669,
+    "end": 3475777,
+    "enText": "Then you'll see why your odds are better when you fill out your own slips. You're welcome.",
+    "ruText": "Поймёшь, что шансы выше, когда сам заполняешь бланки. Не за что."
+  },
+  {
+    "id": "552",
+    "start": 3475880,
+    "end": 3480930,
+    "enText": "Binomial distribution only considers two factors.",
+    "ruText": "Биномиальное распределение учитывает только два фактора."
+  },
+  {
+    "id": "553",
+    "start": 3481234,
+    "end": 3488459,
+    "enText": "Not a third, which is human error, or a fourth, which is the time it takes for you to fill in the tickets.",
+    "ruText": "Но не третий - человеческий фактор, и не четвёртый - время, которое уходит на заполнение кучи билетов."
+  },
+  {
+    "id": "554",
+    "start": 3488762,
+    "end": 3497799,
+    "enText": "You gain a whooping 32 bucks for every $100,000 you win. You're welcome.",
+    "ruText": "Вы зарабатываете целых тридцать два бакса за каждые выигранные вами сто тысяч долларов. Не благодарите."
+  },
+  {
+    "id": "555",
+    "start": 3499393,
+    "end": 3506738,
+    "enText": "Seriously? Shut up! What?",
+    "ruText": "Серьёзно? Заткнись! Что?"
+  },
+  {
+    "id": "556",
+    "start": 3508123,
+    "end": 3511767,
+    "enText": "I guess it wouldn't be a prom without dumb teenagers.",
+    "ruText": "Ну да, какой выпускной обходится без глупых подростков?"
+  },
+  {
+    "id": "557",
+    "start": 3513425,
+    "end": 3517059,
+    "enText": "That reminds me of where we left off.",
+    "ruText": "Кстати, на чём мы остановились?"
+  },
+  {
+    "id": "558",
+    "start": 3545733,
+    "end": 3549616,
+    "enText": "So I get the house? Yes. You get everything.",
+    "ruText": "Мне достаётся дом? Да, и всё остальное."
+  },
+  {
+    "id": "559",
+    "start": 3549620,
+    "end": 3557065,
+    "enText": "Bill just wants to keep his share of GS Strategies. Whatever. I got the house.",
+    "ruText": "Биллу нужны только акции в, э-э, Стратегии Джи-Эс. Ну ладно, дом-то мой."
+  },
+  {
+    "id": "560",
+    "start": 3559222,
+    "end": 3562208,
+    "enText": "Well, good luck to you, Candace.",
+    "ruText": "Ну, удачи тебе, Кэндис."
+  },
+  {
+    "id": "561",
+    "start": 3562211,
+    "end": 3565090,
+    "enText": "You know, we had a few good years there before it all turned to shit.",
+    "ruText": "Всё ведь было хорошо, пока не полетело к чертям."
+  },
+  {
+    "id": "562",
+    "start": 3565094,
+    "end": 3569698,
+    "enText": "And I hope you find your frog. Uh-huh.",
+    "ruText": "Надеюсь, ты найдёшь свою лягушку. Ага."
+  },
+  {
+    "id": "563",
+    "start": 3571424,
+    "end": 3574841,
+    "enText": "Hey, what is GS whatever?",
+    "ruText": "Эй, что за Джи-Эс-как-его?"
+  },
+  {
+    "id": "564",
+    "start": 3574945,
+    "end": 3589683,
+    "enText": "Oh, yeah. That's a little company I'm a part of. Uh, we win the lottery every month. See you around.",
+    "ruText": "А, это моя компания, мы каждый месяц в лотерею выигрываем. Увидимся!"
+  },
+  {
+    "id": "565",
+    "start": 3600039,
+    "end": 3602282,
+    "enText": "I'd love to re-open the ice cream shop.",
+    "ruText": "Вот бы опять открыть магазин мороженого."
+  },
+  {
+    "id": "566",
+    "start": 3602386,
+    "end": 3611050,
+    "enText": "Well, now you can lease it for $1.19 a year. And the Downtown fund will cover the rest. $1.19?",
+    "ruText": "Ну, арендуй за один и девятнадцать сотых доллара в год. Остальное покроет центральный фонд. Один и девятнадцать? "
+  },
+  {
+    "id": "567",
+    "start": 3611153,
+    "end": 3615924,
+    "enText": "Oh, it's a euro. It's a complicated story. Jerry can explain it to you.",
+    "ruText": "А, это евро. Непростая история. Джерри может объяснить."
+  },
+  {
+    "id": "568",
+    "start": 3627618,
+    "end": 3632450,
+    "enText": "Boy, oh, boy. I just bought a Corvette. Yeah, I can see that.",
+    "ruText": "Ты только глянь. Я купил Корветт. Да, это я вижу."
+  },
+  {
+    "id": "569",
+    "start": 3632554,
+    "end": 3636223,
+    "enText": "You want to take it for a ride next week? I'm going on a cruise to Me-hi-co.",
+    "ruText": "Хочешь прокатиться на нем на следующей неделе? У меня круиз в Мехико."
+  },
+  {
+    "id": "570",
+    "start": 3636627,
+    "end": 3642115,
+    "enText": "Oh, no, I don't think I can get into it. All right, old man, suit yourself.",
+    "ruText": "Нет, мне кажется, я в неё не влезу. Ну ладно, старик, как скажешь."
+  },
+  {
+    "id": "571",
+    "start": 3642119,
+    "end": 3645015,
+    "enText": "There's another group. No. Yep.",
+    "ruText": "Есть другая группа. Нет. Ага."
+  },
+  {
+    "id": "572",
+    "start": 3645118,
+    "end": 3648931,
+    "enText": "Some kids from Harvard figured it out. Well, that sucks.",
+    "ruText": "Детишки из Гарварда поняли, в чём дело. Блин, это хреново."
+  },
+  {
+    "id": "573",
+    "start": 3648931,
+    "end": 3655004,
+    "enText": "We should be okay. We're still winning enough for people to rebuild and get the jazz fest going.",
+    "ruText": "Ничего страшного. Мы выигрываем достаточно, чтобы отстроить город и вернуть фестиваль джаза."
+  },
+  {
+    "id": "574",
+    "start": 3655508,
+    "end": 3658386,
+    "enText": "We just have to stay in the game. And we will.",
+    "ruText": "Просто надо оставаться в игре. И мы останемся."
+  },
+  {
+    "id": "575",
+    "start": 3658486,
+    "end": 3663343,
+    "enText": "Well, that's easy for you to say. You're not standing at a machine for five days straight.",
+    "ruText": "Ну, тебе легко говорить. Не ты же стоишь у автомата пять дней подряд."
+  },
+  {
+    "id": "576",
+    "start": 3664106,
+    "end": 3666691,
+    "enText": "I said I would take a shift. No, no. That's okay.",
+    "ruText": "Я же вызывался. Короче ладно, забудь."
+  },
+  {
+    "id": "577",
+    "start": 3666795,
+    "end": 3671420,
+    "enText": "Yeah, because you guys like it, right? Yeah, we do. Yeah, you do. Yeah, you do.",
+    "ruText": "Ну да, вам же это нравится. Нравится. Нравится, нравится."
+  },
+  {
+    "id": "578",
+    "start": 3672466,
+    "end": 3678945,
+    "enText": "So glad you got the day off. Well, it doesn't feel like I did. Oh, oh... How did you guys do this for weeks?",
+    "ruText": "Я так рада, что у тебя выходной. Только я его не чувствую. Как вы, ребята, справлялись с этим в течение нескольких недель?"
+  },
+  {
+    "id": "579",
+    "start": 3679049,
+    "end": 3682435,
+    "enText": "Because it's an adventure. Oh, no, this is not an adventure.",
+    "ruText": "Это же приключение. О, нет, это не приключение."
+  },
+  {
+    "id": "580",
+    "start": 3682638,
+    "end": 3688244,
+    "enText": "It's getting paper cuts in a motel filled with prostitutes and drug dealers.",
+    "ruText": "Это порезы от бумаги в мотеле, полном проституток и наркоторговцев."
+  },
+  {
+    "id": "581",
+    "start": 3688348,
+    "end": 3692510,
+    "enText": "Well, Dawn, you don't have to do it. Oh, no, no, I want to. I do.",
+    "ruText": "Доун, это не обязательно. Нет-нет, я хочу. Правда."
+  },
+  {
+    "id": "582",
+    "start": 3692614,
+    "end": 3704005,
+    "enText": "I mean, I never get to spend time with you guys, and, you know... Feeling trapped in a gross hotel, filling bins with losing tickets is just a memory I will never ever forget.",
+    "ruText": "Я провожу с вами мало времени, и теперь, когда я сижу в противном отеле и разбираю проигрышные билеты, у меня есть незабываемое воспоминание."
+  },
+  {
+    "id": "583",
+    "start": 3705454,
+    "end": 3712289,
+    "enText": "Oops. This one's a winner. Oh, you missed it. Okay. I'm done. I'm done.",
+    "ruText": "Упс. Это выигрышный. О, упустила. Ясно. Я всё. Я всё."
+  },
+  {
+    "id": "584",
+    "start": 3712392,
+    "end": 3717742,
+    "enText": "Hey, when's the part where you get to turn in all the winners? Because I will do that. Well, that is fun.",
+    "ruText": "А когда вы будете сдавать выигрышные? Это я не против. Ну, это весело."
+  },
+  {
+    "id": "585",
+    "start": 3717846,
+    "end": 3724094,
+    "enText": "We're gonna have to double check all the... Is there a bar at this motel?",
+    "ruText": "Нам придётся перепроверить каждый... А в этом мотеле есть бар?"
+  },
+  {
+    "id": "586",
+    "start": 3732088,
+    "end": 3738004,
+    "enText": "Mr. Grazio? Maya Jordon. Boston Globe.",
+    "ruText": "Мистер Грацио? Майя Джордон. Бостон Глоуб."
+  },
+  {
+    "id": "587",
+    "start": 3739181,
+    "end": 3741535,
+    "enText": "I had some questions about the WinFall game.",
+    "ruText": "У меня возникло несколько вопросов по поводу игры Windfall."
+  },
+  {
+    "id": "588",
+    "start": 3741739,
+    "end": 3746978,
+    "enText": "Well, Melanie Hawkins handles our publicity. But the game has been a huge success for the state.",
+    "ruText": "Ну, СМИ занимается Мэлани Хокинс, но Уинфолл был очень успешен для штата."
+  },
+  {
+    "id": "589",
+    "start": 3747082,
+    "end": 3748877,
+    "enText": "Not just for the state.",
+    "ruText": "Не только для штата."
+  },
+  {
+    "id": "590",
+    "start": 3748980,
+    "end": 3755504,
+    "enText": "Are you aware there's a player in Michigan winning millions every month? We raise a lot of money for schools, but nobody does an article about that.",
+    "ruText": "Вы в курсе, что в Мичигане есть игрок, который выигрывает миллионы каждый месяц? Мы собираем много денег для школ, но никто не пишет об этом статьи."
+  },
+  {
+    "id": "591",
+    "start": 3755608,
+    "end": 3759094,
+    "enText": "Some retiree gets lucky and they send a Spotlight reporter?",
+    "ruText": "Какому-то рабочему на пенсии повезло - пожалуйста, репортёр."
+  },
+  {
+    "id": "592",
+    "start": 3759198,
+    "end": 3764198,
+    "enText": "I didn't say he was a retiree. Yeah, well, you know, it's a lottery.",
+    "ruText": "Я не говорила, что он на пенсии. Ну, знаете, это лотерея."
+  },
+  {
+    "id": "593",
+    "start": 3764272,
+    "end": 3767206,
+    "enText": "People win. So, wouldn't call it news.",
+    "ruText": "Это не новость. Люди выигрывают."
+  },
+  {
+    "id": "594",
+    "start": 3767861,
+    "end": 3771900,
+    "enText": "I have a meeting. Thanks for your time.",
+    "ruText": "У меня встреча. Спасибо, что уделили мне время."
+  },
+  {
+    "id": "595",
+    "start": 3776180,
+    "end": 3778251,
+    "enText": "Morning, Leon. Morning, Jerry.",
+    "ruText": "Доброе утро, Леон. Доброе утро, Джерри."
+  },
+  {
+    "id": "596",
+    "start": 3778355,
+    "end": 3780805,
+    "enText": "Made you a fresh pot. French roast.",
+    "ruText": "Приготовил тебе кофе. Он французский."
+  },
+  {
+    "id": "597",
+    "start": 3780909,
+    "end": 3783394,
+    "enText": "Wow. You're getting fancy.",
+    "ruText": "Ого. Ничего себе."
+  },
+  {
+    "id": "598",
+    "start": 3800998,
+    "end": 3806555,
+    "enText": "Hey, Jerry. They said I'd find you here.",
+    "ruText": "Привет, Джерри. Мне сказали, что я найду тебя здесь."
+  },
+  {
+    "id": "599",
+    "start": 3806559,
+    "end": 3809527,
+    "enText": "What do you want? This won't take long.",
+    "ruText": "Что тебе нужно? Я на минутку."
+  },
+  {
+    "id": "600",
+    "start": 3809731,
+    "end": 3812975,
+    "enText": "We're not joining your group. I don't want you to.",
+    "ruText": "Мы к вам не присоединимся. И не надо."
+  },
+  {
+    "id": "601",
+    "start": 3813079,
+    "end": 3819396,
+    "enText": "I don't really need your capital anymore. I just need you out of the game. So, you're out. What?",
+    "ruText": "Мне не нужен ваш капитал, мне нужно от вас избавиться, так что вы вне игры. Что?"
+  },
+  {
+    "id": "602",
+    "start": 3819499,
+    "end": 3823848,
+    "enText": "See, you're not really as good at calculating people as you are numbers.",
+    "ruText": "Ты просчитываешь людей гораздо хуже, чем комбинации чисел."
+  },
+  {
+    "id": "603",
+    "start": 3823952,
+    "end": 3828439,
+    "enText": "So you haven't really run the math on what somebody like me would do to win.",
+    "ruText": "Ты попросту не учёл, на что человек вроде меня пойдёт ради победы."
+  },
+  {
+    "id": "604",
+    "start": 3835481,
+    "end": 3837552,
+    "enText": "And what would you do?",
+    "ruText": "И что ты будешь делать?"
+  },
+  {
+    "id": "605",
+    "start": 3838967,
+    "end": 3843558,
+    "enText": "Set an army of the smartest kids you've ever met against you and everyone you play with.",
+    "ruText": "Пошлю армию самых умных ребят против тебя и твоей компашки."
+  },
+  {
+    "id": "606",
+    "start": 3845187,
+    "end": 3849357,
+    "enText": "We hacked into the state lottery to find where you were betting.",
+    "ruText": "Мы взломали гос-лотерею, чтобы узнать, где ты ставишь."
+  },
+  {
+    "id": "607",
+    "start": 3850534,
+    "end": 3858607,
+    "enText": "You don't think that we can hack into your accounts? Your credit? Your identity?",
+    "ruText": "Думаешь, у нас не получится взломать ваши записи? Ваши счета? Ваши личности?"
+  },
+  {
+    "id": "608",
+    "start": 3859684,
+    "end": 3865269,
+    "enText": "It won't be hard. I mean... Most of them think a firewall is something in their chimney, so...",
+    "ruText": "Это просто. Ведь большинство думает, что фаервол - это хрень в камине. "
+  },
+  {
+    "id": "609",
+    "start": 3866653,
+    "end": 3872242,
+    "enText": "Why are you doing this? It's just math. Nothing personal.",
+    "ruText": "Зачем тебе это нужно? Математика. Ничего личного."
+  },
+  {
+    "id": "610",
+    "start": 3873243,
+    "end": 3878524,
+    "enText": "Look, you had a good run. You made some cash for Mayberry.",
+    "ruText": "Вы добились успеха. Заработали денег для городка."
+  },
+  {
+    "id": "611",
+    "start": 3878627,
+    "end": 3883598,
+    "enText": "But it's over. Enjoy your golden years.",
+    "ruText": "Но все кончено. Наслаждайтесь своими золотыми годами."
+  },
+  {
+    "id": "612",
+    "start": 3900270,
+    "end": 3904515,
+    "enText": "Hey, so how many days do you think we'll need?",
+    "ruText": "Как считаешь, сколько нам понадобится дней?"
+  },
+  {
+    "id": "613",
+    "start": 3905976,
+    "end": 3909589,
+    "enText": "None. We're out of the game.",
+    "ruText": "Ноль. Мы выходим из игры."
+  },
+  {
+    "id": "614",
+    "start": 3913559,
+    "end": 3932543,
+    "enText": "Jerry! Oh... Uh... Okay. Uh. Oh, boy. Well, uh...",
+    "ruText": "Джерри! О, э-э... Так. Э-э... Господи. Ну, э-э..."
+  },
+  {
+    "id": "615",
+    "start": 3932647,
+    "end": 3941138,
+    "enText": "I'm sad to report that, due to some new variables in the game... ",
+    "ruText": "Вынужден сообщить, что из-за весьма неожиданных обстоятельств..."
+  },
+  {
+    "id": "616",
+    "start": 3941242,
+    "end": 3962711,
+    "enText": "We're going to have to stop playing. Um... I am sorry.",
+    "ruText": "нам придётся выйти из игры. Э-э... Сожалею."
+  },
+  {
+    "id": "617",
+    "start": 3987881,
+    "end": 3993432,
+    "enText": "So, you're really going to let some college smart ass take all this away from you?",
+    "ruText": "Итак, ты действительно собираешься позволить какому-то умнику из колледжа отобрать у тебя все это?"
+  },
+  {
+    "id": "618",
+    "start": 3995848,
+    "end": 3999572,
+    "enText": "The odds that he might do something outweigh the benefits...",
+    "ruText": "Шансы того, что он разрушит наше дело, перевешивают плюсы..."
+  },
+  {
+    "id": "619",
+    "start": 3999576,
+    "end": 4010518,
+    "enText": "It's not about the math. It's about being human. You know, Dad, I...",
+    "ruText": "Забудь математику. Будь человеком наконец. Знаешь, пап, я..."
+  },
+  {
+    "id": "620",
+    "start": 4012247,
+    "end": 4017456,
+    "enText": "I've watched you spend so much of your life just being overlooked and pushed around.",
+    "ruText": "я всю жизнь наблюдал, как тебя отпихивают и недооценивают."
+  },
+  {
+    "id": "621",
+    "start": 4019872,
+    "end": 4024532,
+    "enText": "Nobody knew what you could do. Nobody cared.",
+    "ruText": "Никто не видел твоих навыков. Всем было плевать."
+  },
+  {
+    "id": "622",
+    "start": 4026154,
+    "end": 4031504,
+    "enText": "And then you finally took your shot, and you brought us all with you.",
+    "ruText": "И когда ты наконец решил действовать и повёл нас всех за собой."
+  },
+  {
+    "id": "623",
+    "start": 4032888,
+    "end": 4036578,
+    "enText": "You know what you did? You made our little town feel big.",
+    "ruText": "Знаешь, что ты сделал? Ты заставил наш маленький городок почувствовать себя большим."
+  },
+  {
+    "id": "624",
+    "start": 4037493,
+    "end": 4043240,
+    "enText": "That's why they're all in there. That's why I was in there.",
+    "ruText": "Вот почему они все здесь. Вот почему я здесь."
+  },
+  {
+    "id": "625",
+    "start": 4060544,
+    "end": 4074754,
+    "enText": "He'll be okay. You know why I don't like to fish? No.",
+    "ruText": "Он успокоится. Знаешь, почему я не люблю ловить рыбу? Нет."
+  },
+  {
+    "id": "626",
+    "start": 4075997,
+    "end": 4083625,
+    "enText": "The last time that I went, I took him with me. He was 16, 17.",
+    "ruText": "В последний раз мы рыбачили как раз вместе с ним. Ему было шестнадцать, семнадцать."
+  },
+  {
+    "id": "627",
+    "start": 4085596,
+    "end": 4094740,
+    "enText": "And I started calculating how fast the bobber was moving so I can figure out the speed of the current.",
+    "ruText": "И я начал рассчитывать скорость движения поплавка, чтобы по ней определить скорость течения."
+  },
+  {
+    "id": "628",
+    "start": 4096400,
+    "end": 4101678,
+    "enText": "And then I hear him ask me, \"What do you think, Dad?\"",
+    "ruText": "И тут я слышу, как он спрашивает: \"Что скажешь, пап?\""
+  },
+  {
+    "id": "629",
+    "start": 4104335,
+    "end": 4114484,
+    "enText": "And it was at that moment that I realized he was talking about a girl that he liked. And... ",
+    "ruText": "И в тот момент я вдруг осознал, что он говорил про понравившуюся ему девочку. Но..."
+  },
+  {
+    "id": "630",
+    "start": 4115092,
+    "end": 4119523,
+    "enText": "I had no idea. You know, it's...",
+    "ruText": "Я и не знал. Знаешь, это..."
+  },
+  {
+    "id": "631",
+    "start": 4120197,
+    "end": 4123803,
+    "enText": "It's never been a gift. It's been a trick.",
+    "ruText": "Никакой это не дар. Это просто обман."
+  },
+  {
+    "id": "632",
+    "start": 4125356,
+    "end": 4136782,
+    "enText": "Your brain tells you that you see what other's don't, but in the end, you're just seeing less.",
+    "ruText": "Твой мозг говорит, что ты видишь больше, чем остальные, но на самом деле ты видишь гораздо меньше."
+  },
+  {
+    "id": "633",
+    "start": 4142764,
+    "end": 4146550,
+    "enText": "I think I'll walk home tonight.",
+    "ruText": "Думаю, что сегодня вечером пойду домой пешком."
+  },
+  {
+    "id": "634",
+    "start": 4161500,
+    "end": 4166107,
+    "enText": "All right, guys, it's gonna be a big one. It's all of us now, so make it count. Go, go, go.",
+    "ruText": "Ладно, ребята, это будет грандиозно. Мы все в сборе, не тормозите. Вперёд, вперёд."
+  },
+  {
+    "id": "635",
+    "start": 4170232,
+    "end": 4176304,
+    "enText": "Roll down's this weekend. I know.",
+    "ruText": "Ролл-даун в эти выходные. Я знаю."
+  },
+  {
+    "id": "636",
+    "start": 4187349,
+    "end": 4189350,
+    "enText": "I'm just trying to do the right thing.",
+    "ruText": "Я пытаюсь поступить правильно."
+  },
+  {
+    "id": "637",
+    "start": 4189455,
+    "end": 4193804,
+    "enText": "Oh, you always do. I love that about you.",
+    "ruText": "Конечно, как и всегда. За это я тебя и люблю."
+  },
+  {
+    "id": "638",
+    "start": 4193908,
+    "end": 4197094,
+    "enText": "And that's why everyone in town trusts you to take a chance.",
+    "ruText": "Поэтому все жители города верят, что ты рискнёшь."
+  },
+  {
+    "id": "639",
+    "start": 4198637,
+    "end": 4206686,
+    "enText": "The one thing I have never seen you do is give up on a problem before you find a solution. What do you mean?",
+    "ruText": "И должна сказать, что раньше ты никогда не сдавался, не получив решение задачи. Ты это к чему?"
+  },
+  {
+    "id": "640",
+    "start": 4206890,
+    "end": 4215840,
+    "enText": "Well, you've calculated Tyler's threat, and the value of the game, but binomial distribution doesn't consider the third factor.",
+    "ruText": "Ну, ты просчитал угрозу Тайлера и ценность игры, но биномиальное распределение не учитывает третий фактор."
+  },
+  {
+    "id": "641",
+    "start": 4216344,
+    "end": 4226318,
+    "enText": "That as long as you and I have each other, we are not afraid to be stupid. You're bat shit crazy.",
+    "ruText": "Пока мы с тобой вместе, нам не страшно творить глупости. Ты просто сумасшедшая."
+  },
+  {
+    "id": "642",
+    "start": 4231756,
+    "end": 4242543,
+    "enText": "Oh, there's Steve. We're heading to Massachusetts. Ha-ha! I see you! Go get 'em, boy!",
+    "ruText": "Вот и Стив. Мы едем в Массачусетс! Я вижу! Да, давай, дружище!"
+  },
+  {
+    "id": "643",
+    "start": 4260530,
+    "end": 4269500,
+    "enText": "Whoa! Yeah, let's do this! Marge! Give me five. Jerry! You're a madman. Pound me.",
+    "ruText": "Ого! Да, поехали! Мардж, дай пять. Джерри! Психопат. Кулак."
+  },
+  {
+    "id": "644",
+    "start": 4272745,
+    "end": 4275805,
+    "enText": "I thought it was supposed to be more without the split. Did you check for other claims?",
+    "ruText": "Я думал, что без разделения должно было быть больше. Ты проверял наличие других конкурентов?"
+  },
+  {
+    "id": "645",
+    "start": 4275805,
+    "end": 4283449,
+    "enText": "Yes. There was one. Where? Sunderland. Shit!",
+    "ruText": "Да. Ставили другие люди. Где? Сандэрлэнд. Сука!"
+  },
+  {
+    "id": "646",
+    "start": 4283453,
+    "end": 4288485,
+    "enText": "He called your bluff, okay? There's nothing we can do but accept it. If there's a roll down, he's going to play.",
+    "ruText": "Он раскусил твой блеф, ясно? Всё, остаётся только это принять. Он будет играть в каждый ролл-даун."
+  },
+  {
+    "id": "647",
+    "start": 4289559,
+    "end": 4292420,
+    "enText": "Unless we create the roll down. What?",
+    "ruText": "Если его не создадим мы. Что?"
+  },
+  {
+    "id": "648",
+    "start": 4292523,
+    "end": 4294891,
+    "enText": "It takes weeks for a roll down, right? I mean...",
+    "ruText": "Ролл-даун копится неделями, так?"
+  },
+  {
+    "id": "649",
+    "start": 4294891,
+    "end": 4303224,
+    "enText": "WinFall takes in 100 grand a day, and then when it hits two million, we know a roll down is coming in, and everybody starts betting, and Benjamin Button gets in his truck.",
+    "ruText": "Уинфолл набирает по сто тысяч в день, а при сумме в два миллиона происходит ролл-даун, все начинают ставить, и Бэнджамин Баттон садится в свой пикап. "
+  },
+  {
+    "id": "650",
+    "start": 4303327,
+    "end": 4309233,
+    "enText": "But if we create a roll down when nobody expects it, we take it all. We squeeze the other players out.",
+    "ruText": "Но если создать ролл-даун, когда его никто не ждёт - выигрыш наш. Мы обойдём остальных. "
+  },
+  {
+    "id": "651",
+    "start": 4309437,
+    "end": 4317038,
+    "enText": "We use our hack to track the pot, we wait for it to hit a million before a drawing, and then we bet a million in one day. I mean, we own the game.",
+    "ruText": "Взламываем и следим за суммой, потом мы ждём миллиона перед розыгрышем, ставим миллион за один день, и победа наша."
+  },
+  {
+    "id": "652",
+    "start": 4317141,
+    "end": 4319772,
+    "enText": "And where do we get $1 million?",
+    "ruText": "И где же нам взять миллион долларов?"
+  },
+  {
+    "id": "653",
+    "start": 4323624,
+    "end": 4326557,
+    "enText": "As you can see by our returns, it works.",
+    "ruText": "Как вы видите по доходам, схема работает."
+  },
+  {
+    "id": "654",
+    "start": 4326661,
+    "end": 4330803,
+    "enText": "And with more capital, we can control the game. Is your dad in on this?",
+    "ruText": "А с большим капиталом мы захватим контроль. А твой отец в курсе?"
+  },
+  {
+    "id": "655",
+    "start": 4330959,
+    "end": 4335946,
+    "enText": "No. He... Um... Thinks you're going to college?",
+    "ruText": "Нет, он, э-э... Думает, что ты в колледже?"
+  },
+  {
+    "id": "656",
+    "start": 4336050,
+    "end": 4338673,
+    "enText": "He thinks I'm studying to be a lawyer, like him.",
+    "ruText": "Он думает, что я учусь на юриста, как и он сам."
+  },
+  {
+    "id": "657",
+    "start": 4338677,
+    "end": 4342504,
+    "enText": "But last time I checked, my father never made $1 million in a night.",
+    "ruText": "Но, насколько я знаю, мой отец никогда не зашибал миллион за ночь."
+  },
+  {
+    "id": "658",
+    "start": 4346136,
+    "end": 4354831,
+    "enText": "We have 14 hours to pull this off. Get to your location and don't leave until you print all your tickets. Some locations might push back on printing all day, but do not let them. They work for us.",
+    "ruText": "У нас есть 14 часов, чтобы провернуть это. Доберитесь до своего места и не уходите, пока не распечатаете все свои билеты. В некоторых местах печать может быть отложена на весь день, но не позволяйте им этого делать. Они работают на нас."
+  },
+  {
+    "id": "659",
+    "start": 4354934,
+    "end": 4359072,
+    "enText": "Let's ride. Yes! Whoo! Yeah.",
+    "ruText": "Погнали. Да!"
+  },
+  {
+    "id": "660",
+    "start": 4360630,
+    "end": 4366497,
+    "enText": "Hey. What happens if somebody wins the jackpot and we lose $1 million?",
+    "ruText": "Эй. А что, если кто-то сорвёт джекпот, и мы потеряем миллион? "
+  },
+  {
+    "id": "661",
+    "start": 4366701,
+    "end": 4369739,
+    "enText": "Beyond dropping out of school because I blew my entire tuition?",
+    "ruText": "Помимо того, что у меня не хватит денег на учёбу?"
+  },
+  {
+    "id": "662",
+    "start": 4371119,
+    "end": 4373215,
+    "enText": "I think one of those investors might actually kill me.",
+    "ruText": "Один из инвесторов может меня убить."
+  },
+  {
+    "id": "663",
+    "start": 4373225,
+    "end": 4379887,
+    "enText": "Ooh. You all right? Yeah, I got it. Oh. Okay.",
+    "ruText": "Порядок? Да. Да, нормально. Ох. Ладно."
+  },
+  {
+    "id": "664",
+    "start": 4381389,
+    "end": 4389422,
+    "enText": "I got the key. What the heck? Oh. Hey!",
+    "ruText": "У меня ключ. Что такое? Ой. Эй!"
+  },
+  {
+    "id": "665",
+    "start": 4390626,
+    "end": 4398115,
+    "enText": "We missed it! What, someone actually hit all six numbers? No. No. It rolled down. No, that's impossible. It's only the second week.",
+    "ruText": "Мы пропустили! Неужели кому-то выпали все шесть чисел? Нет, нет, ролл-даун был. Это невозможно. Всего вторая неделя."
+  },
+  {
+    "id": "666",
+    "start": 4398219,
+    "end": 4402495,
+    "enText": "It never rolls down before three. It rolled down last night, and we missed it.",
+    "ruText": "Ролл-даун бывает только через три. Он был прошлой ночью, и мы пропустили его."
+  },
+  {
+    "id": "667",
+    "start": 4405947,
+    "end": 4408501,
+    "enText": "The Harvard group triggered it on their own.",
+    "ruText": "Парни из Гарварда устроили его сами."
+  },
+  {
+    "id": "668",
+    "start": 4408605,
+    "end": 4415864,
+    "enText": "How would they know how much to bet? The lottery doesn't post the amount... Well, they knew. Jerry?",
+    "ruText": "Как они поняли, сколько ставить? Лотерея не показывает сумму. Ну, они знали. Джерри?"
+  },
+  {
+    "id": "669",
+    "start": 4418788,
+    "end": 4423896,
+    "enText": "Where are you going, Jerry? Jerry!",
+    "ruText": "Ты куда, Джерри? Джерри!"
+  },
+  {
+    "id": "670",
+    "start": 4456277,
+    "end": 4461658,
+    "enText": "It's on the freakin' news. The lottery didn't even see it coming. This is so epic.",
+    "ruText": "Всё в новостях. Даже сама лотерея не ожидала. Это полный триумф."
+  },
+  {
+    "id": "671",
+    "start": 4463771,
+    "end": 4468596,
+    "enText": "Hey, Jerry. What, did you come ridin' in on your tractor to come give me a whoopin'?",
+    "ruText": "О, Джерри. Решил приехать на своём тракторе, чтобы меня отшлёпать?"
+  },
+  {
+    "id": "672",
+    "start": 4468699,
+    "end": 4474153,
+    "enText": "Believe me, I wanted to. Part of me still does.",
+    "ruText": "Поверь мне, я хотел этого. Часть меня все еще хочет."
+  },
+  {
+    "id": "673",
+    "start": 4476500,
+    "end": 4484060,
+    "enText": "But then on the long drive here, well, most of that just, poof, went away.",
+    "ruText": "Просто во время долгой поездки сюда это желание просто... исчезло."
+  },
+  {
+    "id": "674",
+    "start": 4484163,
+    "end": 4487788,
+    "enText": "And I realized that I wasn't really angry at you.",
+    "ruText": "Я понял, что во мне нет никакой злости на тебя."
+  },
+  {
+    "id": "675",
+    "start": 4488278,
+    "end": 4491999,
+    "enText": "I'm disappointed. Aw, you're disappointed in me?",
+    "ruText": "Лишь разочарование. О, ты во мне разочарован?"
+  },
+  {
+    "id": "676",
+    "start": 4492102,
+    "end": 4500801,
+    "enText": "No, not you. You're insignificant. No, I was disappointed that I let a selfish kid like you get to me.",
+    "ruText": "Нет, не в тебе, ты ничтожен. Я был разочарован тем, что позволил ничтожному эгоисту задеть меня. "
+  },
+  {
+    "id": "677",
+    "start": 4500804,
+    "end": 4509571,
+    "enText": "I was always good with math, but it took a long time for me to figure people out.",
+    "ruText": "Я всегда был хорош в математике, но мне потребовалось много времени, чтобы разобраться в людях."
+  },
+  {
+    "id": "678",
+    "start": 4509675,
+    "end": 4513099,
+    "enText": "So, tell us, Jerry, what did you figure out?",
+    "ruText": "Ну, скажи нам, Джерри, что ты осознал?"
+  },
+  {
+    "id": "679",
+    "start": 4513403,
+    "end": 4516213,
+    "enText": "That the solution isn't numbers.",
+    "ruText": "Что решение не в числах."
+  },
+  {
+    "id": "680",
+    "start": 4516817,
+    "end": 4522215,
+    "enText": "You told me that I was playing the lottery because I had nothing else.",
+    "ruText": "Ты считаешь, что я играю в лотерею, потому что у меня больше ничего нет."
+  },
+  {
+    "id": "681",
+    "start": 4522719,
+    "end": 4529675,
+    "enText": "But the reason you won't share the pot is because you have nothing else.",
+    "ruText": "Но причина, по которой ты не хочешь делиться банком, заключается в том, что у тебя больше ничего нет."
+  },
+  {
+    "id": "682",
+    "start": 4530278,
+    "end": 4534296,
+    "enText": "You think being the smartest guy in the room is all that matters.",
+    "ruText": "Ты думаешь, что главное - стать самым умным человеком в своём окружении."
+  },
+  {
+    "id": "683",
+    "start": 4534600,
+    "end": 4545155,
+    "enText": "But it turns out it's this room that matters. All these bright, young people helping you get rich.",
+    "ruText": "Но на самом деле... главное - это твоё окружение. Все эти умные молодые люди, помогающие тебе стать богаче."
+  },
+  {
+    "id": "684",
+    "start": 4547371,
+    "end": 4549778,
+    "enText": "How are you helping them?",
+    "ruText": "Чем ты помогаешь им?"
+  },
+  {
+    "id": "685",
+    "start": 4550781,
+    "end": 4553533,
+    "enText": "Guess you haven't run the math out on that, huh?",
+    "ruText": "Видимо, тут твои просчёты оказались не верны?"
+  },
+  {
+    "id": "686",
+    "start": 4556308,
+    "end": 4559756,
+    "enText": "Anyway... my tractor's running.",
+    "ruText": "В общем, мой трактор заведён."
+  },
+  {
+    "id": "687",
+    "start": 4563702,
+    "end": 4566107,
+    "enText": "I wish you all the best of luck.",
+    "ruText": "Я желаю вам всем удачи."
+  },
+  {
+    "id": "688",
+    "start": 4575645,
+    "end": 4578775,
+    "enText": "What? Just get back to counting.",
+    "ruText": "Что? Считайте дальше."
+  },
+  {
+    "id": "689",
+    "start": 4580777,
+    "end": 4585544,
+    "enText": "If the Harvard team can trigger a roll down, they run the game.",
+    "ruText": "Если команда из Гарварда может устроить ролл-даун, они контролируют процесс."
+  },
+  {
+    "id": "690",
+    "start": 4585547,
+    "end": 4590200,
+    "enText": "So we trigger our own roll down. Yeah, we have enough cash. No. Why?",
+    "ruText": "Так устроим свой ролл-даун. Да, у нас хватит денег. Нет. Почему?"
+  },
+  {
+    "id": "691",
+    "start": 4590304,
+    "end": 4593031,
+    "enText": "Because it's not fair to the regular players.",
+    "ruText": "Потому что мы подставим остальных игроков."
+  },
+  {
+    "id": "692",
+    "start": 4593134,
+    "end": 4596034,
+    "enText": "He's right. It's not who we are. But we're so close.",
+    "ruText": "Он прав. Мы не такие. Мы близки к цели."
+  },
+  {
+    "id": "693",
+    "start": 4596137,
+    "end": 4601060,
+    "enText": "I mean, downtown is back, the jazz fest is coming. If we keep winning, we could actually hire somebody to play there.",
+    "ruText": "Центр отстроили, скоро откроем фестиваль джаза, ещё одна победа и пригласим кого-нибудь ещё."
+  },
+  {
+    "id": "694",
+    "start": 4601118,
+    "end": 4605284,
+    "enText": "You should get Steely Dan. That is an amazing idea. We should get Steely Dan.",
+    "ruText": "Пригласите Стили Дэн. Потрясающая идея. Пригласим Стили Дэн."
+  },
+  {
+    "id": "695",
+    "start": 4605388,
+    "end": 4608605,
+    "enText": "We can't win if we can't play. Well, this just sucks.",
+    "ruText": "Без игры нам не победить. Но это отстой."
+  },
+  {
+    "id": "696",
+    "start": 4608609,
+    "end": 4611988,
+    "enText": "The lottery isn't stopping us, but a bunch of college kids are?",
+    "ruText": "В итоге на нашем пути встала не лотерея, а какие-то студенты?"
+  },
+  {
+    "id": "697",
+    "start": 4611991,
+    "end": 4615608,
+    "enText": "Huh, that's a good point. What is? I wasn't making a point.",
+    "ruText": "Отлично подмечено. Что? Я ничего не подмечал."
+  },
+  {
+    "id": "698",
+    "start": 4615812,
+    "end": 4625787,
+    "enText": "Why isn't the lottery stopping them? It's because they don't care. That could be our answer.",
+    "ruText": "Почему их не останавливает лотерея? Потому что им на неё плевать. Вот и наш ответ."
+  },
+  {
+    "id": "699",
+    "start": 4631279,
+    "end": 4636074,
+    "enText": "Always happy to meet with our loyal players, Mr. and Mrs. Selbee.",
+    "ruText": "Всегда рад познакомиться с нашими верными игроками, мистер и миссис Сэлби."
+  },
+  {
+    "id": "700",
+    "start": 4636177,
+    "end": 4639456,
+    "enText": "Oh, please. \"Jerry and Marge\" is fine.",
+    "ruText": "О, не надо. Просто \"Джерри и Мардж\"."
+  },
+  {
+    "id": "701",
+    "start": 4640226,
+    "end": 4642604,
+    "enText": "What can we help you with? So here's the thing.",
+    "ruText": "Чем можем помочь? Суть вот в чём."
+  },
+  {
+    "id": "702",
+    "start": 4642608,
+    "end": 4652583,
+    "enText": "The state lottery was losing money a few years ago, and hardly anybody was winning the jackpot, so Mega Millions ate your lunch.",
+    "ruText": "Гос-лотерея пару лет назад теряла деньги, и почти никто не выигрывал джекпот, так что Мега Миллионы вас обставляли."
+  },
+  {
+    "id": "703",
+    "start": 4652787,
+    "end": 4656097,
+    "enText": "Then along comes WinFall, and all that changes.",
+    "ruText": "И тут появляется Уинфолл, и всё меняется."
+  },
+  {
+    "id": "704",
+    "start": 4656101,
+    "end": 4662548,
+    "enText": "You folks made millions, before you realized there was a flaw in the math.",
+    "ruText": "Вы зарабатываете миллионы и вдруг понимаете, что в расчётах ошибка."
+  },
+  {
+    "id": "705",
+    "start": 4663115,
+    "end": 4671188,
+    "enText": "You probably panicked at first, because you knew that once everybody saw it, that the game would collapse.",
+    "ruText": "Наверняка вы начали паниковать, ведь вы знали, что если все его заметят, то игра обрушится. "
+  },
+  {
+    "id": "706",
+    "start": 4671592,
+    "end": 4676811,
+    "enText": "Except they didn't see it. Only me and a few kids from Harvard.",
+    "ruText": "Но его не заметили. Только я и пара детей из Гарварда."
+  },
+  {
+    "id": "707",
+    "start": 4676915,
+    "end": 4683535,
+    "enText": "Which meant that we were pushing millions into the game, and, boy, sent your profits through the roof.",
+    "ruText": "А значит, мы вкладывали в вашу игру миллионы и я уверен, ваша прибыль взлетела до небес."
+  },
+  {
+    "id": "708",
+    "start": 4684688,
+    "end": 4690004,
+    "enText": "So, all of a sudden, your mistake became your windfall.",
+    "ruText": "Так что неожиданно ваш просчёт превратился в джекпот."
+  },
+  {
+    "id": "709",
+    "start": 4690107,
+    "end": 4694270,
+    "enText": "I gave him that line. Yeah, she sure did, and it's a dandy.",
+    "ruText": "Это моя фраза. Конечно. Прекрасная фраза."
+  },
+  {
+    "id": "710",
+    "start": 4695150,
+    "end": 4699413,
+    "enText": "So, what exactly do you want? Transparency.",
+    "ruText": "Так чего вы хотите? Прозрачности."
+  },
+  {
+    "id": "711",
+    "start": 4699516,
+    "end": 4704401,
+    "enText": "We'd like the website to show the size of the jackpot.",
+    "ruText": "Мы бы хотели, чтобы ваш сайт показывал текущую сумму джекпота."
+  },
+  {
+    "id": "712",
+    "start": 4704905,
+    "end": 4708525,
+    "enText": "That prevents any group from forcing a roll down.",
+    "ruText": "Это не позволит никому устроить вынужденный ролл-даун."
+  },
+  {
+    "id": "713",
+    "start": 4709264,
+    "end": 4712564,
+    "enText": "Makes it fair for anybody who plays.",
+    "ruText": "И сделает игру честнее для всех."
+  },
+  {
+    "id": "714",
+    "start": 4712667,
+    "end": 4717672,
+    "enText": "And we would like two machines at the Liquor Hut in Sunderland.",
+    "ruText": "А ещё мы хотим два автомата в Ликёр Хате в Сандэрлэнде."
+  },
+  {
+    "id": "715",
+    "start": 4717776,
+    "end": 4730478,
+    "enText": "So we can be together. These are our golden years. We'll take care of it.",
+    "ruText": "Мы хотим быть вместе. Это наши золотые годы. Мы согласны."
+  },
+  {
+    "id": "716",
+    "start": 4731410,
+    "end": 4733343,
+    "enText": "Yeah, we'll be making another play soon.",
+    "ruText": "Да, скоро поставим ещё."
+  },
+  {
+    "id": "717",
+    "start": 4734624,
+    "end": 4738417,
+    "enText": "That's great to hear. Yeah. Talk soon.",
+    "ruText": "Я рад слышать. Да. До связи."
+  },
+  {
+    "id": "718",
+    "start": 4738521,
+    "end": 4741807,
+    "enText": "He's wants to bring in other partners from the firm. Dude, we might not ever need a real job.",
+    "ruText": "Он хочет позвать других партнёров. Чувак, нам даже работать не надо!"
+  },
+  {
+    "id": "719",
+    "start": 4741811,
+    "end": 4743802,
+    "enText": "They posted the jackpot. What?",
+    "ruText": "Они выложили джекпот. Что?"
+  },
+  {
+    "id": "720",
+    "start": 4743905,
+    "end": 4747337,
+    "enText": "The lottery changed the website. You can track the jackpot online.",
+    "ruText": "Лотерея изменила сайт. Они отображают сумму."
+  },
+  {
+    "id": "721",
+    "start": 4747640,
+    "end": 4751430,
+    "enText": "We can't roll it down anymore. Shit. Shit.",
+    "ruText": "Нам не устроить ролл-даун. Сука. Сука!"
+  },
+  {
+    "id": "722",
+    "start": 4752197,
+    "end": 4755124,
+    "enText": "All right, let's break this guy.",
+    "ruText": "Ладно. Мы его сломаем."
+  },
+  {
+    "id": "723",
+    "start": 4755227,
+    "end": 4756953,
+    "enText": "He wants a war? We'll give him one.",
+    "ruText": "Хочет войны? Пожалуйста."
+  },
+  {
+    "id": "724",
+    "start": 4765693,
+    "end": 4775351,
+    "enText": "You want some nachos? Uh, no. Yeah, I'll try some. You know, I'm good.",
+    "ruText": "Хотите начос? Э-э, нет. А я не против. Нет, я передумал."
+  },
+  {
+    "id": "725",
+    "start": 4786051,
+    "end": 4787560,
+    "enText": "Where is everyone? We're supposed to be betting.",
+    "ruText": "А где все? Мы же ставим."
+  },
+  {
+    "id": "726",
+    "start": 4787470,
+    "end": 4791850,
+    "enText": "Dude, it's over. Nobody wants to do it anymore.",
+    "ruText": "Чел, это конец. Все наши отказались ставить."
+  },
+  {
+    "id": "727",
+    "start": 4791753,
+    "end": 4795792,
+    "enText": "What? Why? We're winning. No. We're assholes.",
+    "ruText": "Почему? Мы выигрываем? Нет. Мы мудаки."
+  },
+  {
+    "id": "728",
+    "start": 4796096,
+    "end": 4798305,
+    "enText": "And that doesn't work for anybody but you.",
+    "ruText": "И доволен этим только ты."
+  },
+  {
+    "id": "729",
+    "start": 4800134,
+    "end": 4802516,
+    "enText": "Fine. I'll do it on my own.",
+    "ruText": "Отлично. Я сделаю все сам."
+  },
+  {
+    "id": "730",
+    "start": 4822708,
+    "end": 4830199,
+    "enText": "It's gonna be insane. Crazy. I told you we should have... Did you get the pretzels? Yeah.",
+    "ruText": "Будет просто улёт! Просто охренительно! Говорил же, надо нести всё... Крендельки взяли? Да, взяла."
+  },
+  {
+    "id": "731",
+    "start": 4834444,
+    "end": 4838483,
+    "enText": "This just came for you. Thank you. Oh. Finally.",
+    "ruText": "Тут тебе пришло... Спасибо. О, наконец-то."
+  },
+  {
+    "id": "732",
+    "start": 4839591,
+    "end": 4843288,
+    "enText": "Paycheck? Like I'd get excited about that.",
+    "ruText": "Зарплата? Как будто я была бы в восторге от этого."
+  },
+  {
+    "id": "733",
+    "start": 4843591,
+    "end": 4846870,
+    "enText": "No. State lottery commission.",
+    "ruText": "Нет. Реестр гос-лотереи."
+  },
+  {
+    "id": "734",
+    "start": 4846974,
+    "end": 4853429,
+    "enText": "They don't want to talk to me, but anybody that wins above 60,000 is in the public record. You just have to submit a request.",
+    "ruText": "Они не признаются, но все, кто выиграл больше шестидесяти тысяч, записаны в архиве, остаётся подать запрос."
+  },
+  {
+    "id": "735",
+    "start": 4853532,
+    "end": 4857709,
+    "enText": "Which I did, for every drawing in the last six months.",
+    "ruText": "Я и подала на каждый розыгрыш за последние полгода."
+  },
+  {
+    "id": "736",
+    "start": 4858779,
+    "end": 4866406,
+    "enText": "Gerald Selbee, every three weeks. Mmm-hmm.",
+    "ruText": "Джеральд Сэлби, каждые три недели."
+  },
+  {
+    "id": "737",
+    "start": 4866832,
+    "end": 4877878,
+    "enText": "Tyler Langford. Same drawings. There's another one. Huh.",
+    "ruText": "Тайлер Лэнгфорд. В те же дни. Есть ещё один. Так."
+  },
+  {
+    "id": "738",
+    "start": 4877881,
+    "end": 4885813,
+    "enText": "Tyler Langford. Tyler Langford. Okay, Tyler Langford, I see you.",
+    "ruText": "Тайлер Лэнгфорд. Тайлер Лэнгфорд. Что ж, Тайлер Лэнгфорд, я тебя вижу."
+  },
+  {
+    "id": "739",
+    "start": 4888340,
+    "end": 4894608,
+    "enText": "Best euro I've ever spent. Thanks, Raj. Thank you. Okay, girl.",
+    "ruText": "Лучшая трата евро в моей жизни. Спасибо, Радж. Тебе спасибо. Идём, малыш."
+  },
+  {
+    "id": "740",
+    "start": 4899244,
+    "end": 4904273,
+    "enText": "Darn! Whoa! Try one more time, sweetheart. Like a kangaroo.",
+    "ruText": "Попробуй ещё, дорогая. Как кенгуру."
+  },
+  {
+    "id": "741",
+    "start": 4904376,
+    "end": 4906689,
+    "enText": "Hey, would you hand me a 10 mil? Yeah.",
+    "ruText": "Дай ключ на семнадцать. Сейчас."
+  },
+  {
+    "id": "742",
+    "start": 4908053,
+    "end": 4912108,
+    "enText": "Ten mil. Here you go. Thank you.",
+    "ruText": "Семнадцать... Держи. Спасибо. Может, купишь новый пикап?"
+  },
+  {
+    "id": "743",
+    "start": 4912212,
+    "end": 4916578,
+    "enText": "You won't even buy yourself a new truck? Nah. This one works. Does it?",
+    "ruText": "Может, купишь новый пикап? Не, этот ещё на ходу. Правда?"
+  },
+  {
+    "id": "744",
+    "start": 4916482,
+    "end": 4921289,
+    "enText": "Not all the time. But I think that's why I like it.",
+    "ruText": "Ну, не всегда. Но это мне в нём и нравится."
+  },
+  {
+    "id": "745",
+    "start": 4921849,
+    "end": 4925811,
+    "enText": "You know what? I did buy this.",
+    "ruText": "Знаешь, что? Я купил вот это."
+  },
+  {
+    "id": "746",
+    "start": 4931783,
+    "end": 4937167,
+    "enText": "I counted nickels with you because it was something I understood.",
+    "ruText": "Мы с тобой считали монеты, потому что это дело было мне привычно."
+  },
+  {
+    "id": "747",
+    "start": 4939273,
+    "end": 4945106,
+    "enText": "I didn't know a better way to spend time with you. I just knew that I wanted to.",
+    "ruText": "Я не знал способа лучше провести с тобой время, но я правда очень хотел."
+  },
+  {
+    "id": "748",
+    "start": 4950215,
+    "end": 4951699,
+    "enText": "You know how it works?",
+    "ruText": "Знаешь, как это работает?"
+  },
+  {
+    "id": "749",
+    "start": 4951803,
+    "end": 4959673,
+    "enText": "Well, I assume you create spin, which gives it a third axis, so that the wind can offset the gravity.",
+    "ruText": "Ну, видимо, его надо закручивать, что даёт ему третью ось, в результате ветер нейтрализует гравитацию."
+  },
+  {
+    "id": "750",
+    "start": 4961295,
+    "end": 4968516,
+    "enText": "Yeah, that's it. Just like that. Wanna test that theory? All right.",
+    "ruText": "Да, точно. Просто так. Проверим теорию? Давай."
+  },
+  {
+    "id": "751",
+    "start": 4968620,
+    "end": 4977656,
+    "enText": "Fingers on the laces. Yeah. Oh, well. Not bad. I'll work it out. I know you will.",
+    "ruText": "Пальцы на шнурки. Да. Ну, м-да. Неплохо. Как-нибудь разберусь. Не сомневаюсь."
+  },
+  {
+    "id": "752",
+    "start": 4979037,
+    "end": 4984422,
+    "enText": "Oh, that's it. Mr. Selbee? Maya Jordon. Boston Globe.",
+    "ruText": "Да, вот так. Мистер Сэлби? Майя Джордон. Бостон Глоуб."
+  },
+  {
+    "id": "753",
+    "start": 4985671,
+    "end": 4989634,
+    "enText": "I'd like to ask you some questions about GS Investment Strategies.",
+    "ruText": "У меня есть пара вопросов про Инвестиционную Стратегию Джи-Эс."
+  },
+  {
+    "id": "754",
+    "start": 4991808,
+    "end": 4999368,
+    "enText": "So, you and your wife count tickets in a hotel room for 11 days? Yup.",
+    "ruText": "И вы с женой одиннадцать дней считаете билеты в номере отеля? Ага."
+  },
+  {
+    "id": "755",
+    "start": 5001231,
+    "end": 5009319,
+    "enText": "That's so much work. It doesn't seem like work.",
+    "ruText": "Это же куча работы. Для меня это не работа."
+  },
+  {
+    "id": "756",
+    "start": 5009523,
+    "end": 5017731,
+    "enText": "I've worked all my life. This is different. This is very different.",
+    "ruText": "Я работал всю жизнь. Это другое. Это совершенно другое."
+  },
+  {
+    "id": "757",
+    "start": 5031952,
+    "end": 5038407,
+    "enText": "You send it in yet? They helped their entire town. The flaw isn't the story.",
+    "ruText": "Ты отправила? Они помогли всему городу. Писать надо не про ошибку."
+  },
+  {
+    "id": "758",
+    "start": 5038510,
+    "end": 5042514,
+    "enText": "Well, this can't be a puff piece. I need a headline.",
+    "ruText": "Мне нужна не хвалебная статья, а заголовок."
+  },
+  {
+    "id": "759",
+    "start": 5055700,
+    "end": 5060412,
+    "enText": "Well, we do well on this one, we won't need the game anymore.",
+    "ruText": "Что ж, если сейчас нам повезёт, то играть больше не придётся."
+  },
+  {
+    "id": "760",
+    "start": 5061015,
+    "end": 5068989,
+    "enText": "You know, I was thinking, if we're going to have a fund for the town, managing it, it's gonna be a full-time job. Well...",
+    "ruText": "Я тут подумала, если мы организуем городской фонд, то его регулирование - настоящая работа. Ну..."
+  },
+  {
+    "id": "761",
+    "start": 5069092,
+    "end": 5075244,
+    "enText": "Hey, you think we can get one of those offices downtown, like Steve's? What?",
+    "ruText": "Как ты думаешь, мы сможем купить офис в центре, как у Стива? Что?"
+  },
+  {
+    "id": "762",
+    "start": 5075347,
+    "end": 5079102,
+    "enText": "I already got us one right next to his. You did? Yes!",
+    "ruText": "Я уже купила нам офис поблизости. Правда? Да!"
+  },
+  {
+    "id": "763",
+    "start": 5079206,
+    "end": 5082416,
+    "enText": "In fact, his Corvette is actually in one of our parking spots.",
+    "ruText": "Теперь его Корветт будет стоять на нашей парковке."
+  },
+  {
+    "id": "764",
+    "start": 5082520,
+    "end": 5084522,
+    "enText": "Well, we'll have to take care of that.",
+    "ruText": "Да, это придётся исправить."
+  },
+  {
+    "id": "765",
+    "start": 5084625,
+    "end": 5094849,
+    "enText": "What? They're moving out the WinFall machine. Hey, hey! Hey. Hey! Hey. Bill! Bill, what happened?",
+    "ruText": "Что? Они выносят автомат Уинфолл. Эй, эй! Эй, эй! Эй! Билл! Билл, что случилось?"
+  },
+  {
+    "id": "766",
+    "start": 5094853,
+    "end": 5104783,
+    "enText": "The lottery suspended our license. Why? You didn't see the article? ",
+    "ruText": "Лотерея аннулировала лицензию. Почему? Ты не видел статью? "
+  },
+  {
+    "id": "767",
+    "start": 5112905,
+    "end": 5121524,
+    "enText": "Hey, buddy. How's school? Uh, Dad. What are you doing here? You're famous. Great move, genius.",
+    "ruText": "Привет. Как учёба? Папа. Ты здесь откуда? Ты знаменитость. Отличный ход, гений."
+  },
+  {
+    "id": "768",
+    "start": 5121628,
+    "end": 5126426,
+    "enText": "Let's go. Pack up your stuff. You're coming home. Now.",
+    "ruText": "Идём. Собирай вещи. Мы едем домой. Живо."
+  },
+  {
+    "id": "769",
+    "start": 5129121,
+    "end": 5135473,
+    "enText": "The high-volume betting groups discovered a flaw in the game and took advantage of it, to the tune of millions of dollars.",
+    "ruText": "Крупнейшие игроки нашли в игре важнейший изъян и воспользовались им, тем самым выиграв миллионы долларов."
+  },
+  {
+    "id": "770",
+    "start": 5135476,
+    "end": 5141993,
+    "enText": "Lottery officials expressed their surprise at the discovery and announced they will phase out the game after tonight's drawing.",
+    "ruText": "Организаторы лотереи были весьма удивлены и объявили о закрытии игры с сегодняшнего дня."
+  },
+  {
+    "id": "771",
+    "start": 5142096,
+    "end": 5147895,
+    "enText": "Moving on to our next... The last roll down was today. You could've gotten your final win.",
+    "ruText": "А теперь к последним... Сегодня был последний ролл-даун. У вас был шанс выиграть."
+  },
+  {
+    "id": "772",
+    "start": 5150484,
+    "end": 5156594,
+    "enText": "Yes. But even if we found a place to bet, it wouldn't have felt the same.",
+    "ruText": "Да, но даже если бы мы нашли, где поставить, всё было бы уже по другому."
+  },
+  {
+    "id": "773",
+    "start": 5160056,
+    "end": 5162945,
+    "enText": "It was more than just a game to him.",
+    "ruText": "Для него это была не просто игра."
+  },
+  {
+    "id": "774",
+    "start": 5167474,
+    "end": 5170987,
+    "enText": "He finally got to use his gift to connect to people.",
+    "ruText": "Он наконец смог применить свой дар в общении."
+  },
+  {
+    "id": "775",
+    "start": 5181491,
+    "end": 5184501,
+    "enText": "Jerry! What?",
+    "ruText": "Джерри! Что? Инвесторы собираются,"
+  },
+  {
+    "id": "776",
+    "start": 5184505,
+    "end": 5188436,
+    "enText": "The shareholders are having a meeting tonight and were wondering if you could stop by.",
+    "ruText": "Сегодня вечером у инвесторов собрание,  и они хотят, чтобы ты заглянул."
+  },
+  {
+    "id": "777",
+    "start": 5188940,
+    "end": 5192388,
+    "enText": "Are they upset? If I told you that, you wouldn't come.",
+    "ruText": "Они расстроены? Если я отвечу, ты не придёшь."
+  },
+  {
+    "id": "778",
+    "start": 5195564,
+    "end": 5198014,
+    "enText": "I tried to answer all their questions in the newsletter.",
+    "ruText": "Я же пытался ответить на вопросы в рассылке."
+  },
+  {
+    "id": "779",
+    "start": 5198118,
+    "end": 5200154,
+    "enText": "I don't think they know how to open the newsletter.",
+    "ruText": "Не думаю, что они знают, как ее открыть."
+  },
+  {
+    "id": "780",
+    "start": 5200158,
+    "end": 5204365,
+    "enText": "They don't have to worry about anything. We didn't break any laws.",
+    "ruText": "Им не нужно ни о чём волноваться. Мы не нарушали закон."
+  },
+  {
+    "id": "781",
+    "start": 5207645,
+    "end": 5223626,
+    "enText": "Holy... It's jazz fest? What? Jerry! Marge! Huh. Yeah! Come on! Let's do this!",
+    "ruText": "Боже, это фестиваль джаза? Что? Джерри! Мардж! Да! Сюда! Идите сюда!"
+  },
+  {
+    "id": "782",
+    "start": 5228182,
+    "end": 5238917,
+    "enText": "Yeah! Okay, right? Jer and Marge! How did you... We missed the final play. Oh, no, we did not.",
+    "ruText": "Да! Здорово, а? Джер и Мардж! Но как вы... Мы пропустили последний розыгрыш. О, нет, не пропустили."
+  },
+  {
+    "id": "783",
+    "start": 5238921,
+    "end": 5241506,
+    "enText": "Yeah, everybody took a store, Dad. All across the state.",
+    "ruText": "Мы поехали по магазинам по всему штату."
+  },
+  {
+    "id": "784",
+    "start": 5241610,
+    "end": 5245030,
+    "enText": "We had a bus and everything. What? Oh.",
+    "ruText": "Даже автобус взяли! Что?"
+  },
+  {
+    "id": "785",
+    "start": 5245034,
+    "end": 5248686,
+    "enText": "You didn't have to do that. You did it for us. Why wouldn't we do it for you?",
+    "ruText": "Это было не обязательно. Ты делал это для нас, и мы должны вам."
+  },
+  {
+    "id": "786",
+    "start": 5248689,
+    "end": 5258661,
+    "enText": "And don't worry, we left you two the counting part. Hey, Raj!",
+    "ruText": "И самое главное, считать билеты будете вы. Привет, Радж! "
+  },
+  {
+    "id": "787",
+    "start": 5258665,
+    "end": 5264536,
+    "enText": "I would help, but, uh, I can't count. Yes, you can. I can count. I just don't like to count.",
+    "ruText": "Я бы помог, но, э-э, не умею считать. Умеешь. Да, умею, только не люблю."
+  },
+  {
+    "id": "788",
+    "start": 5264640,
+    "end": 5267843,
+    "enText": "This town isn't just a newspaper article, Jerry. It's all of us.",
+    "ruText": "Этот город - не просто статья в газете. Это все мы."
+  },
+  {
+    "id": "789",
+    "start": 5267946,
+    "end": 5273814,
+    "enText": "And you brought this town back from the dead when nobody else could, because you don't think we're just numbers.",
+    "ruText": "Ты возродил этот город из пепла, когда никто не мог, ведь ты не видишь в нас просто числа."
+  },
+  {
+    "id": "790",
+    "start": 5275961,
+    "end": 5279544,
+    "enText": "No. No. You're family.",
+    "ruText": "Нет, нет. Вы семья."
+  },
+  {
+    "id": "791",
+    "start": 5280652,
+    "end": 5287379,
+    "enText": "Ladies and gentlemen, please put your hands together for Tori Kelly!",
+    "ruText": "Дамы и господа, поприветствуйте аплодисментами нашу гостью Тори Келли!"
+  },
+  {
+    "id": "792",
+    "start": 5287483,
+    "end": 5292661,
+    "enText": "Stars shining bright Above you",
+    "ruText": "Над тобой ярко светят звёзды"
+  },
+  {
+    "id": "793",
+    "start": 5292764,
+    "end": 5297666,
+    "enText": "Night breezes seem To whisper \"I love you...\"",
+    "ruText": "Ночной ветерок, кажется, шепчет: \"Я люблю тебя!\""
+  },
+  {
+    "id": "794",
+    "start": 5297769,
+    "end": 5302709,
+    "enText": "Shall we? It is jazz fest. Birds singing in the Sycamore tree",
+    "ruText": "Потанцуем? Мы же на фестивале.  Птицы сонно поют на деревьях"
+  },
+  {
+    "id": "795",
+    "start": 5302912,
+    "end": 5307572,
+    "enText": "Dream a little dream of me",
+    "ruText": "Надеюсь, в твоих снах найдётся место для меня"
+  },
+  {
+    "id": "796",
+    "start": 5308787,
+    "end": 5314027,
+    "enText": "Say nighty-night And kiss me",
+    "ruText": "Скажи: \"Спокойной ночи!\" и поцелуй меня"
+  },
+  {
+    "id": "797",
+    "start": 5314030,
+    "end": 5319319,
+    "enText": "Just hold me tight And tell me you'll miss me",
+    "ruText": "Просто обними меня покрепче и скажи, что будешь скучать по мне"
+  },
+  {
+    "id": "798",
+    "start": 5319322,
+    "end": 5324140,
+    "enText": "While I'm alone and blue As can be",
+    "ruText": "Пока я буду грустить в одиночестве"
+  },
+  {
+    "id": "799",
+    "start": 5324144,
+    "end": 5328144,
+    "enText": "Dream a little dream of me",
+    "ruText": "Надеюсь, в твоих снах найдётся место для меня"
+  },
+  {
+    "id": "800",
+    "start": 5330043,
+    "end": 5335082,
+    "enText": "Stars fading But I linger on, dear...",
+    "ruText": "Звёзды уже исчезают, но я ещё побуду с тобой, милая"
+  },
+  {
+    "id": "801",
+    "start": 5335890,
+    "end": 5338603,
+    "enText": "Hey, Steve. Hey, Rhoda.",
+    "ruText": "Привет, Стив. Привет, Рода."
+  },
+  {
+    "id": "802",
+    "start": 5338707,
+    "end": 5342342,
+    "enText": "Hey, you know, I've been working on that Eat, Pray, Love trip for you. I got some great rates.",
+    "ruText": "Эй, ты знаешь, я работал над путешествием \"Ешь, молись, люби\" для тебя. У меня отличные расценки."
+  },
+  {
+    "id": "803",
+    "start": 5342345,
+    "end": 5346998,
+    "enText": "Ooh. That's exciting. Thank you. Yeah. Yeah, sure.",
+    "ruText": "Ого, как интересно. Спасибо. Не за что. "
+  },
+  {
+    "id": "804",
+    "start": 5347101,
+    "end": 5350480,
+    "enText": "Um, do you want to dance?",
+    "ruText": "А не хочешь потанцевать?"
+  },
+  {
+    "id": "805",
+    "start": 5350684,
+    "end": 5354170,
+    "enText": "Um, yeah. I mean, do you?",
+    "ruText": "Э-э, хочу. А ты хочешь?"
+  },
+  {
+    "id": "806",
+    "start": 5354274,
+    "end": 5356483,
+    "enText": "Yes. That's why I asked.",
+    "ruText": "Ну, поэтому и спросила."
+  },
+  {
+    "id": "807",
+    "start": 5356586,
+    "end": 5362558,
+    "enText": "Right. That does make sense. Yeah. Okay.",
+    "ruText": "Да, да, точно. Звучит вполне логично. Да. Вперёд."
+  },
+  {
+    "id": "808",
+    "start": 5362562,
+    "end": 5366907,
+    "enText": "But in your dreams Whatever they be",
+    "ruText": "Но в твоих снах, какими бы они ни были"
+  },
+  {
+    "id": "809",
+    "start": 5367011,
+    "end": 5371187,
+    "enText": "Dream a little dream Of me...",
+    "ruText": "Надеюсь, найдётся место для меня"
+  },
+  {
+    "id": "810",
+    "start": 5372644,
+    "end": 5377297,
+    "enText": "How badly do you want to go and just count all those tickets?",
+    "ruText": "Как сильно ты хочешь уйти и подсчитать все билеты? "
+  },
+  {
+    "id": "811",
+    "start": 5377400,
+    "end": 5380818,
+    "enText": "It's taking everything in me not to do it right now.",
+    "ruText": "Прикладываю всевозможные силы, чтобы сдержаться."
+  },
+  {
+    "id": "812",
+    "start": 5380921,
+    "end": 5386133,
+    "enText": "I'm going to miss it. Yeah, yeah. Me, too.",
+    "ruText": "Я буду по ним скучать. Да, да. Я тоже."
+  },
+  {
+    "id": "813",
+    "start": 5387773,
+    "end": 5392105,
+    "enText": "I kinda wish we'd won the jackpot. Just once.",
+    "ruText": "Мне так хотелось сорвать джекпот. Хоть раз."
+  },
+  {
+    "id": "814",
+    "start": 5393320,
+    "end": 5396496,
+    "enText": "I won the jackpot before we ever started.",
+    "ruText": "Я сорвал свой джекпот много лет назад."
+  },
+  {
+    "id": "815",
+    "start": 5396699,
+    "end": 5401787,
+    "enText": "Stars fading But I linger on, dear",
+    "ruText": "Звёзды уже исчезают, но я ещё побуду с тобой, милая"
+  },
+  {
+    "id": "816",
+    "start": 5401787,
+    "end": 5406644,
+    "enText": "Still craving your kiss...",
+    "ruText": "Всё ещё желаю целовать тебя"
+  },
+  {
+    "id": "817",
+    "start": 5406747,
+    "end": 5411842,
+    "enText": "Jerry and Marge dissolved our betting group when the WinFall game was phased out.",
+    "ruText": "Джерри и Мардж распустили нашу группу, после того, как закрыли лотерею Уинфолл."
+  },
+  {
+    "id": "818",
+    "start": 5412546,
+    "end": 5418559,
+    "enText": "They used most of their lottery winnings to start a construction loan business for the town of Evart.",
+    "ruText": "Большую часть денег они потратили на открытие строительного бизнеса в городке Эварт."
+  },
+  {
+    "id": "819",
+    "start": 5419063,
+    "end": 5424040,
+    "enText": "Like many of their friends and neighbors, they also put their children and grandchildren through school.",
+    "ruText": "Как и многие их друзья и соседи, они вложились в образование своих детей и внуков."
+  },
+  {
+    "id": "820",
+    "start": 5425414,
+    "end": 5430816,
+    "enText": "I myself invested in a very luxurious man cave.",
+    "ruText": "Ну, а я устроил себе максимально комфортную мужскую берлогу."
+  },
+  {
+    "id": "821",
+    "start": 5430920,
+    "end": 5439649,
+    "enText": "Jerry did finally give in and buy himself a new truck, which was actually slightly used, because he calculated that was a smarter purchase.",
+    "ruText": "Джерри в конце концов сдался и купил себе новый пикап, правда слегка подержанный, ведь он рассчитал, что так будет выгоднее."
+  },
+  {
+    "id": "822",
+    "start": 5439853,
+    "end": 5448264,
+    "enText": "And he would know. His lottery calculation won a grand total of $27 million.",
+    "ruText": "Он в этом понимает. Суммарно его подсчёты на лотерее принесли двадцать семь миллионов долларов."
+  },
+  {
+    "id": "823",
+    "start": 5448368,
+    "end": 5460760,
+    "enText": "Okay, let's go count. He made how much?",
+    "ruText": "Ну, пойдём считать. Сколько он заработал?"
+  }
+]
