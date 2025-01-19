@@ -1,0 +1,5938 @@
+[
+  {
+    "id": "0",
+    "start": 73000,
+    "end": 104271,
+    "enText": "Intro",
+    "ruText": "Вступление"
+  },
+  {
+    "id": "1",
+    "start": 104271,
+    "end": 106356,
+    "enText": "Morning. Morning.",
+    "ruText": "Доброе утро. Доброе."
+  },
+  {
+    "id": "2",
+    "start": 124708,
+    "end": 127169,
+    "enText": "Looking for something? Yeah.",
+    "ruText": "Что-то ищете? Да..."
+  },
+  {
+    "id": "3",
+    "start": 127169,
+    "end": 129588,
+    "enText": "A hardcover of Their Eyes Were Watching God.",
+    "ruText": "«Их глаза видели Бога» в твердой обложке."
+  },
+  {
+    "id": "4",
+    "start": 130797,
+    "end": 133258,
+    "enText": "Hardcover? Yeah. I think we have one.",
+    "ruText": "В твердой. Да. Кажется, была."
+  },
+  {
+    "id": "5",
+    "start": 155405,
+    "end": 159977,
+    "enText": "Thanks. You know, I actually haven't read much Hurston.",
+    "ruText": "Спасибо. А я у Хёрстон мало что читал."
+  },
+  {
+    "id": "6",
+    "start": 160077,
+    "end": 163656,
+    "enText": "Yeah, she's great. It's actually a gift for my professor.",
+    "ruText": "Она классная. Это подарок преподавателю."
+  },
+  {
+    "id": "7",
+    "start": 163956,
+    "end": 167109,
+    "enText": "Okay. You're a student. Getting my PhD.",
+    "ruText": "А, ты студентка. Я аспирантка."
+  },
+  {
+    "id": "8",
+    "start": 168953,
+    "end": 174274,
+    "enText": "Columbia? NYU? NYU. Nice. What's your... What's your thesis topic?",
+    "ruText": "Колумбийский? Нью-Йоркский? Нью-Йоркский. Круто. А какая... Тема диссертации?"
+  },
+  {
+    "id": "9",
+    "start": 174374,
+    "end": 180597,
+    "enText": "\"Redefining Radicalism: The Rise of Black Feminism in American Literature.\" Oh, wow. That's a mouthful.",
+    "ruText": "«Переосмысление радикализма: Черный феминизм в американской литературе». Офигеть. Это мощно."
+  },
+  {
+    "id": "10",
+    "start": 181890,
+    "end": 186478,
+    "enText": "How's that going? Slowly. Very slowly. Oh, yeah?",
+    "ruText": "И как идет? Туго. Очень туго. Ну ясно."
+  },
+  {
+    "id": "11",
+    "start": 186478,
+    "end": 191567,
+    "enText": "Irma Thomas... Well, I'm impressed. ...\"Ruler of my Heart\" on WNYC.",
+    "ruText": "Ирма Томас... Впечатляет. «Ruler of my heart» на WNYC."
+  },
+  {
+    "id": "12",
+    "start": 191567,
+    "end": 194653,
+    "enText": "That'll be 15 even. ...New York public radio. Thank you.",
+    "ruText": "Так, 15 ровно. Общественное радио Нью-Йорка."
+  },
+  {
+    "id": "13",
+    "start": 194653,
+    "end": 201943,
+    "enText": "I'm John Schaefer, and if the soul queen of New Orleans couldn't lighten the mood, maybe Duke Ellington will.",
+    "ruText": "Я Джон Чембер... и если королева соула из Нового Орлеана вас не порадовала, может, Дюк Эллингтон сможет?"
+  },
+  {
+    "id": "14",
+    "start": 201943,
+    "end": 207624,
+    "enText": "Here's his classic version of \"In a Sentimental Mood,\" featuring John Coltrane.",
+    "ruText": "Классическая версия «In a Sentimental Mood» с Джоном Колтрейном."
+  },
+  {
+    "id": "15",
+    "start": 209877,
+    "end": 213088,
+    "enText": "There's actually this little Japanese restaurant on Mott Street.",
+    "ruText": "Тут есть один японский ресторанчик на Мотт-стрит."
+  },
+  {
+    "id": "16",
+    "start": 215966,
+    "end": 220804,
+    "enText": "If you're not doing anything later, dinner's on me. Sorry.",
+    "ruText": "Хочешь - поужинаем? Я угощаю. Прости."
+  },
+  {
+    "id": "17",
+    "start": 222523,
+    "end": 226518,
+    "enText": "No. That's... You probably have a boyfriend. No, I don't. I'm single.",
+    "ruText": "Ничего. У тебя парень есть, да? Нет-нет. Я одна."
+  },
+  {
+    "id": "18",
+    "start": 228270,
+    "end": 234818,
+    "enText": "I'm-I'm single, and I kinda like being single. Oh, yeah. No, I totally get that.",
+    "ruText": "Я сейчас одна, и это даже прикольно. Ладно. Не-не, я всё понимаю."
+  },
+  {
+    "id": "19",
+    "start": 236528,
+    "end": 239598,
+    "enText": "Your card's not going through. I must've maxed it out again.",
+    "ruText": "Твоя карточка не проходит. Опять лимит превысила."
+  },
+  {
+    "id": "20",
+    "start": 239698,
+    "end": 245763,
+    "enText": "Let me see if I have enough cash. It's fine. It's fine.",
+    "ruText": "Сейчас, я поищу наличку... Не торопись."
+  },
+  {
+    "id": "21",
+    "start": 245963,
+    "end": 248165,
+    "enText": "You know what? Actually just take the book.",
+    "ruText": "Не надо, не ищи, забирай так."
+  },
+  {
+    "id": "22",
+    "start": 249416,
+    "end": 253245,
+    "enText": "No, I couldn't. What if someone else came in looking... They can order it online.",
+    "ruText": "Нет, не стоит. Вдруг кому-то нужно. Закажут онлайн."
+  },
+  {
+    "id": "23",
+    "start": 253345,
+    "end": 256048,
+    "enText": "Or whatever. It's fine. You can come back and pay for it later.",
+    "ruText": "Я не знаю... Не страшно. Занесешь деньги позже."
+  },
+  {
+    "id": "24",
+    "start": 257716,
+    "end": 265974,
+    "enText": "Thank you. I... Yeah. I promise I'll be back with the money. Yeah. Thank you. Bye. See ya.",
+    "ruText": "Спасибо. Я... Да ладно. Я заплачу, честное слово. Ладно. Пока. Давай."
+  },
+  {
+    "id": "25",
+    "start": 275150,
+    "end": 281156,
+    "enText": "You probably have a boyfriend. Idiot. \"Probably have a boyfriend.\"",
+    "ruText": "У тебя парень есть? Дебил. «Парень есть, да?»"
+  },
+  {
+    "id": "26",
+    "start": 290582,
+    "end": 294711,
+    "enText": "Hi. Remember me? Hey. Yeah. Got your money.",
+    "ruText": "Привет. Помнишь? Привет. Да. Вот деньги."
+  },
+  {
+    "id": "27",
+    "start": 294711,
+    "end": 296630,
+    "enText": "You didn't have to do that today.",
+    "ruText": "Необязательно было сегодня."
+  },
+  {
+    "id": "28",
+    "start": 296630,
+    "end": 301176,
+    "enText": "I didn't wanna leave you hanging. Thank you.",
+    "ruText": "Я не хотела затягивать. Спасибо."
+  },
+  {
+    "id": "29",
+    "start": 302344,
+    "end": 313272,
+    "enText": "Just keep the change. Okay. Thanks. Okay. Well. See ya. All right. Yeah. Yeah. Have a good one. You too.",
+    "ruText": "Сдачи не надо. Ладно. Спасибо. Ладно. Тогда пока. Счастливо. Давай. Удачи. И тебе."
+  },
+  {
+    "id": "30",
+    "start": 321405,
+    "end": 326018,
+    "enText": "Hey. Hello. So, remember this morning when you asked me out to dinner?",
+    "ruText": "Привет. Привет. Помнишь, ты меня утром на ужин приглашал?"
+  },
+  {
+    "id": "31",
+    "start": 326118,
+    "end": 331582,
+    "enText": "Oh, yeah. I'm sorry. I didn't mean to... No, no, no. I... I actually wanted to say yes.",
+    "ruText": "А, да. Извини. Я ничего такого... Нет, нет. Я... Я хотела согласиться."
+  },
+  {
+    "id": "32",
+    "start": 332332,
+    "end": 337421,
+    "enText": "I was standing there thinking how nice it would be if this guy asked me out, and right as I thought it, you did. And I...",
+    "ruText": "Я там стояла и думала: «Вот бы он меня куда-то пригласил», и тут ты про ужин. А я..."
+  },
+  {
+    "id": "33",
+    "start": 337921,
+    "end": 343343,
+    "enText": "I don't know. I panicked. You panicked? I panicked.",
+    "ruText": "Даже не знаю, я растерялась. Растерялась? Я растерялась."
+  },
+  {
+    "id": "34",
+    "start": 345053,
+    "end": 353103,
+    "enText": "I'm Sandra. Tom. Nice to meet you, Tom. Nice to meet you.",
+    "ruText": "Я Сандра. Том. Очень приятно, Том. Взаимно."
+  },
+  {
+    "id": "35",
+    "start": 354438,
+    "end": 363155,
+    "enText": "So, Mott Street? Yeah. If that... Yeah. Okay. Yeah. Okay. This way. You... After you. Yeah. All right.",
+    "ruText": "Ну что, на Мотт-стрит? Да, если... Да. Туда? Ладно. Идем. Это там. Нет, после вас. Хорошо."
+  },
+  {
+    "id": "36",
+    "start": 363155,
+    "end": 370829,
+    "enText": "I have my bag. No, I do too. It's getting kind of cold. That... Sorry... Backpack buddies. Buddies.",
+    "ruText": "Да, только я с рюкзаком. Ничего. Я тоже. Если что, скажем, что мы... Рюкзачные маньяки."
+  },
+  {
+    "id": "37",
+    "start": 370829,
+    "end": 376476,
+    "enText": "Yeah, and, like, what have I gotten myself into? You know? Like, a short story is one thing.",
+    "ruText": "Ну и я такой: во что я, блин, ввязался? Понимаешь, рассказ - еще куда ни шло."
+  },
+  {
+    "id": "38",
+    "start": 376476,
+    "end": 379822,
+    "enText": "A novel, that's, like, 300 pages and... I know. And sometimes more.",
+    "ruText": "А в романе страниц 300, и вообще... Да, даже больше."
+  },
+  {
+    "id": "39",
+    "start": 379922,
+    "end": 383809,
+    "enText": "Exactly. And, you know, here they are offering me real money, you know? I have to deliver something.",
+    "ruText": "А мне ведь реальные деньги предложили. Я должен что-то выдать."
+  },
+  {
+    "id": "40",
+    "start": 384009,
+    "end": 389706,
+    "enText": "So, what'd you do? I had a year-long panic attack, and I... I wrote this book that was terrible.",
+    "ruText": "И что выдал? Сначала - год панических атак. Потом просто ужасную книгу."
+  },
+  {
+    "id": "41",
+    "start": 389806,
+    "end": 394186,
+    "enText": "Come on. I'm sure it wasn't that bad. No, no, it was bad. It was... It was awful. They wouldn't publish it.",
+    "ruText": "Да ладно. Такую уж ужасную. Не, я серьезно. Ее даже не опубликовали."
+  },
+  {
+    "id": "42",
+    "start": 395062,
+    "end": 399816,
+    "enText": "Ouch. Yeah. Sorry. No, it's fine. You know, at least I got to keep the advance.",
+    "ruText": " Жалко. Да неважно. Хоть аванс не забрали."
+  },
+  {
+    "id": "43",
+    "start": 401360,
+    "end": 404530,
+    "enText": "Do you still write? No. Not really.",
+    "ruText": "Ты еще пишешь? Нет. Перестал."
+  },
+  {
+    "id": "44",
+    "start": 405364,
+    "end": 407866,
+    "enText": "You know, all this happened around the time that my mom died, and...",
+    "ruText": "Просто у меня тогда еще мама умерла, и..."
+  },
+  {
+    "id": "45",
+    "start": 409826,
+    "end": 414748,
+    "enText": "I don't know, I... Things got dark for me, and I kinda just gave up.",
+    "ruText": "Ну и настал такой мрачный период. И я забил."
+  },
+  {
+    "id": "46",
+    "start": 417417,
+    "end": 422589,
+    "enText": "My parents died when I was a kid. I'm sorry to hear that.",
+    "ruText": "Я родителей потеряла рано. Сочувствую."
+  },
+  {
+    "id": "47",
+    "start": 424383,
+    "end": 430514,
+    "enText": "Must've been tough. Anyway, yeah.",
+    "ruText": "Это тяжело. О чём это я? Да!"
+  },
+  {
+    "id": "48",
+    "start": 431390,
+    "end": 432766,
+    "enText": "I started managing the bookstore.",
+    "ruText": "Я начал управлять книжным магазином."
+  },
+  {
+    "id": "49",
+    "start": 433267,
+    "end": 435978,
+    "enText": "That kinda pulled me out of my depression, or whatever.",
+    "ruText": "Это типа вытащило меня из депрессии и..."
+  },
+  {
+    "id": "50",
+    "start": 436078,
+    "end": 438939,
+    "enText": "And, yeah, it takes up most of my time.",
+    "ruText": "Короче, так и живу."
+  },
+  {
+    "id": "51",
+    "start": 438939,
+    "end": 443402,
+    "enText": "Must be nice being surrounded by books all day. It's the best.",
+    "ruText": "Здорово, когда вокруг столько книг. Офигенно."
+  },
+  {
+    "id": "52",
+    "start": 446655,
+    "end": 451827,
+    "enText": "After my parents passed, my brother and I hopped from one foster family to the next.",
+    "ruText": "Когда родителей не стало, нас с братом футболили от одной приемной семьи к другой."
+  },
+  {
+    "id": "53",
+    "start": 452744,
+    "end": 456456,
+    "enText": "One point, we were staying with this couple that had this great collection of novels.",
+    "ruText": "Одно время мы жили у пары, у них была роскошная коллекция книг."
+  },
+  {
+    "id": "54",
+    "start": 457457,
+    "end": 463589,
+    "enText": "And one night, I started reading Jane Eyre, and here was this character that was, sort of, going through everything I was going through.",
+    "ruText": "И как-то раз я взяла «Джейн Эйр». А там с героиней случается всё то же, что со мной, один в один."
+  },
+  {
+    "id": "55",
+    "start": 463589,
+    "end": 466550,
+    "enText": "And I didn't want it to end.",
+    "ruText": "Я не могла оторваться."
+  },
+  {
+    "id": "56",
+    "start": 467384,
+    "end": 470929,
+    "enText": "I finished it, went back to page one and started reading it all over again.",
+    "ruText": "А когда дочитала, открыла первую страницу и начала заново."
+  },
+  {
+    "id": "57",
+    "start": 473015,
+    "end": 474600,
+    "enText": "Just loved books ever since.",
+    "ruText": "С тех пор обожаю книги."
+  },
+  {
+    "id": "58",
+    "start": 476226,
+    "end": 484026,
+    "enText": "Jane Eyre, huh? Jane Eyre. Can I show you something?",
+    "ruText": "«Джейн Эйр», да? «Джейн Эйр». Ты удивишься."
+  },
+  {
+    "id": "59",
+    "start": 532115,
+    "end": 536036,
+    "enText": "Oh, my God. Is this a first edition?",
+    "ruText": "Ничего себе. Это первое издание?"
+  },
+  {
+    "id": "60",
+    "start": 539039,
+    "end": 549424,
+    "enText": "Is this real? This is real. How can I be sure?",
+    "ruText": "Это не сон? Это не сон. А чем докажешь?"
+  },
+  {
+    "id": "61",
+    "start": 569278,
+    "end": 571922,
+    "enText": "I mean, some of these professors are so obnoxious.",
+    "ruText": "Слушай, попадаются такие противные преподы."
+  },
+  {
+    "id": "62",
+    "start": 572022,
+    "end": 575951,
+    "enText": "Actually used the phrase \"the vaginization of German literature.\"",
+    "ruText": "Он реально сказал «вагинизация немецкой литературы»."
+  },
+  {
+    "id": "63",
+    "start": 575951,
+    "end": 579538,
+    "enText": "The what? I mean, I'm pretty sure \"vaginization\" isn't even a real word.",
+    "ruText": "Что? Я почти уверена, что \"вагинизация\" - это даже не настоящее слово."
+  },
+  {
+    "id": "64",
+    "start": 581373,
+    "end": 584626,
+    "enText": "Where'd you learn how to cook? I spent my junior year in Florence.",
+    "ruText": "Где научилась готовить? Я провела свой первый год обучения во Флоренции."
+  },
+  {
+    "id": "65",
+    "start": 584910,
+    "end": 586461,
+    "enText": "Do you speak Italian?",
+    "ruText": "Говоришь по-итальянски?"
+  },
+  {
+    "id": "66",
+    "start": 586962,
+    "end": 592833,
+    "enText": "I used to speak it well, now it's a bit rusty, unfortunately. Did you like Italy?",
+    "ruText": "Раньше хорошо говорила. Но, к сожалению, подзабыла. Нравилось в Италии?"
+  },
+  {
+    "id": "67",
+    "start": 595137,
+    "end": 597931,
+    "enText": "I have great memories. This is amazing!",
+    "ruText": "Теплые воспоминания. Вот это прыжок!"
+  },
+  {
+    "id": "68",
+    "start": 597931,
+    "end": 601468,
+    "enText": "But, I had this boyfriend who was a real jerk.",
+    "ruText": "Правда, встречалась я там с настоящим придурком."
+  },
+  {
+    "id": "69",
+    "start": 606732,
+    "end": 609518,
+    "enText": "And what about you? Where did you learn to speak Italian?",
+    "ruText": "Ну а ты? Где ты научился говорить по-итальянски?"
+  },
+  {
+    "id": "70",
+    "start": 609518,
+    "end": 614823,
+    "enText": "My mom was from Italy. And I watch a lot of Fellini movies. I love Fellini.",
+    "ruText": "Моя мама была из Италии. А еще я часто смотрю Феллини. О, обожаю Феллини."
+  },
+  {
+    "id": "71",
+    "start": 615949,
+    "end": 621872,
+    "enText": "Have you ever had your heart broken? Yeah, once or twice.",
+    "ruText": "Тебе когда-нибудь разбивали сердце? Ну, было пару раз."
+  },
+  {
+    "id": "72",
+    "start": 646396,
+    "end": 669586,
+    "enText": "I really like you. Okay. I really like you too. Okay.",
+    "ruText": "Ты правда мне нравишься. Круто. И ты мне нравишься."
+  },
+  {
+    "id": "73",
+    "start": 672473,
+    "end": 676343,
+    "enText": "Just hear me out. No, just... No, I can't. I need your help. I'm not doing this.",
+    "ruText": "Дай объяснить. Я не могу. Мне нужна помощь. Я пас. В смысле? Сказала - не могу."
+  },
+  {
+    "id": "74",
+    "start": 676343,
+    "end": 678011,
+    "enText": "What do you mean you're not doing this? I can't.",
+    "ruText": "В смысле? Сказала - не могу."
+  },
+  {
+    "id": "75",
+    "start": 678011,
+    "end": 681682,
+    "enText": "It's me and you. It's me and you against the world, do you remember that? Can you please just go?",
+    "ruText": "Мы вместе. Ты и я против всех. Забыла? Прошу, уйди."
+  },
+  {
+    "id": "76",
+    "start": 681682,
+    "end": 683934,
+    "enText": "It's me and you against the world. Jason, I need you to stop.",
+    "ruText": "Слушай. Мы... Джейсон, хватит."
+  },
+  {
+    "id": "77",
+    "start": 683934,
+    "end": 692784,
+    "enText": "Please, I need you. Don't walk out on me. You are the last thing that I have on this earth. You are the last person... Jason! Sandra! Jason, please don't. Sandra!",
+    "ruText": "Ты мне нужна. Не бросай меня. У меня никого. Только ты... Джейсон! Какого хрена? Сандра! Сандра!"
+  },
+  {
+    "id": "78",
+    "start": 692784,
+    "end": 696947,
+    "enText": "Just go. Just go. Please. Please open the door. Sandra, Sandra, open the door.",
+    "ruText": "Просто уходи. Сандра! Пожалуйста. Открой. Сандра, открой дверь."
+  },
+  {
+    "id": "79",
+    "start": 698031,
+    "end": 711003,
+    "enText": "Fuck! Fuck! Fucking bitch. Are you okay? Who was that?",
+    "ruText": "Дрянь! Дрянь! Ах ты сука. Ты как? Кто это?"
+  },
+  {
+    "id": "80",
+    "start": 713722,
+    "end": 715465,
+    "enText": "It's my brother. He needs money.",
+    "ruText": "Это мой брат. Денег просил."
+  },
+  {
+    "id": "81",
+    "start": 719219,
+    "end": 720596,
+    "enText": "Jason wasn't so lucky.",
+    "ruText": "Джейсону повезло меньше."
+  },
+  {
+    "id": "82",
+    "start": 722347,
+    "end": 723932,
+    "enText": "Some of the homes he was put in were...",
+    "ruText": "Он в такие дома попадал..."
+  },
+  {
+    "id": "83",
+    "start": 726310,
+    "end": 729897,
+    "enText": "a nightmare. It's not your fault.",
+    "ruText": "Жуть берет. Ты не виновата."
+  },
+  {
+    "id": "84",
+    "start": 732482,
+    "end": 736177,
+    "enText": "I know, but he's the only family I got.",
+    "ruText": "Знаю, но... У меня больше никого."
+  },
+  {
+    "id": "85",
+    "start": 738447,
+    "end": 741241,
+    "enText": "\"All happy families are alike.\" And all that.",
+    "ruText": "«Все счастливые семьи похожи», и всё такое."
+  },
+  {
+    "id": "86",
+    "start": 744995,
+    "end": 748165,
+    "enText": "No matter how many times he screws me over, I can't not help him.",
+    "ruText": "Он мне лапшу на уши, а я ему всё равно помогаю."
+  },
+  {
+    "id": "87",
+    "start": 749166,
+    "end": 772564,
+    "enText": "He's my brother. I love him. Happy birthday to you. Happy birthday, dear Tom. Happy birthday to you. Yay. Okay, you gotta blow. Blow here. You gotta blow harder. Come on. Harder. Come on.",
+    "ruText": "Он ведь мой брат. И я его люблю. С днем рожденья тебя! С днем рожденья, дорогой Том! Задувай. Загадай желание. Дуй сильнее. Слабо. Еще сильнее. "
+  },
+  {
+    "id": "88",
+    "start": 772564,
+    "end": 775484,
+    "enText": "Yes! Yes! Yes! We got it. We got it.",
+    "ruText": "Вот так! Всё, задул. Отлично. Ура!"
+  },
+  {
+    "id": "89",
+    "start": 776276,
+    "end": 779696,
+    "enText": "So, how long have you known Tom? Just a few weeks.",
+    "ruText": "Давно знаешь Тома? Всего пару недель."
+  },
+  {
+    "id": "90",
+    "start": 780739,
+    "end": 784852,
+    "enText": "Seems like so much longer. Yeah, I know. It's been kind of intense.",
+    "ruText": "А кажется, что дольше. Да, всё так. Прям, бурно закрутилось."
+  },
+  {
+    "id": "91",
+    "start": 784952,
+    "end": 788121,
+    "enText": "She's like a sexy librarian or something.",
+    "ruText": "Смахивает на сексуальную библиотекаршу."
+  },
+  {
+    "id": "92",
+    "start": 789540,
+    "end": 794778,
+    "enText": "She's... She's literally your dream girl. I know. She's just incredible.",
+    "ruText": "Она реально девушка твоей мечты. Это да. Она такая удивительная."
+  },
+  {
+    "id": "93",
+    "start": 794878,
+    "end": 799550,
+    "enText": "Where did you go to undergrad? Vassar. Oh, my God. So did I.",
+    "ruText": "А что ты закончила? Вассар. Серьезно? Я тоже."
+  },
+  {
+    "id": "94",
+    "start": 800467,
+    "end": 802728,
+    "enText": "You know, I thought you looked familiar. When did you graduate?",
+    "ruText": "А я смотрю: лицо знакомое. Какой год?"
+  },
+  {
+    "id": "95",
+    "start": 802928,
+    "end": 805097,
+    "enText": "Class of '14. Class of '16.",
+    "ruText": "Четырнадцатый. Шестнадцатый."
+  },
+  {
+    "id": "96",
+    "start": 805597,
+    "end": 807015,
+    "enText": "Did you hang out at the Mug a lot?",
+    "ruText": "Часто в «Маге» зависала?"
+  },
+  {
+    "id": "97",
+    "start": 807808,
+    "end": 810769,
+    "enText": "Honestly, I spent most of my time at the library.",
+    "ruText": "Я, если честно, чаще тусила в библиотеке."
+  },
+  {
+    "id": "98",
+    "start": 811920,
+    "end": 815591,
+    "enText": "But don't tell Tom. I'm trying to maintain the illusion I'm not a total nerd.",
+    "ruText": "Не говори Тому. Я старательно делаю вид, что я не задрот."
+  },
+  {
+    "id": "99",
+    "start": 815691,
+    "end": 817776,
+    "enText": "Glad to see that you're doing okay.",
+    "ruText": "Рад, что твоя жизнь налаживается."
+  },
+  {
+    "id": "100",
+    "start": 818610,
+    "end": 822197,
+    "enText": "You were in a bad place there, so... I was just a little depressed.",
+    "ruText": "А то ты совсем расклеился... Легкая депрессия."
+  },
+  {
+    "id": "101",
+    "start": 825868,
+    "end": 830956,
+    "enText": "Okay. It got bad but, you know, it's like, who hasn't been borderline suicidal at some point in their life?",
+    "ruText": "Ладно. Не легкая, но, слушай, кто из нас не был на грани самоубийства?"
+  },
+  {
+    "id": "102",
+    "start": 831707,
+    "end": 837087,
+    "enText": "It's not funny. Not supposed to joke about that stuff. Come on. Come on. Okay, you're right.",
+    "ruText": "Не смешно. Нельзя про такие вещи шутить. Всё. Забыли. Нет. Ладно."
+  },
+  {
+    "id": "103",
+    "start": 837087,
+    "end": 844011,
+    "enText": "But I'm good now. You know, like, I'm great, actually.",
+    "ruText": "Но в целом... Всё хорошо. Всё очень классно, даже так."
+  },
+  {
+    "id": "104",
+    "start": 846680,
+    "end": 850976,
+    "enText": "It was pretty great. Yeah, we actually met in the bookstore.",
+    "ruText": "Это точно. А познакомились мы в магазине."
+  },
+  {
+    "id": "105",
+    "start": 862563,
+    "end": 864948,
+    "enText": "How come we always come back to my place?",
+    "ruText": "А почему мы всё время у меня?"
+  },
+  {
+    "id": "106",
+    "start": 867075,
+    "end": 871997,
+    "enText": "What do you mean? I wanna see where you live.",
+    "ruText": "В смысле? В гости не пригласишь?"
+  },
+  {
+    "id": "107",
+    "start": 872581,
+    "end": 876084,
+    "enText": "It's... It's kind of uncomfortable there.",
+    "ruText": "Да как-то не очень удобно у меня."
+  },
+  {
+    "id": "108",
+    "start": 879171,
+    "end": 882382,
+    "enText": "Well, my place isn't exactly the Four Seasons.",
+    "ruText": "Я тоже, как видишь, живу не в «Фор Сизонз»."
+  },
+  {
+    "id": "109",
+    "start": 882382,
+    "end": 888805,
+    "enText": "No, it's not that. It's... I live with my dad and his new wife, and...",
+    "ruText": "Нет, тут другое. Тут... Я живу с отцом и его новой женой, и..."
+  },
+  {
+    "id": "110",
+    "start": 890682,
+    "end": 892518,
+    "enText": "My dad and I don't really get along.",
+    "ruText": "Мы с отцом не очень ладим."
+  },
+  {
+    "id": "111",
+    "start": 897814,
+    "end": 899858,
+    "enText": "He thinks I'm a disappointment.",
+    "ruText": "Я его разочаровал."
+  },
+  {
+    "id": "112",
+    "start": 901568,
+    "end": 905656,
+    "enText": "\"All happy families are alike.\" And all that, right?",
+    "ruText": "«Все счастливые семьи похожи» и всё такое."
+  },
+  {
+    "id": "113",
+    "start": 909493,
+    "end": 912371,
+    "enText": "Anyways, he's really sick, so...",
+    "ruText": "А еще он... Он очень болен и..."
+  },
+  {
+    "id": "114",
+    "start": 915290,
+    "end": 919253,
+    "enText": "Sorry he's sick. It's okay.",
+    "ruText": "Мне очень жаль. Всё нормально."
+  },
+  {
+    "id": "115",
+    "start": 922047,
+    "end": 923757,
+    "enText": "But you're not a disappointment.",
+    "ruText": "Меня ты не разочаровал."
+  },
+  {
+    "id": "116",
+    "start": 952369,
+    "end": 965174,
+    "enText": "Sandra? Hey. Are you okay?",
+    "ruText": "Сандра? Привет. Что с тобой?"
+  },
+  {
+    "id": "117",
+    "start": 965674,
+    "end": 972639,
+    "enText": "You're not... You're not returning my texts. I'm sorry.",
+    "ruText": "Я писал, а ты не отвечаешь. Прости."
+  },
+  {
+    "id": "118",
+    "start": 974683,
+    "end": 980063,
+    "enText": "My brother's in trouble. He owes them money, so they cracked three of his ribs, broke his cheekbone.",
+    "ruText": "У брата проблемы. Он им задолжал. Трещины в трех ребрах, сломанная скула."
+  },
+  {
+    "id": "119",
+    "start": 980814,
+    "end": 983233,
+    "enText": "Said if he didn't pay up, they'd come back and finish the job.",
+    "ruText": "Не вернет долг - они закончат начатое."
+  },
+  {
+    "id": "120",
+    "start": 983233,
+    "end": 986069,
+    "enText": "How much does he owe them? Paying them back is not an option.",
+    "ruText": "Сколько он должен? Заплатить не вариант."
+  },
+  {
+    "id": "121",
+    "start": 986069,
+    "end": 988388,
+    "enText": "So, what is an option? I give him money, and he runs.",
+    "ruText": "А что тогда? Он сбежит с деньгами."
+  },
+  {
+    "id": "122",
+    "start": 988488,
+    "end": 992859,
+    "enText": "Okay. So, say he runs, and they can't find him.",
+    "ruText": "Допустим, он как-то скрылся, а они его не нашли."
+  },
+  {
+    "id": "123",
+    "start": 992859,
+    "end": 994512,
+    "enText": "Who do you think they're gonna come looking for to collect?",
+    "ruText": "У кого они будут выбивать долг?"
+  },
+  {
+    "id": "124",
+    "start": 994712,
+    "end": 999708,
+    "enText": "Me? No, they don't even know I exist. Are you sure? I'm not sure of anything.",
+    "ruText": "У меня? Обо мне даже не знают. Уверена? Я ни в чём не уверена."
+  },
+  {
+    "id": "125",
+    "start": 1002878,
+    "end": 1005547,
+    "enText": "You have to pay them off. I told you that's not possible.",
+    "ruText": "Надо отдать долг. Говорю, это невозможно."
+  },
+  {
+    "id": "126",
+    "start": 1005547,
+    "end": 1008175,
+    "enText": "How much do they want? $350,000.",
+    "ruText": "Сколько они хотят? Там 350 000 долларов."
+  },
+  {
+    "id": "127",
+    "start": 1009092,
+    "end": 1012721,
+    "enText": "And they want it in four days, so short of robbing a bank, that's just not gonna happen.",
+    "ruText": "Дали четыре дня. Если только банк ограбить, по-другому никак."
+  },
+  {
+    "id": "128",
+    "start": 1014348,
+    "end": 1019420,
+    "enText": "I can give you the money. What? It's in the bank.",
+    "ruText": "Я дам тебе денег. Что? Они в банке."
+  },
+  {
+    "id": "129",
+    "start": 1019520,
+    "end": 1022940,
+    "enText": "I can just go make a withdrawal. You wouldn't have to rob it.",
+    "ruText": "Я сниму со счета. Не надо никого грабить."
+  },
+  {
+    "id": "130",
+    "start": 1023649,
+    "end": 1026108,
+    "enText": "I don't understand. You live at home.",
+    "ruText": "Я не понимаю. Ты живишь с отцом."
+  },
+  {
+    "id": "131",
+    "start": 1026108,
+    "end": 1029029,
+    "enText": "You work in a bookstore. No, I own a bookstore.",
+    "ruText": "Ты работаешь в книжном. Владею."
+  },
+  {
+    "id": "132",
+    "start": 1029530,
+    "end": 1032324,
+    "enText": "How do you think I manage to keep it open? All that place does is lose money.",
+    "ruText": "Как я, по-твоему, еще не закрылся? Одни убытки."
+  },
+  {
+    "id": "133",
+    "start": 1032324,
+    "end": 1034867,
+    "enText": "You're saying you have that money just sitting in a bank?",
+    "ruText": "И эти деньги у тебя что, лежат на счету?"
+  },
+  {
+    "id": "134",
+    "start": 1035452,
+    "end": 1038079,
+    "enText": "Yeah. More. Yeah. My father has money.",
+    "ruText": "Там больше, да. Отец не бедный."
+  },
+  {
+    "id": "135",
+    "start": 1040665,
+    "end": 1043861,
+    "enText": "Why is this the first time I'm hearing about this? Why does that matter? Maybe I didn't want you to know.",
+    "ruText": "А почему я не знала? Это важно? Не хотел говорить."
+  },
+  {
+    "id": "136",
+    "start": 1043961,
+    "end": 1048641,
+    "enText": "Well, honestly, it's kinda fucked up that you didn't say anything. Are you kidding me? I'm telling you that I can help you. I can't take your money.",
+    "ruText": "Ну, честно говоря, это немного хреново, что ты ничего не сказал. Ты издеваешься? Я готов помочь. Я не могу взять твои деньги."
+  },
+  {
+    "id": "137",
+    "start": 1048741,
+    "end": 1051635,
+    "enText": "Why not? Because it's $350,000. That's why.",
+    "ruText": "Почему? Потому что это 350 000 долларов. Вот почему."
+  },
+  {
+    "id": "138",
+    "start": 1053470,
+    "end": 1057474,
+    "enText": "I appreciate the offer. I really do. But let's face it, we're practically strangers.",
+    "ruText": "Спасибо за предложение. Правда. Но давай посмотрим правде в глаза, мы практически незнакомы."
+  },
+  {
+    "id": "139",
+    "start": 1062896,
+    "end": 1065674,
+    "enText": "First of all, it's not my money, it's my father's money.",
+    "ruText": "Во-первых, деньги не мои, а отцовские."
+  },
+  {
+    "id": "140",
+    "start": 1065774,
+    "end": 1068302,
+    "enText": "And it's not like he earned it in some noble way.",
+    "ruText": "И он не то чтобы честно их заработал."
+  },
+  {
+    "id": "141",
+    "start": 1068402,
+    "end": 1069653,
+    "enText": "He has a hedge fund.",
+    "ruText": "У него хедж-фонд."
+  },
+  {
+    "id": "142",
+    "start": 1070320,
+    "end": 1075409,
+    "enText": "And second of all, fuck you for saying we're strangers.",
+    "ruText": "А во-вторых... Иди ты! Говоришь, мы чужие?"
+  },
+  {
+    "id": "143",
+    "start": 1078704,
+    "end": 1080372,
+    "enText": "You are the best thing that's ever happened to me.",
+    "ruText": "Да ты лучшее, что со мной случалось."
+  },
+  {
+    "id": "144",
+    "start": 1085752,
+    "end": 1088005,
+    "enText": "I'm going to pay you back, no matter how long it takes.",
+    "ruText": "Я верну, даже если уйдут годы."
+  },
+  {
+    "id": "145",
+    "start": 1088005,
+    "end": 1090282,
+    "enText": "That's okay. I wish you'd let me come with you though.",
+    "ruText": "Все в порядке. Но я бы хотел, чтобы ты позволила мне пойти с тобой."
+  },
+  {
+    "id": "146",
+    "start": 1090382,
+    "end": 1094136,
+    "enText": "I told you I don't want you anywhere near these people. It's all there. Got it.",
+    "ruText": "Я уже говорила тебе, что не хочу, чтобы ты приближался к этим людям. Всё тут. Спасибо."
+  },
+  {
+    "id": "147",
+    "start": 1094803,
+    "end": 1097306,
+    "enText": "I'll be fine. What are you doing tonight?",
+    "ruText": "Я справлюсь. Что делаешь вечером?"
+  },
+  {
+    "id": "148",
+    "start": 1098473,
+    "end": 1101476,
+    "enText": "I'm... I was hoping to hang out with this pretty girl that I know.",
+    "ruText": "Так, думал затусить с одной знакомой девчонкой."
+  },
+  {
+    "id": "149",
+    "start": 1102186,
+    "end": 1105397,
+    "enText": "Well, there's this great little Japanese restaurant on Mott Street.",
+    "ruText": "Тут есть один классный японский ресторанчик на Мотт-стрит."
+  },
+  {
+    "id": "150",
+    "start": 1105698,
+    "end": 1120370,
+    "enText": "If you're not doing anything, dinner's on me. Hey. I love you.",
+    "ruText": "Хочешь - поужинаем. Я угощаю. Я люблю тебя."
+  },
+  {
+    "id": "151",
+    "start": 1121121,
+    "end": 1122748,
+    "enText": "I'm so sorry about all this.",
+    "ruText": "Прости, что так вышло."
+  },
+  {
+    "id": "152",
+    "start": 1133008,
+    "end": 1179263,
+    "enText": "All right. Sandra?",
+    "ruText": "Ладно. Сандра?"
+  },
+  {
+    "id": "153",
+    "start": 1181723,
+    "end": 1242576,
+    "enText": "Sandra, are you okay? Sandra! Sandra! Sandra! Sandra! Shit.",
+    "ruText": "Сандра, ты здесь? Сандра! Сандра! Блин."
+  },
+  {
+    "id": "154",
+    "start": 1257424,
+    "end": 1267017,
+    "enText": "How's Christmas Day? It's not that bad. Hey, you Larusso? Over here.",
+    "ruText": "Как проходит Рождество? Все не так уж плохо. Привет. Вы Ларуссо? Я здесь."
+  },
+  {
+    "id": "155",
+    "start": 1271480,
+    "end": 1275567,
+    "enText": "You're pretty late, Sandy. I'm sorry. There's no cabs. It's fucking Christmas Eve.",
+    "ruText": "Опаздываем, Сэнди. Извините. Такси нет. Завтра, блин, Рождество."
+  },
+  {
+    "id": "156",
+    "start": 1276652,
+    "end": 1277736,
+    "enText": "Where's Carl?",
+    "ruText": "А где Карл?"
+  },
+  {
+    "id": "157",
+    "start": 1278320,
+    "end": 1282324,
+    "enText": "Mr. Knutson's wife is sick. I'll be taking over for him. Carl usually...",
+    "ruText": "У мистера Ньютсона жена болеет. Я за него. Карл обычно..."
+  },
+  {
+    "id": "158",
+    "start": 1282991,
+    "end": 1285853,
+    "enText": "Mr. Knutson usually has us meet in his office.",
+    "ruText": "Мистер Ньютсон обычно зовет меня в офис."
+  },
+  {
+    "id": "159",
+    "start": 1285953,
+    "end": 1288372,
+    "enText": "Yeah, I thought we'd meet somewhere a little less formal given the holiday.",
+    "ruText": "Да, я подумала, что мы могли бы встретиться где-нибудь менее официально, учитывая праздник."
+  },
+  {
+    "id": "160",
+    "start": 1289122,
+    "end": 1291800,
+    "enText": "But if you'd rather go to my office, we can do that. No, it's fine.",
+    "ruText": "Но если предпочитаешь пойти в мой офис, мы можем это сделать. Нет, мне норм."
+  },
+  {
+    "id": "161",
+    "start": 1292000,
+    "end": 1293085,
+    "enText": "Great. Have a seat.",
+    "ruText": "Ладно. Садись."
+  },
+  {
+    "id": "162",
+    "start": 1297923,
+    "end": 1299842,
+    "enText": "So, where were you tonight? Nowhere.",
+    "ruText": "Куда ходила? Никуда."
+  },
+  {
+    "id": "163",
+    "start": 1302553,
+    "end": 1304054,
+    "enText": "Just with a friend. Girl I work with.",
+    "ruText": "С подругой гуляла, с работы."
+  },
+  {
+    "id": "164",
+    "start": 1304054,
+    "end": 1305806,
+    "enText": "A girl you work with at Starbucks? Yeah.",
+    "ruText": "Она тоже в «Старбаксе»? Да."
+  },
+  {
+    "id": "165",
+    "start": 1305806,
+    "end": 1308459,
+    "enText": "Caroline. I can give you her number if you want.",
+    "ruText": "Кэролайн. Если надо, дам ее номер."
+  },
+  {
+    "id": "166",
+    "start": 1308559,
+    "end": 1311420,
+    "enText": "That won't be necessary. Did you do any drugs tonight, Sandy? No.",
+    "ruText": "Это лишнее. Ты принимала какие-нибудь наркотики сегодня вечером, Сэнди? Нет."
+  },
+  {
+    "id": "167",
+    "start": 1311520,
+    "end": 1315482,
+    "enText": "Did you engage in any behaviour that would violate your parole? Nope. No.",
+    "ruText": "Совершала ли ты какие-либо действия, которые могли бы нарушить твое условно-досрочное освобождение? Нет."
+  },
+  {
+    "id": "168",
+    "start": 1316066,
+    "end": 1319945,
+    "enText": "How is that job? You doing good? Yeah. It's fine.",
+    "ruText": "И как работа? Справляешься? Да. Вполне."
+  },
+  {
+    "id": "169",
+    "start": 1319945,
+    "end": 1323657,
+    "enText": "Yeah. Starbucks is great. There's lots of opportunity there.",
+    "ruText": "В «Старбаксе» хорошо. Столько возможностей."
+  },
+  {
+    "id": "170",
+    "start": 1324241,
+    "end": 1327870,
+    "enText": "Yeah, I love it. Yeah.",
+    "ruText": "Ага, дофигища. Да."
+  },
+  {
+    "id": "171",
+    "start": 1327870,
+    "end": 1331373,
+    "enText": "The thing is, Sandy, I went to your job and they told me you haven't been there in a month.",
+    "ruText": "Дело в том, Сэнди, что я ходила к тебе на работу, и мне сказали, что тебя там не было уже месяц."
+  },
+  {
+    "id": "172",
+    "start": 1334835,
+    "end": 1336336,
+    "enText": "Yeah. I can explain.",
+    "ruText": "Да. Я могу объяснить."
+  },
+  {
+    "id": "173",
+    "start": 1338297,
+    "end": 1340591,
+    "enText": "I got into a fight with the manager... Yeah.",
+    "ruText": "В общем, я с менеджером поцапалась..."
+  },
+  {
+    "id": "174",
+    "start": 1340591,
+    "end": 1343118,
+    "enText": "...'cause he's a real... he's a real fucking perv, okay?",
+    "ruText": "он, короче, конченый извращенец, реально."
+  },
+  {
+    "id": "175",
+    "start": 1343218,
+    "end": 1347330,
+    "enText": "And I've been looking for another job, so... Having a job is a part of your parole agreement. Do you understand? Uh-huh",
+    "ruText": "И я искала другую работу, так что... Наличие работы является частью твоего соглашения об условно-досрочном освобождении. Ты понимаешь? Ага."
+  },
+  {
+    "id": "176",
+    "start": 1347506,
+    "end": 1349224,
+    "enText": "So, you getting fired is strike one.",
+    "ruText": "Увольнение - это первый штраф."
+  },
+  {
+    "id": "177",
+    "start": 1349224,
+    "end": 1350851,
+    "enText": "So, let me ask you a question.",
+    "ruText": "Итак, позволь мне задать вопрос."
+  },
+  {
+    "id": "178",
+    "start": 1350851,
+    "end": 1352895,
+    "enText": "If I give you a drug test right now, how would that go?",
+    "ruText": "Если я прямо сейчас сделаю тебе тест на наркотики, что он покажет?"
+  },
+  {
+    "id": "179",
+    "start": 1353478,
+    "end": 1355689,
+    "enText": "Negative. Negative? Are you sure?",
+    "ruText": "Ничего. Ничего? Уверена?"
+  },
+  {
+    "id": "180",
+    "start": 1356056,
+    "end": 1361904,
+    "enText": "Because if I gotta go to my car and take the trouble to get a test, and it comes back positive, I'm gonna be very goddamn upset.",
+    "ruText": "Если я дойду до машины, возьму тест, а он будет положительным, я буду чертовски расстроена."
+  },
+  {
+    "id": "181",
+    "start": 1362654,
+    "end": 1364198,
+    "enText": "So, tell me how would that go?",
+    "ruText": "Ну так что он покажет?"
+  },
+  {
+    "id": "182",
+    "start": 1367367,
+    "end": 1371814,
+    "enText": "I smoked some weed the other night. That is strike two. I can bring you in right now.",
+    "ruText": "Прошлой ночью я выкурила немного травки. Это второй штраф. Я могу арестовать тебя прямо сейчас."
+  },
+  {
+    "id": "183",
+    "start": 1371914,
+    "end": 1376393,
+    "enText": "Your list of priors, you aren't going anywhere anytime soon. I'm sorry. I'm sorry. You're sorry?",
+    "ruText": "С прошлыми приводами ты долго не выйдешь. Простите. Простите?"
+  },
+  {
+    "id": "184",
+    "start": 1376493,
+    "end": 1385369,
+    "enText": "Give me one reason not to bring you in. I'll give you money.",
+    "ruText": "Назови хоть одну причину тебя не забирать. Я дам вам денег."
+  },
+  {
+    "id": "185",
+    "start": 1385469,
+    "end": 1388163,
+    "enText": "And that is attempted bribery. Strike three.",
+    "ruText": "А это попытка подкупа. Третий штраф."
+  },
+  {
+    "id": "186",
+    "start": 1388263,
+    "end": 1390724,
+    "enText": "Congratulations, Sandy, that's the whole fucking ball game.",
+    "ruText": "Поздравляю, Сэнди. Ты удаляешься с поля."
+  },
+  {
+    "id": "187",
+    "start": 1390724,
+    "end": 1393018,
+    "enText": "So stand up and turn around now. I... Okay. No, no. Come on.",
+    "ruText": "Встань и повернись. Стойте. Нет."
+  },
+  {
+    "id": "188",
+    "start": 1393018,
+    "end": 1394978,
+    "enText": "Look, I can give you a lot of money. What is a lot of money?",
+    "ruText": "Дам много денег. Это сколько?"
+  },
+  {
+    "id": "189",
+    "start": 1394978,
+    "end": 1400859,
+    "enText": "Whatever you wanted. Look, I know where to get it, and you know I ain't lying to you, Miss Larusso, because you're my parole officer and... What are you doing?",
+    "ruText": "Сколько хотите. Я знаю, где взять. Честно, мисс, я инспектору врать не... Ты что делаешь?"
+  },
+  {
+    "id": "190",
+    "start": 1401860,
+    "end": 1403987,
+    "enText": "What do you mean? Nothing. What the fuck?",
+    "ruText": "В смысле? Ничего. Какого?"
+  },
+  {
+    "id": "191",
+    "start": 1403987,
+    "end": 1405998,
+    "enText": "Are you recording me? No! No, stop.",
+    "ruText": "Записываешь меня? Нет!"
+  },
+  {
+    "id": "192",
+    "start": 1406198,
+    "end": 1409284,
+    "enText": "Are you trying to entrap me? No, it ain't like that. What the fuck are you thinking?",
+    "ruText": "Хочешь подставить меня? Нет, все совсем не так. О чем, черт возьми, ты думаешь?"
+  },
+  {
+    "id": "193",
+    "start": 1409284,
+    "end": 1412162,
+    "enText": "No, no, no. Look... Do you think I'm an asshole? I do. I think you're an asshole.",
+    "ruText": "Думаешь я такая мразь? Я думаю, что вы мразь."
+  },
+  {
+    "id": "194",
+    "start": 1412663,
+    "end": 1416050,
+    "enText": "Sir, I'm a parole officer and this young lady is my parolee... Yeah. ...and none of this is your concern.",
+    "ruText": "Сэр, я офицер по УДО, а эта молодая леди - моя условно-досрочно освобожденная. Да. Вы лишний."
+  },
+  {
+    "id": "195",
+    "start": 1416250,
+    "end": 1419169,
+    "enText": "You're shaking her down. I've watched you do it to parolees all night.",
+    "ruText": "Вы взятку хотите. Весь вечер подопечных доите."
+  },
+  {
+    "id": "196",
+    "start": 1421421,
+    "end": 1429054,
+    "enText": "What do you want? How about I pay you to walk away?",
+    "ruText": "Что тебе надо? Давайте я заплачу."
+  },
+  {
+    "id": "197",
+    "start": 1429638,
+    "end": 1438355,
+    "enText": "How much? How much do I have? Let's see.",
+    "ruText": "Сколько? Сейчас глянем. Здесь у нас..."
+  },
+  {
+    "id": "198",
+    "start": 1440023,
+    "end": 1451118,
+    "enText": "That's twen... 45, 46, 47. That's ten, 20, 40, 60, 80, 100. Oh, shit.",
+    "ruText": "Типа 20... 45! Еще 46, 47. И 10, 20, 40, 60, 80, соточка. Ой, упала."
+  },
+  {
+    "id": "199",
+    "start": 1452160,
+    "end": 1458667,
+    "enText": "Two hundred. Three hundred, 400. That's $447.",
+    "ruText": "Две сотни. 300, 400. Значит, 447 долларов."
+  },
+  {
+    "id": "200",
+    "start": 1463380,
+    "end": 1468760,
+    "enText": "You're looking at this? Okay.",
+    "ruText": "Приглянулись? Ладно."
+  },
+  {
+    "id": "201",
+    "start": 1473307,
+    "end": 1475976,
+    "enText": "That's a Rolex Submariner. Yeah, I know what a Rolex is.",
+    "ruText": "«Ролекс Сабмаринер». Да, я в курсе, что «Ролекс»."
+  },
+  {
+    "id": "202",
+    "start": 1476685,
+    "end": 1484818,
+    "enText": "You must be drunk. Yeah, maybe I am.",
+    "ruText": "Ты пьяный, что ли? Да, наверное."
+  },
+  {
+    "id": "203",
+    "start": 1488363,
+    "end": 1498248,
+    "enText": "I'm sorry. Sorry. Have a good night.",
+    "ruText": "Извините. Простите. До свидания."
+  },
+  {
+    "id": "204",
+    "start": 1504546,
+    "end": 1518393,
+    "enText": "Don't you fucking move. Wait up. Let's talk.",
+    "ruText": "Ни с места, ясно? Погоди. Обсудим?"
+  },
+  {
+    "id": "205",
+    "start": 1519269,
+    "end": 1522648,
+    "enText": "I've got a wife and I got two kids, and I'm just trying to provide.",
+    "ruText": "У меня жена и дети. Жить на что-то надо."
+  },
+  {
+    "id": "206",
+    "start": 1523232,
+    "end": 1525717,
+    "enText": "And this one has it coming because she is a fuckup.",
+    "ruText": "А эта скоро доиграется, долбанутая."
+  },
+  {
+    "id": "207",
+    "start": 1525817,
+    "end": 1528737,
+    "enText": "Eat shit. Keep it up, Sandy. Keep it up.",
+    "ruText": "Иди в жопу. Продолжай в том же духе, Сэнди. Так держать."
+  },
+  {
+    "id": "208",
+    "start": 1529905,
+    "end": 1534409,
+    "enText": "How much is this gonna cost? Five grand. Good night. No, no, no. No, no, no.",
+    "ruText": "И сколько ты хочешь? Пять кусков. Прощай. Нет, погоди."
+  },
+  {
+    "id": "209",
+    "start": 1535536,
+    "end": 1541708,
+    "enText": "I just saw your car and you are walking around here, sporting an $8,500 watch, that you were just gonna give me.",
+    "ruText": "Я видела твою тачку, ты размахиваешь часами за 8 500 баксов, которые едва не отдал."
+  },
+  {
+    "id": "210",
+    "start": 1542209,
+    "end": 1546713,
+    "enText": "I only have $447. I'll take the watch. That's 8,500. Like you said.",
+    "ruText": "У меня только 447 долларов. Я возьму часы. За 8 500? Не жирно?"
+  },
+  {
+    "id": "211",
+    "start": 1546713,
+    "end": 1554229,
+    "enText": "Eighty-five hundred, new? Correct? What is it used? Maybe seven? Maybe.",
+    "ruText": "Ну, 8 500 - это новые. Так? А ношеные? Где-то семь? Примерно."
+  },
+  {
+    "id": "212",
+    "start": 1554429,
+    "end": 1556515,
+    "enText": "So, give me the watch and I'll give you the change.",
+    "ruText": "Итак, отдай мне часы, и я дам тебе сдачу."
+  },
+  {
+    "id": "213",
+    "start": 1566900,
+    "end": 1578120,
+    "enText": "Thanks. Happy holidays, motherfucker.",
+    "ruText": "Спасибо. С праздником, засранка."
+  },
+  {
+    "id": "214",
+    "start": 1608817,
+    "end": 1612696,
+    "enText": "It wasn't real? Get in.",
+    "ruText": "Часы - подделка? Садись."
+  },
+  {
+    "id": "215",
+    "start": 1616200,
+    "end": 1620412,
+    "enText": "I gotta give you your cut. My cut? Your money.",
+    "ruText": "Долю твою отдам. Моя доля? Твои деньги."
+  },
+  {
+    "id": "216",
+    "start": 1631590,
+    "end": 1637721,
+    "enText": "Thousand dollars. Got a knife on me. Great.",
+    "ruText": "Тысяча долларов. У меня нож есть. Я рад."
+  },
+  {
+    "id": "217",
+    "start": 1640182,
+    "end": 1641558,
+    "enText": "Come on, it's freezing out.",
+    "ruText": "Холодно. Садись!"
+  },
+  {
+    "id": "218",
+    "start": 1724016,
+    "end": 1741992,
+    "enText": "Have a seat. You can take your jacket off.",
+    "ruText": "Присядь. Куртку можешь снять."
+  },
+  {
+    "id": "219",
+    "start": 1746705,
+    "end": 1747873,
+    "enText": "Don't try any shit.",
+    "ruText": "Без фокусов."
+  },
+  {
+    "id": "220",
+    "start": 1754254,
+    "end": 1756715,
+    "enText": "Now take off your shoes. Fuck you.",
+    "ruText": "Теперь разуйся. Хрен тебе."
+  },
+  {
+    "id": "221",
+    "start": 1767059,
+    "end": 1768060,
+    "enText": "I need to trust you.",
+    "ruText": "Вопрос доверия."
+  },
+  {
+    "id": "222",
+    "start": 1784952,
+    "end": 1786119,
+    "enText": "I'm not a junkie.",
+    "ruText": "Я не колюсь."
+  },
+  {
+    "id": "223",
+    "start": 1794419,
+    "end": 1795504,
+    "enText": "Roll up your sleeves.",
+    "ruText": "Закатай рукава."
+  },
+  {
+    "id": "224",
+    "start": 1810352,
+    "end": 1812771,
+    "enText": "You can sleep there. Or you can leave.",
+    "ruText": "Можешь спать тут. Или уйти."
+  },
+  {
+    "id": "225",
+    "start": 1817109,
+    "end": 1821321,
+    "enText": "And what happens if I stay? You work for me.",
+    "ruText": "А если я останусь? Будешь работать."
+  },
+  {
+    "id": "226",
+    "start": 1846388,
+    "end": 1854688,
+    "enText": "Morning. What's your favourite movie?",
+    "ruText": "Доброе утро. Твой любимый фильм?"
+  },
+  {
+    "id": "227",
+    "start": 1855522,
+    "end": 1856565,
+    "enText": "What's my favourite movie?",
+    "ruText": "Мой любимый фильм?"
+  },
+  {
+    "id": "228",
+    "start": 1857658,
+    "end": 1859651,
+    "enText": "Yeah, what's your favourite movie?",
+    "ruText": "Да, твой любимый?"
+  },
+  {
+    "id": "229",
+    "start": 1861069,
+    "end": 1865073,
+    "enText": "Titanic. That's a classic.",
+    "ruText": "«Титаник». Классика кино."
+  },
+  {
+    "id": "230",
+    "start": 1865949,
+    "end": 1867701,
+    "enText": "You like that movie? Of course.",
+    "ruText": "Тоже его любишь? Конечно."
+  },
+  {
+    "id": "231",
+    "start": 1869169,
+    "end": 1870829,
+    "enText": "DiCaprio was so young in it.",
+    "ruText": "Ди Каприо совсем юный."
+  },
+  {
+    "id": "232",
+    "start": 1871705,
+    "end": 1873065,
+    "enText": "Honestly, he's never been better.",
+    "ruText": "Да, это его лучшая роль."
+  },
+  {
+    "id": "233",
+    "start": 1873165,
+    "end": 1874541,
+    "enText": "I liked him in The Departed.",
+    "ruText": "Не считая «Отступников»."
+  },
+  {
+    "id": "234",
+    "start": 1876418,
+    "end": 1880756,
+    "enText": "He's okay, but Titanic, that's the movie that made him.",
+    "ruText": "Это да, но «Титаник» сделал его звездой."
+  },
+  {
+    "id": "235",
+    "start": 1881632,
+    "end": 1883467,
+    "enText": "And Kate Winslet was so beautiful.",
+    "ruText": "Кейт Уинслет там красотка."
+  },
+  {
+    "id": "236",
+    "start": 1885552,
+    "end": 1888847,
+    "enText": "And the end. I'll still never get over that.",
+    "ruText": "А финал... До сих пор не отпускает."
+  },
+  {
+    "id": "237",
+    "start": 1890557,
+    "end": 1891725,
+    "enText": "Can't believe you like Titanic.",
+    "ruText": "Ты правда любишь «Титаник»?"
+  },
+  {
+    "id": "238",
+    "start": 1893519,
+    "end": 1895020,
+    "enText": "I don't. I've never seen it.",
+    "ruText": "Нет, я его даже не видел."
+  },
+  {
+    "id": "239",
+    "start": 1896730,
+    "end": 1898190,
+    "enText": "You've never seen Titanic? No.",
+    "ruText": "Не видел «Титаник»? Нет."
+  },
+  {
+    "id": "240",
+    "start": 1898690,
+    "end": 1900901,
+    "enText": "I don't watch movies. They're a waste of time.",
+    "ruText": "Я не трачу свое время на кино."
+  },
+  {
+    "id": "241",
+    "start": 1901485,
+    "end": 1905197,
+    "enText": "But I gave you the impression that I did, and that's what we're gonna do with you.",
+    "ruText": "Но я убедил тебя в обратном, и ты тоже так сможешь."
+  },
+  {
+    "id": "242",
+    "start": 1905197,
+    "end": 1908116,
+    "enText": "We're gonna give people the impression that you're somebody that you're not.",
+    "ruText": "Мы будем создавать у людей впечатление, что ты та, кем на самом деле не являешься."
+  },
+  {
+    "id": "243",
+    "start": 1909493,
+    "end": 1912162,
+    "enText": "And when I'm done with you, it's gonna be 100% convincing.",
+    "ruText": "И когда я закончу с тобой, это будет убедительно на 100%."
+  },
+  {
+    "id": "244",
+    "start": 1914957,
+    "end": 1917084,
+    "enText": "We're gonna teach you a little about everything.",
+    "ruText": "Будешь учиться всему понемногу."
+  },
+  {
+    "id": "245",
+    "start": 1919127,
+    "end": 1920963,
+    "enText": "So that you can lie about anything.",
+    "ruText": "Чтобы врать о чём угодно."
+  },
+  {
+    "id": "246",
+    "start": 1922297,
+    "end": 1923632,
+    "enText": "Read those cover to cover.",
+    "ruText": "Читай от корки до корки."
+  },
+  {
+    "id": "247",
+    "start": 1923632,
+    "end": 1925092,
+    "enText": "You fucking kidding me?",
+    "ruText": "Ты, блин, издеваешься надо мной?"
+  },
+  {
+    "id": "248",
+    "start": 1926343,
+    "end": 1928078,
+    "enText": "What did you do with that $1,000 that I gave you?",
+    "ruText": "Где тысяча, которую я тебе дал?"
+  },
+  {
+    "id": "249",
+    "start": 1928178,
+    "end": 1931223,
+    "enText": "In my jacket. Why?",
+    "ruText": "В моей куртке. А что?"
+  },
+  {
+    "id": "250",
+    "start": 1932808,
+    "end": 1934685,
+    "enText": "From now on, each time you curse, I get a hundred.",
+    "ruText": "Отныне каждый раз, когда ты будешь ругаться, я буду забирать сотню."
+  },
+  {
+    "id": "251",
+    "start": 1934785,
+    "end": 1936228,
+    "enText": "Fuck that! That's my money.",
+    "ruText": "Охренел? Это мои деньги."
+  },
+  {
+    "id": "252",
+    "start": 1936228,
+    "end": 1938814,
+    "enText": "Now I get 200. You still got 800 left.",
+    "ruText": "С тебя уже 200. Осталось 800."
+  },
+  {
+    "id": "253",
+    "start": 1940190,
+    "end": 1942734,
+    "enText": "Read those. What's your name?",
+    "ruText": "Читай. Как тебя зовут?"
+  },
+  {
+    "id": "254",
+    "start": 1942734,
+    "end": 1948365,
+    "enText": "It's Max. Merry Christmas, Max. Merry Christmas, Sandra.",
+    "ruText": "Я Макс. С Рождеством, Макс. С Рождеством, Сандра."
+  },
+  {
+    "id": "255",
+    "start": 1948365,
+    "end": 1954162,
+    "enText": "Sandy. Everybody calls me Sandy. Not anymore.",
+    "ruText": "Сэнди. Все зовут меня Сэнди. Теперь нет."
+  },
+  {
+    "id": "256",
+    "start": 2032366,
+    "end": 2046755,
+    "enText": "Max! Let me in. I promise I won't do it anymore. Please! Max! Please, please, please!",
+    "ruText": "Макс! Впусти меня. Обещаю: я больше не буду. Пожалуйста! Пожалуйста, пожалуйста!"
+  },
+  {
+    "id": "257",
+    "start": 2076577,
+    "end": 2079329,
+    "enText": "I need you clean. You understand?",
+    "ruText": "Ты должна слезть. Ты поняла?"
+  },
+  {
+    "id": "258",
+    "start": 2082416,
+    "end": 2099433,
+    "enText": "I gotta trust you. Anna Karenina.",
+    "ruText": "Вопрос доверия. «Анна Каренина»."
+  },
+  {
+    "id": "259",
+    "start": 2099433,
+    "end": 2109109,
+    "enText": "\"All happy families are alike, but each unhappy family is unhappy in its own...\"",
+    "ruText": "«Все счастливые семьи похожи друг на друга, но каждая несчастливая семья несчастлива по-своему...»"
+  },
+  {
+    "id": "260",
+    "start": 2109109,
+    "end": 2112738,
+    "enText": "\"But each unhappy family is unhappy in its own way.\"",
+    "ruText": "«Но каждая несчастливая семья несчастлива по-своему»."
+  },
+  {
+    "id": "261",
+    "start": 2112738,
+    "end": 2115324,
+    "enText": "I was gonna say that. The Great Gatsby.",
+    "ruText": "Я собиралась это сказать. «Великий Гэтсби»."
+  },
+  {
+    "id": "262",
+    "start": 2115324,
+    "end": 2118619,
+    "enText": "\"Don't ever tell anyone anything, or you'll miss them forever.\" Catcher in the Rye.",
+    "ruText": "«Никогда никому ничего не рассказывай, иначе ты будешь скучать по ним вечно». «Над пропастью во ржи»."
+  },
+  {
+    "id": "263",
+    "start": 2118619,
+    "end": 2123290,
+    "enText": "\"In my younger and more vulnerable years my father gave me some advice that I have been...\"",
+    "ruText": "«В самые нежные мои юные годы отец дал мне совет, который я...»"
+  },
+  {
+    "id": "264",
+    "start": 2124166,
+    "end": 2125792,
+    "enText": "Where'd you go to school? Vassar College.",
+    "ruText": "Где училась? Вассар."
+  },
+  {
+    "id": "265",
+    "start": 2125792,
+    "end": 2131423,
+    "enText": "What's your thesis about? \"Redefining Radicalism: The Rise of... Black Feminism in American Literature.\"",
+    "ruText": "Диссертация? «Переосмысление радикализма: Черный феминизм в американской литературе»."
+  },
+  {
+    "id": "266",
+    "start": 2131423,
+    "end": 2132925,
+    "enText": "What's your favourite book?",
+    "ruText": "Твоя любимая книга?"
+  },
+  {
+    "id": "267",
+    "start": 2133425,
+    "end": 2135494,
+    "enText": "Their Eyes Were Watching God, Zora Neale Hurston.",
+    "ruText": "«Их глаза видели Бога» Зоры Нил Хёрстон."
+  },
+  {
+    "id": "268",
+    "start": 2135594,
+    "end": 2137830,
+    "enText": "When'd you graduate? Class of '16.",
+    "ruText": "Год выпуска? Шестнадцатый."
+  },
+  {
+    "id": "269",
+    "start": 2137930,
+    "end": 2142801,
+    "enText": "\"It was the best of times...\" \"It was the worst of times.\" \"Call me...\" \"Ishmael.\"",
+    "ruText": "«То было лучшее время...» «То было худшее время.» «Зовите меня...» - «Измаил»."
+  },
+  {
+    "id": "270",
+    "start": 2143185,
+    "end": 2144978,
+    "enText": "Where'd you study? Vassar College.",
+    "ruText": "Учеба? Вассар."
+  },
+  {
+    "id": "271",
+    "start": 2144978,
+    "end": 2147272,
+    "enText": "From when to when? 2012 to 2016.",
+    "ruText": "Какие годы? С 2012 по 2016."
+  },
+  {
+    "id": "272",
+    "start": 2147272,
+    "end": 2150300,
+    "enText": "I lived in a dorm, Jewett, for two years, then moved off campus.",
+    "ruText": "Жила в общаге «Джуэтт» два года, потом переехала."
+  },
+  {
+    "id": "273",
+    "start": 2150400,
+    "end": 2153178,
+    "enText": "Didn't have much of a social life. Spent all my time in the library.",
+    "ruText": "Друзей не завела. Вечно торчала в библиотеке."
+  },
+  {
+    "id": "274",
+    "start": 2153278,
+    "end": 2158625,
+    "enText": "Am I the first? First what? First girl you've done this with? Yes.",
+    "ruText": "Я первая? Кто? Первая твоя ученица? Да."
+  },
+  {
+    "id": "275",
+    "start": 2158825,
+    "end": 2160035,
+    "enText": "Why did you pick me?",
+    "ruText": "Почему я?"
+  },
+  {
+    "id": "276",
+    "start": 2160827,
+    "end": 2162896,
+    "enText": "I saw something in you. My brother's coming into town.",
+    "ruText": "Я кое-что увидел в тебе. Мой брат приезжает в город."
+  },
+  {
+    "id": "277",
+    "start": 2162996,
+    "end": 2165916,
+    "enText": "Every time I see him though, he always asks for money.",
+    "ruText": "Однако каждый раз, когда я его вижу, он всегда просит денег."
+  },
+  {
+    "id": "278",
+    "start": 2165916,
+    "end": 2169628,
+    "enText": "Do you give him money? Sometimes. He's all I've got.",
+    "ruText": "Ты ему помогаешь? Иногда. У меня только он."
+  },
+  {
+    "id": "279",
+    "start": 2170337,
+    "end": 2174591,
+    "enText": "You know, I'm from Seattle originally. I've got a mom there. She's crazy, but she's all right. What did you major in?",
+    "ruText": "Я из Сиэтла. Там у меня мама. Она странная, но добрая. Твоя специальность?"
+  },
+  {
+    "id": "280",
+    "start": 2175217,
+    "end": 2179079,
+    "enText": "At Vassar. What did you major in? English. Just trying to make some conversation.",
+    "ruText": "В Вассаре. Специальность? Английский. Я тут с тобой общаюсь."
+  },
+  {
+    "id": "281",
+    "start": 2179179,
+    "end": 2181098,
+    "enText": "Tell you about my mom. What? You don't have a mom?",
+    "ruText": "О маме говорю. У тебя что, мамы нет?"
+  },
+  {
+    "id": "282",
+    "start": 2181098,
+    "end": 2184852,
+    "enText": "No, I have a mom. I fucking hate her.",
+    "ruText": "Есть у меня мать. Та еще сука."
+  },
+  {
+    "id": "283",
+    "start": 2185936,
+    "end": 2189273,
+    "enText": "When did you go to Vassar? 2012 to 2016.",
+    "ruText": "Годы учебы в Вассаре? С 2012 по 2016."
+  },
+  {
+    "id": "284",
+    "start": 2189273,
+    "end": 2192092,
+    "enText": "You were there the whole time? No. Spent a year abroad.",
+    "ruText": "Ты была там все это время? Нет. Провела год за границей."
+  },
+  {
+    "id": "285",
+    "start": 2192192,
+    "end": 2195529,
+    "enText": "Where? Florence, Italy. So you speak Italian?",
+    "ruText": "Где? Италия. Говоришь по-итальянски?"
+  },
+  {
+    "id": "286",
+    "start": 2195529,
+    "end": 2198031,
+    "enText": "And what did you think of Italy?",
+    "ruText": "И как тебе Италия?"
+  },
+  {
+    "id": "287",
+    "start": 2198031,
+    "end": 2199733,
+    "enText": "I've got great memories.",
+    "ruText": "У меня теплые воспоминания."
+  },
+  {
+    "id": "288",
+    "start": 2200033,
+    "end": 2202411,
+    "enText": "But, I had this boyfriend who was a real jerk.",
+    "ruText": "Правда, встречалась я там с настоящим придурком."
+  },
+  {
+    "id": "289",
+    "start": 2218177,
+    "end": 2222806,
+    "enText": "I'm taking you out. Where?",
+    "ruText": "Идем со мной. Куда?"
+  },
+  {
+    "id": "290",
+    "start": 2225058,
+    "end": 2233734,
+    "enText": "You like martinis? I like martinis. Good.",
+    "ruText": "Любишь мартини? Люблю мартини. Чудно."
+  },
+  {
+    "id": "291",
+    "start": 2305889,
+    "end": 2314314,
+    "enText": "Cheers. So, what exactly are we doing here?",
+    "ruText": "За тебя. Ну и что мы тут делаем?"
+  },
+  {
+    "id": "292",
+    "start": 2316108,
+    "end": 2317150,
+    "enText": "We're celebrating.",
+    "ruText": "Мы празднуем."
+  },
+  {
+    "id": "293",
+    "start": 2318068,
+    "end": 2319444,
+    "enText": "What exactly are we celebrating?",
+    "ruText": "Что именно мы празднуем?"
+  },
+  {
+    "id": "294",
+    "start": 2321613,
+    "end": 2326285,
+    "enText": "My birthday. It's your birthday?",
+    "ruText": "Мой день рождения. Твой день рождения?"
+  },
+  {
+    "id": "295",
+    "start": 2330873,
+    "end": 2334209,
+    "enText": "You've been doing really well. Better than I expected.",
+    "ruText": "Ты делаешь успехи. Я даже не ожидал."
+  },
+  {
+    "id": "296",
+    "start": 2335335,
+    "end": 2340465,
+    "enText": "Thank you. You ready for a test run?",
+    "ruText": "Спасибо. Ты готова к тесту?"
+  },
+  {
+    "id": "297",
+    "start": 2341800,
+    "end": 2348765,
+    "enText": "Test run? See that guy at the bar? Yeah. What about him?",
+    "ruText": "К тесту? Видишь гостя у бара? Вижу, и что?"
+  },
+  {
+    "id": "298",
+    "start": 2351351,
+    "end": 2364072,
+    "enText": "Get him to take you back to his room. Are you serious?",
+    "ruText": "Заставь его позвать тебя в номер. Ты это серьезно?"
+  },
+  {
+    "id": "299",
+    "start": 2364172,
+    "end": 2365616,
+    "enText": "Got 40 minutes.",
+    "ruText": "Даю 40 минут."
+  },
+  {
+    "id": "300",
+    "start": 2387054,
+    "end": 2389348,
+    "enText": "And here we were having such a nice time.",
+    "ruText": "А ведь так хорошо всё начиналось."
+  },
+  {
+    "id": "301",
+    "start": 2414414,
+    "end": 2416667,
+    "enText": "What can I get for you, miss? Vodka martini, please.",
+    "ruText": "Что для вас, мисс? Мне водку с мартини."
+  },
+  {
+    "id": "302",
+    "start": 2423882,
+    "end": 2437604,
+    "enText": "How do you do? I'm good. Hi. Thank you.",
+    "ruText": "Как дела? Ничего. Привет. Спасибо."
+  },
+  {
+    "id": "303",
+    "start": 2442150,
+    "end": 2446864,
+    "enText": "Can I buy you a drink? I hate drinking alone.",
+    "ruText": "Можно вас угостить? Одной не хочется."
+  },
+  {
+    "id": "304",
+    "start": 2449783,
+    "end": 2454288,
+    "enText": "Yeah. Yeah. Sure. I'm Sandra.",
+    "ruText": "Да, да. Конечно. Я Сандра."
+  },
+  {
+    "id": "305",
+    "start": 2455539,
+    "end": 2461712,
+    "enText": "I'm William. Nice to meet you, William. It's nice to meet you too.",
+    "ruText": "Я Уильям. Очень приятно, Уильям. Рад знакомству."
+  },
+  {
+    "id": "306",
+    "start": 2476268,
+    "end": 2479296,
+    "enText": "I have a confession. Oh, yeah. What's that?",
+    "ruText": "Хочу сознаться. Да? В чём?"
+  },
+  {
+    "id": "307",
+    "start": 2479396,
+    "end": 2483025,
+    "enText": "Noticed you at the bar. I have a thing for older men.",
+    "ruText": "Заметила тебя в баре. У меня слабость к мужчинам постарше."
+  },
+  {
+    "id": "308",
+    "start": 2483942,
+    "end": 2486778,
+    "enText": "Wow. You got a thing, huh? A bad thing.",
+    "ruText": "О, у тебя есть слабость? Большая."
+  },
+  {
+    "id": "309",
+    "start": 2488780,
+    "end": 2490616,
+    "enText": "What's the matter? Daddy didn't love you enough?",
+    "ruText": "А что так? Папочка недостаточно любил тебя?"
+  },
+  {
+    "id": "310",
+    "start": 2491909,
+    "end": 2493118,
+    "enText": "Daddy wasn't around much.",
+    "ruText": "Папы почти не было рядом."
+  },
+  {
+    "id": "311",
+    "start": 2503462,
+    "end": 2504546,
+    "enText": "You're married, aren't you?",
+    "ruText": "Ты женат, да?"
+  },
+  {
+    "id": "312",
+    "start": 2506632,
+    "end": 2508717,
+    "enText": "Yeah, that's what the ring on my finger says.",
+    "ruText": "Да, кольцо на пальце как бы намекает."
+  },
+  {
+    "id": "313",
+    "start": 2514932,
+    "end": 2518268,
+    "enText": "I wanted to fuck you since the second you walked in tonight.",
+    "ruText": "Я хотел тебя трахнуть с той минуты, как тебя увидел."
+  },
+  {
+    "id": "314",
+    "start": 2520437,
+    "end": 2523232,
+    "enText": "I'm going to tell you what I'm gonna do to you, all night...",
+    "ruText": "Знаешь, что я хочу с тобой сделать? Я тебя раздену. А потом..."
+  },
+  {
+    "id": "315",
+    "start": 2528820,
+    "end": 2532491,
+    "enText": "What's that? Just ignore it. It's just turndown service.",
+    "ruText": "Кто это? Не обращай внимания. Вечерняя уборка."
+  },
+  {
+    "id": "316",
+    "start": 2539039,
+    "end": 2542334,
+    "enText": "Hold on one second. Don't move. Yeah.",
+    "ruText": "Сейчас вернусь. Сиди, я скоро. Да."
+  },
+  {
+    "id": "317",
+    "start": 2545462,
+    "end": 2547698,
+    "enText": "Fucking bitch. Don't you think I fucking knew it?",
+    "ruText": "Сука. Думала, не догадаюсь, что ты с мужиками трахаешься?"
+  },
+  {
+    "id": "318",
+    "start": 2547798,
+    "end": 2551677,
+    "enText": "I knew you were fucking him. What are you doing here, huh? I'm calling the front desk.",
+    "ruText": "Я знал, что ты трахалась с ним. Что ты здесь делаешь, а? Я звоню на стойку регистрации."
+  },
+  {
+    "id": "319",
+    "start": 2551677,
+    "end": 2564481,
+    "enText": "I love you. Do you understand that? Jason! Relax! Shut up! Jason, calm down! Are you fucking him? Are you fucking my girl? Did you fuck my fucking girl? I'll fucking kill you! He didn't... Fucking God! Jesus Christ! You fucking bitch! Jason, listen to me. Hey! Fuck!",
+    "ruText": "Я тебя люблю. Ты что, не знаешь? Джейсон! Успокойся. Заткнись! Спишь с ним? Ты трахаешь мою девушку? Ты трахнул мою гребаную девчонку? Я убью тебя на хрен! Он этого не делал... Господи Иисусе! Ты гребаная сука! Джейсон, послушай меня. Эй! Черт!"
+  },
+  {
+    "id": "320",
+    "start": 2564982,
+    "end": 2571405,
+    "enText": "Jason, it is over. Get the fuck out of here! I'm calling security. No, okay. Sit down. Calm down. No, no. No, no, no. Look, he's harmless.",
+    "ruText": "Джейсон, стой. Спала с ним? Пусть убирается! Я зову охрану. А ну сядь! Успокойся. Нет, он безобидный."
+  },
+  {
+    "id": "321",
+    "start": 2571989,
+    "end": 2576894,
+    "enText": "Do you want me to call security? No, no. I'm s... He's just an old boy... He's an old boyfriend. I'm-I'm...",
+    "ruText": "Мне вызвать охрану? Нет, нет. Изв... Это мой бывший."
+  },
+  {
+    "id": "322",
+    "start": 2576994,
+    "end": 2580981,
+    "enText": "He's just hurt. He's completely harmless. Are you gonna be okay in here? I'm fine. Yeah.",
+    "ruText": "Он и мухи не обидит, честно. Не страшно с ним оставаться? Нет. Я разберусь."
+  },
+  {
+    "id": "323",
+    "start": 2581081,
+    "end": 2585169,
+    "enText": "I promise, just... Completely. Are you sure? Can you just give us a few minutes?",
+    "ruText": "Уверена? Уверена. Оставишь нас на пару минут?"
+  },
+  {
+    "id": "324",
+    "start": 2586211,
+    "end": 2596689,
+    "enText": "Sure. Sure. Yeah. I'll... I'll... Just-Just go down back to the bar... You're a fucking liar! ...and I'll meet you in half an hour. Okay? Yeah. Okay, fine. You sure you're gonna be okay? Completely.",
+    "ruText": "Да, хорошо. Да, я... Ты спустись пока в бар. Врала мне, тварь! А я приду через полчасика. Да. Ладно. Ты точно с ним справишься? Точно."
+  },
+  {
+    "id": "325",
+    "start": 2596889,
+    "end": 2614323,
+    "enText": "Goddamn it. Fine. He's calming down. Yeah. I'm so sorry. Yeah. Got it. Okay. Just... Keep it down, okay? Well done.",
+    "ruText": "Он успокаивается. Всё. Ты извини. Да. Давай потише, ладно? Отлично."
+  },
+  {
+    "id": "326",
+    "start": 2616074,
+    "end": 2618602,
+    "enText": "You figured it out. You're a natural. Right?",
+    "ruText": "Ты сообразила. У тебя талант.  Да?"
+  },
+  {
+    "id": "327",
+    "start": 2618702,
+    "end": 2621246,
+    "enText": "You were quick, you stayed cool. You improvised. That's what we do.",
+    "ruText": "Ты действовала быстро, не растерялась. Импровизировала.  Так и надо."
+  },
+  {
+    "id": "328",
+    "start": 2621246,
+    "end": 2627628,
+    "enText": "What the fuck? Shit.",
+    "ruText": "Какая жесть. Офигеть."
+  },
+  {
+    "id": "329",
+    "start": 2633217,
+    "end": 2635093,
+    "enText": "I'm surprised people still walk around with cash.",
+    "ruText": "Странно, но кто-то еще носит наличку."
+  },
+  {
+    "id": "330",
+    "start": 2639681,
+    "end": 2646980,
+    "enText": "And of course. Diamond earrings for the poor wife who sits at home and waits for her husband while he preys on young women.",
+    "ruText": "Как же без этого. Бриллиантовые серьги для женушки, которая ждет мужа, пока он ухлестывает за молодыми женщинами."
+  },
+  {
+    "id": "331",
+    "start": 2646980,
+    "end": 2649341,
+    "enText": "I wouldn't say he was preying on me. We sort of set him up.",
+    "ruText": "Он не ухлестывал. Это мы его заманили."
+  },
+  {
+    "id": "332",
+    "start": 2649441,
+    "end": 2653445,
+    "enText": "Don't do that. What? Don't feel sorry for him.",
+    "ruText": "Не надо. Что? Не сочувствуй ему."
+  },
+  {
+    "id": "333",
+    "start": 2659117,
+    "end": 2661954,
+    "enText": "You can't cheat an honest man, right?",
+    "ruText": "Ты не можешь обмануть честного человека, верно?"
+  },
+  {
+    "id": "334",
+    "start": 2663956,
+    "end": 2665999,
+    "enText": "That's why we never feel sorry for the mark.",
+    "ruText": "Поэтому мы не сочувствуем объекту."
+  },
+  {
+    "id": "335",
+    "start": 2688647,
+    "end": 2689773,
+    "enText": "They look good on you.",
+    "ruText": "Они тебе идут."
+  },
+  {
+    "id": "336",
+    "start": 2711503,
+    "end": 2712671,
+    "enText": "What are you doing?",
+    "ruText": "Что ты делаешь?"
+  },
+  {
+    "id": "337",
+    "start": 2716258,
+    "end": 2717801,
+    "enText": "Happy birthday, Max.",
+    "ruText": "С днем рождения, Макс."
+  },
+  {
+    "id": "338",
+    "start": 2814940,
+    "end": 2816441,
+    "enText": "Enjoy the evening, sir.",
+    "ruText": "Приятного вечера, сэр."
+  },
+  {
+    "id": "339",
+    "start": 2840382,
+    "end": 2842342,
+    "enText": "Max. You made it.",
+    "ruText": "Макс. Ты приехал."
+  },
+  {
+    "id": "340",
+    "start": 2842843,
+    "end": 2850684,
+    "enText": "Richard, I want you to meet my son, Max. Hi, Mom. Hi. You look great. Heard so much about you.",
+    "ruText": "Ричард, знакомься: это мой сын Макс. Мама. Привет. Тебе идет. Я о тебе наслышан."
+  },
+  {
+    "id": "341",
+    "start": 2852603,
+    "end": 2854354,
+    "enText": "I wish I could say the same.",
+    "ruText": "Хотел бы я сказать то же самое."
+  },
+  {
+    "id": "342",
+    "start": 2854354,
+    "end": 2859535,
+    "enText": "Well, maybe if you returned a text or actually picked up the phone and called your mother every once in a while.",
+    "ruText": "Вот если бы отвечал на сообщения или звонки, или сам звонил маме хоть иногда..."
+  },
+  {
+    "id": "343",
+    "start": 2859635,
+    "end": 2861445,
+    "enText": "I'm very busy, Mom. I'm sorry.",
+    "ruText": "Прости, мам, весь в делах."
+  },
+  {
+    "id": "344",
+    "start": 2863197,
+    "end": 2865365,
+    "enText": "Your mother tells me you were in St. Barts.",
+    "ruText": "Твоя мама сказала, ты был на Сен-Барте."
+  },
+  {
+    "id": "345",
+    "start": 2865365,
+    "end": 2868452,
+    "enText": "Yeah, I was. Yeah. I had some fun times there myself.",
+    "ruText": "Да, был. Я отлично проводил там время."
+  },
+  {
+    "id": "346",
+    "start": 2869578,
+    "end": 2874174,
+    "enText": "Back in the '70s. You're old. Max.",
+    "ruText": "Ну, в 70-е. Старый вы. Макс. Ты груб."
+  },
+  {
+    "id": "347",
+    "start": 2874374,
+    "end": 2883467,
+    "enText": "That's... I'm... Come... Come with me, I wanna talk. Come on. Come on with me. Yeah. Really? I'm so sorry. Come. Come on. Let's go.",
+    "ruText": "Идем со мной, поговорим. Идем, говорю. Куда? Извини нас. Давай, идем. Пошли."
+  },
+  {
+    "id": "348",
+    "start": 2884051,
+    "end": 2892601,
+    "enText": "Excuse me, sir. Hi. No, stop that. Come on. You look great. Hey. What is the matter with you? What? You are so rude.",
+    "ruText": "Осторожно, сэр. Привет. Прекрати. Классный костюм. Тише. Что на тебя нашло? Что? Зачем нагрубил?"
+  },
+  {
+    "id": "349",
+    "start": 2894102,
+    "end": 2897231,
+    "enText": "What do you know about this guy? Honey, he's a public figure.",
+    "ruText": "Что это за мужик? Милый, он известный человек."
+  },
+  {
+    "id": "350",
+    "start": 2897231,
+    "end": 2900234,
+    "enText": "Anything you wanna know, you can just Google him.",
+    "ruText": "Если хочешь про него узнать, погугли."
+  },
+  {
+    "id": "351",
+    "start": 2901568,
+    "end": 2906865,
+    "enText": "You can't be alone for two minutes. You throw yourself into these relationships. This is different. It really is.",
+    "ruText": "Тебя ни на миг не оставить. Сразу кого-то подцепишь. Это другое. С ним всё иначе."
+  },
+  {
+    "id": "352",
+    "start": 2908242,
+    "end": 2911995,
+    "enText": "Sure it is. Go easy on that, please. I think you've had enough.",
+    "ruText": "Естественно. Не налегай так. Тебе уже хватит."
+  },
+  {
+    "id": "353",
+    "start": 2913830,
+    "end": 2920337,
+    "enText": "Stop being my mom, Mom. Sweetheart, what is it? What's going on?",
+    "ruText": "Не занудствуй, мамуль. Милый, да что с тобой? Что случилось?"
+  },
+  {
+    "id": "354",
+    "start": 2920921,
+    "end": 2923215,
+    "enText": "I thought you were gonna bring your girlfriend tonight.",
+    "ruText": "Ты ведь хотел прийти сегодня с девушкой."
+  },
+  {
+    "id": "355",
+    "start": 2923215,
+    "end": 2930097,
+    "enText": "Where is she? Seeing somebody else. I see. I'm sorry.",
+    "ruText": "Где она? У нее свидание. Ясно. Очень жаль."
+  },
+  {
+    "id": "356",
+    "start": 2931515,
+    "end": 2934268,
+    "enText": "I never liked her. I think she was a bad influence.",
+    "ruText": "Она мне никогда не нравилась. Я думаю, она плохо на тебя влияла."
+  },
+  {
+    "id": "357",
+    "start": 2935978,
+    "end": 2944945,
+    "enText": "Can I stay here for a little while? Okay. Are you using?",
+    "ruText": "Я могу пожить здесь? Хорошо. Ты употребляешь?"
+  },
+  {
+    "id": "358",
+    "start": 2946154,
+    "end": 2950576,
+    "enText": "No, I'm not using drugs. I haven't done drugs in a year.",
+    "ruText": "Я не употребляю наркотики. Год назад завязал."
+  },
+  {
+    "id": "359",
+    "start": 2950576,
+    "end": 2955355,
+    "enText": "It's just that I can't go through that again, and that can't happen here. Mom, I'm clean.",
+    "ruText": "Просто я этого больше не вынесу, только не здесь. Мам, я завязал."
+  },
+  {
+    "id": "360",
+    "start": 2955455,
+    "end": 2960377,
+    "enText": "My God. What the fuck is... What do you want? You want me to prove it to you? A fucking piss test?",
+    "ruText": "Боже. Чего тебе от меня надо? Доказательств хочешь? Анализ мочи?"
+  },
+  {
+    "id": "361",
+    "start": 2960377,
+    "end": 2968635,
+    "enText": "Is that what you want? Stop. What? What are you doing? Here. I'll do it right now! Okay? No! No, don't. Stop! Stop! You can see for yourself! Don't do that. Stop it right now!",
+    "ruText": "Это тебе надо? Тихо, не кричи, пожалуйста. Я прямо сейчас. Ты что делаешь? Стой! Чтобы ты успокоилась! Прекрати! Даже не смей."
+  },
+  {
+    "id": "362",
+    "start": 2973390,
+    "end": 2980939,
+    "enText": "Prove it to you. Go ahead.",
+    "ruText": "Я докажу. Держи."
+  },
+  {
+    "id": "363",
+    "start": 2982357,
+    "end": 2986069,
+    "enText": "Test it. Please don't do this to me. Test it!",
+    "ruText": "Проверяй. Прекрати меня мучить. Проверяй!"
+  },
+  {
+    "id": "364",
+    "start": 2987321,
+    "end": 3017267,
+    "enText": "Please. Please. Please. Please, don't do this to me. Mom, I'm sorry. I'm sorry, Mom. Why do you do this? Why do you do this to me? I'm really sorry.",
+    "ruText": "Прошу, прошу, прошу. Прекрати меня мучить. Мам, прости. Прости. За что ты так? За что ты так со мной? Я не хотел."
+  },
+  {
+    "id": "365",
+    "start": 3019853,
+    "end": 3027778,
+    "enText": "Just... I still need a place to stay, okay? Please?",
+    "ruText": "Мне нужно где-то пожить. Пожалуйста."
+  },
+  {
+    "id": "366",
+    "start": 3027778,
+    "end": 3030364,
+    "enText": "You can stay. Just not for very long, okay?",
+    "ruText": "Оставайся, только ненадолго, ладно?"
+  },
+  {
+    "id": "367",
+    "start": 3033784,
+    "end": 3039873,
+    "enText": "Thank you. I love you. Thank you.",
+    "ruText": "Спасибо. Люблю тебя."
+  },
+  {
+    "id": "368",
+    "start": 3050509,
+    "end": 3051593,
+    "enText": "You enjoy the show?",
+    "ruText": "Наслаждаетесь шоу?"
+  },
+  {
+    "id": "369",
+    "start": 3067067,
+    "end": 3072781,
+    "enText": "I'm so... I'm so sorry. I'm... I'm so... I'm so sorry. I'm sorry.",
+    "ruText": "Прости. Прости меня. Прости меня."
+  },
+  {
+    "id": "370",
+    "start": 3089548,
+    "end": 3094703,
+    "enText": "He spent the last year putting together a company to charter boats in the Bahamas,",
+    "ruText": "Весь последний год он развивал компанию по аренде яхт на Багамах,"
+  },
+  {
+    "id": "371",
+    "start": 3094703,
+    "end": 3102086,
+    "enText": "but then the hurricane wiped that out, which is too bad because he was so happy. He was doing so well... Madeline. How does he live?",
+    "ruText": "но ураган вдруг всё уничтожил. Так жалко, он был счастлив. Так хорошо... Меделин. А на что он живет?"
+  },
+  {
+    "id": "372",
+    "start": 3102186,
+    "end": 3108192,
+    "enText": "Well, his father left him some money, and... I help him out from time to time.",
+    "ruText": "Его отец оставил ему деньги, и... Я иногда ему помогаю."
+  },
+  {
+    "id": "373",
+    "start": 3109860,
+    "end": 3110861,
+    "enText": "Of course you do.",
+    "ruText": "Ну разумеется."
+  },
+  {
+    "id": "374",
+    "start": 3111737,
+    "end": 3114306,
+    "enText": "I was so young when he was born, you know?",
+    "ruText": "Я родила его совсем юной."
+  },
+  {
+    "id": "375",
+    "start": 3114406,
+    "end": 3121271,
+    "enText": "And then his father died, and I'm suddenly a widow, and I didn't always know how to be a mother.",
+    "ruText": "Потом его отец внезапно умер, я... Я вдруг стала вдовой и не всегда была ему хорошей матерью."
+  },
+  {
+    "id": "376",
+    "start": 3121371,
+    "end": 3125959,
+    "enText": "It's up to him to do better. He-He's an adult. No, he isn't. And that's my fault.",
+    "ruText": "Он должен собраться. Он уже взрослый. Не взрослый, это моя вина."
+  },
+  {
+    "id": "377",
+    "start": 3127044,
+    "end": 3129880,
+    "enText": "He's always been my little Max. And he can't swim without me.",
+    "ruText": "Он всегда был моим маленьким Максом. Без меня он пропадет."
+  },
+  {
+    "id": "378",
+    "start": 3131131,
+    "end": 3136637,
+    "enText": "Morning, Mom. Hi, sweetheart. How'd you sleep?",
+    "ruText": "Доброе утро, мам. Здравствуй, сынок. Как спалось?"
+  },
+  {
+    "id": "379",
+    "start": 3137721,
+    "end": 3143644,
+    "enText": "Great. Room's got an amazing view. Good.",
+    "ruText": "Чудно. Из комнаты классный вид. Я рада."
+  },
+  {
+    "id": "380",
+    "start": 3144811,
+    "end": 3151902,
+    "enText": "Well, I... I actually have an appointment downtown, but I was thinking if you were free that maybe we could have lunch together.",
+    "ruText": "Так, у меня... У меня скоро встреча в центре города, но если хочешь, если ты не занят, может, пообедаем вместе?"
+  },
+  {
+    "id": "381",
+    "start": 3153070,
+    "end": 3157783,
+    "enText": "At one o'clock. Via Carota? Sounds great. Okay. Perfect.",
+    "ruText": "Скажем, в час дня? В «Виа Карота»? С радостью. Договорились."
+  },
+  {
+    "id": "382",
+    "start": 3160035,
+    "end": 3170061,
+    "enText": "See you later. Bye, honey.",
+    "ruText": "До скорого. Пока, сынок."
+  },
+  {
+    "id": "383",
+    "start": 3181640,
+    "end": 3188146,
+    "enText": "Richard? I'm sorry about yesterday.",
+    "ruText": "Ричард. Простите за вчерашнее."
+  },
+  {
+    "id": "384",
+    "start": 3188146,
+    "end": 3192693,
+    "enText": "I took a Klonopin, and I had a lot of drinks.",
+    "ruText": "Я принял клоназепам и выпил лишнего."
+  },
+  {
+    "id": "385",
+    "start": 3193944,
+    "end": 3198657,
+    "enText": "Max, we're gonna be in each other's lives for the foreseeable future.",
+    "ruText": "Макс, нам с тобой предстоит тесно общаться в обозримом будущем."
+  },
+  {
+    "id": "386",
+    "start": 3199366,
+    "end": 3201201,
+    "enText": "Let's make the best of it, shall we?",
+    "ruText": "Давай обернем это себе на пользу."
+  },
+  {
+    "id": "387",
+    "start": 3202536,
+    "end": 3209359,
+    "enText": "You know, your mother and I are attending a benefit tonight for the Richard Hobbes Foundation.",
+    "ruText": "Ты знаешь, мы с твоей мамой, вечером идем на прием. Его устраивает «Фонд Ричарда Хоббса»."
+  },
+  {
+    "id": "388",
+    "start": 3210294,
+    "end": 3215507,
+    "enText": "My late wife founded it. We make all sorts of charitable contributions.",
+    "ruText": "Фонд моей покойной жены. Мы поддерживаем благотворительные организации."
+  },
+  {
+    "id": "389",
+    "start": 3216925,
+    "end": 3218744,
+    "enText": "Did you want me to make a donation?",
+    "ruText": "Я должен сделать пожертвование?"
+  },
+  {
+    "id": "390",
+    "start": 3218844,
+    "end": 3220804,
+    "enText": "Because, honestly, I'm a little light right now.",
+    "ruText": "У меня сейчас плохо с деньгами."
+  },
+  {
+    "id": "391",
+    "start": 3220804,
+    "end": 3224141,
+    "enText": "No. No, I figured you might wanna join us.",
+    "ruText": "Нет. Нет, я предлагаю тебе пойти с нами."
+  },
+  {
+    "id": "392",
+    "start": 3224933,
+    "end": 3231231,
+    "enText": "There's a gonna be a... a few very hip musical acts. They tell me they're quite relevant.",
+    "ruText": "Там должны быть какие-то очень модные артисты. Говорят, они довольно популярны."
+  },
+  {
+    "id": "393",
+    "start": 3234443,
+    "end": 3236320,
+    "enText": "There's gonna be a lot of young people your age.",
+    "ruText": "Много молодых людей твоего возраста."
+  },
+  {
+    "id": "394",
+    "start": 3237946,
+    "end": 3238947,
+    "enText": "Lot of young women.",
+    "ruText": "И молодых девушек."
+  },
+  {
+    "id": "395",
+    "start": 3240949,
+    "end": 3249975,
+    "enText": "Thank you, but I think I should just stay in and rest. Yeah. Fair enough.",
+    "ruText": "Спасибо, но я лучше останусь и отдохну. Да. Разумно."
+  },
+  {
+    "id": "396",
+    "start": 3272814,
+    "end": 3283608,
+    "enText": "Well, you were terrible. You treated him like a waiter. I still have no idea who he is. No, he's... he's on that TV show. He plays a spy. He's very famous.",
+    "ruText": "Ты ужасно себя вел. Обращался как с прислугой. Я так до сих пор и не понял, кто он такой. Он же из того сериала. Шпиона играет. Его все знают."
+  },
+  {
+    "id": "397",
+    "start": 3283992,
+    "end": 3288038,
+    "enText": "All night, all I could think about was being alone with you. You're alone with me now.",
+    "ruText": "Весь вечер я мечтал остаться с тобой наедине. Твоя мечта сбылась."
+  },
+  {
+    "id": "398",
+    "start": 3294169,
+    "end": 3302261,
+    "enText": "I don't care about actors. You should know that. I just want you all to myself.",
+    "ruText": "А к актерам я равнодушна. Имей в виду. Хочу, чтобы ты была только моей."
+  },
+  {
+    "id": "399",
+    "start": 3308141,
+    "end": 3315340,
+    "enText": "Sir, calm down. I asked you to identify... Sir, the police are here. Police? Hey! What's going on here? Fuck does that even fucking mean?",
+    "ruText": "Успокойтесь. Представьтесь. Сэр, здесь полиция. Полиция? Эй! Что происходит? С чем тут разбираться?"
+  },
+  {
+    "id": "400",
+    "start": 3315440,
+    "end": 3319528,
+    "enText": "Sir, excuse me. I'm NYPD. Oh, my G... Detective Collins. Does this young man live here?",
+    "ruText": "Сэр, полиция Нью-Йорка. Детектив Коллинз. Он живет здесь?"
+  },
+  {
+    "id": "401",
+    "start": 3319528,
+    "end": 3329913,
+    "enText": "Well, he's staying here. I don't fucking live here. What did you do? Nothing. I didn't do anything. He solicited drugs from an undercover officer. You came up to me and tried to sell me fucking cocaine. And you said yes. Don't put words in my mouth.",
+    "ruText": "Гостит, да. Я здесь не живу. Что ты сделал? Ничего. Я ничего не делал. Он вымогал наркотики у офицера под прикрытием. Ты подошел ко мне и попытался продать мне гребаный кокаин. И ты сказал \"да\". Не вкладывай слов в мои уста."
+  },
+  {
+    "id": "402",
+    "start": 3329913,
+    "end": 3331882,
+    "enText": "Detective, how bad is this? It's not looking good.",
+    "ruText": "Насколько всё плохо? Дело серьезное."
+  },
+  {
+    "id": "403",
+    "start": 3332958,
+    "end": 3336095,
+    "enText": "He has a few offenses. We ran his name, and he's looking at doing some time.",
+    "ruText": "У него уже есть несколько правонарушений. Мы пробили его. Реальный срок."
+  },
+  {
+    "id": "404",
+    "start": 3336295,
+    "end": 3345446,
+    "enText": "Oh, my God. Max. Wha... What happens now? I'll take him downtown... Fuck that, dude. I'm outta here. Get your fucking hands off of me! Richard! Richard, please. Stop him. Stop him! Calm down!",
+    "ruText": "Господи. И что? Заберу его в участок... Я сваливаю. Руки от меня убрал! Ричард, прошу. Сделай что-нибудь. Сэр, успокойтесь!"
+  },
+  {
+    "id": "405",
+    "start": 3345846,
+    "end": 3351810,
+    "enText": "Fuck! Detective, can we talk about this? Fuck. Now?",
+    "ruText": "Твою мать! Детектив, давайте поговорим. Чёрт. Сейчас. "
+  },
+  {
+    "id": "406",
+    "start": 3358025,
+    "end": 3362604,
+    "enText": "I make large donations to the NYPD every year. Yes, sir, I'm aware of that.",
+    "ruText": "Каждый год я делаю крупные пожертвования полиции Нью-Йорка. Да, сэр, я знаю об этом."
+  },
+  {
+    "id": "407",
+    "start": 3362704,
+    "end": 3364440,
+    "enText": "That's the reason for the courtesy call. It's why I'm here.",
+    "ruText": "Поэтому и пришел в качестве исключения."
+  },
+  {
+    "id": "408",
+    "start": 3364740,
+    "end": 3369637,
+    "enText": "I know the commissioner. Marty is a good friend. I can put in a good word for you. Richard, you don't have to do that.",
+    "ruText": "Ваш комиссар, Марти, мой друг. Я замолвлю за вас словечко. Ричард, вы не обязаны."
+  },
+  {
+    "id": "409",
+    "start": 3369837,
+    "end": 3376668,
+    "enText": "My word carries weight in this city. That can cut both ways.",
+    "ruText": "В этом городе мое слово имеет вес. И это палка о двух концах."
+  },
+  {
+    "id": "410",
+    "start": 3376768,
+    "end": 3382382,
+    "enText": "I really appreciate what you've done, coming here. I don't know, sir. I'm gonna pay you for your time.",
+    "ruText": "Я вам благодарен за ваш любезный визит. Я не могу, сэр. За потраченное время."
+  },
+  {
+    "id": "411",
+    "start": 3383383,
+    "end": 3388180,
+    "enText": "I... I can't do that. No, I'm... I'm sorry. Take the fucking money, Detective.",
+    "ruText": "Я не могу, нет. Извините. Возьмите уже грёбаные деньги."
+  },
+  {
+    "id": "412",
+    "start": 3393644,
+    "end": 3401677,
+    "enText": "Stop. He's not a cop. What? Ma'am, ex... Shut up. This is... This is what Max does.",
+    "ruText": "Хватит. Он не коп. Мэм, вы... Заткнись. У Макса такое увлечение."
+  },
+  {
+    "id": "413",
+    "start": 3401777,
+    "end": 3404404,
+    "enText": "He plays these... these little confidence games.",
+    "ruText": "Он любит разводить людей на деньги."
+  },
+  {
+    "id": "414",
+    "start": 3405697,
+    "end": 3409201,
+    "enText": "That's what this is, isn't it? This is... This is one of your games, right?",
+    "ruText": "Я же угадала, да? Ты всё подстроил, правда?"
+  },
+  {
+    "id": "415",
+    "start": 3410160,
+    "end": 3415123,
+    "enText": "I can assure you that I'm... You get out. Get out or I really will call the police. I mean it. Get out of here.",
+    "ruText": "Уверяю, я из полиции... Пошел вон. Или вызову реальную полицию. Не шучу. Вон отсюда."
+  },
+  {
+    "id": "416",
+    "start": 3422881,
+    "end": 3429346,
+    "enText": "Tipsy, I mean, I think... Dude, fuck. You better... You better go. Do you think this is funny? Why'd you fucking break? Do you think this is funny?",
+    "ruText": "Типси, всё, короче, вали отсюда. Ты офигел? Чего спалился? Боже. Смеешься? Весело тебе, да?"
+  },
+  {
+    "id": "417",
+    "start": 3429346,
+    "end": 3435002,
+    "enText": "Come on, man. You okay? Get out of here. Get out of here. Okay. Sorry. I'm sorry.",
+    "ruText": "Ты чего, а? На фига ты... Уходи. Всё, ушел. Ладно, прости за косяк."
+  },
+  {
+    "id": "418",
+    "start": 3435102,
+    "end": 3439022,
+    "enText": "I'll call you later. Thank you. All right, dude. Hope I catch you later, bro.",
+    "ruText": "Я звякну. Лады. Спасибо. Давай, бро. До связи."
+  },
+  {
+    "id": "419",
+    "start": 3439857,
+    "end": 3448448,
+    "enText": "Oh, my God. Mom, listen. I gave you everything, you know. You... You had every advantage.",
+    "ruText": "Боже мой. Мам, слушай... Я ничего для тебя не жалела. У тебя было всё самое лучшее."
+  },
+  {
+    "id": "420",
+    "start": 3448949,
+    "end": 3452786,
+    "enText": "You... You didn't... You didn't want for anything, and this is what you do to me?",
+    "ruText": "Да ты ни в чём не нуждался, и вот чем ты мне отплатил?"
+  },
+  {
+    "id": "421",
+    "start": 3453370,
+    "end": 3464798,
+    "enText": "You humiliate me in front of him? It's just a little... I want you to leave.",
+    "ruText": "Унизил меня у него на глазах? Слушай, ну бывает... Ты должен уйти."
+  },
+  {
+    "id": "422",
+    "start": 3468802,
+    "end": 3487321,
+    "enText": "I don't want you here anymore. All that work for $1,000.",
+    "ruText": "Я не хочу тебя здесь видеть. Столько стараний ради тысячи долларов."
+  },
+  {
+    "id": "423",
+    "start": 3487946,
+    "end": 3490032,
+    "enText": "Let me give you a piece of advice, Max.",
+    "ruText": "Позволь дать тебе совет, Макс."
+  },
+  {
+    "id": "424",
+    "start": 3491200,
+    "end": 3494244,
+    "enText": "If you're gonna steal, steal a lot.",
+    "ruText": "Если будешь красть, не мелочись."
+  },
+  {
+    "id": "425",
+    "start": 3524358,
+    "end": 3531257,
+    "enText": "I'm sorry I hit you. Forget it. No, I took it too far.",
+    "ruText": "Прости за пощечину. Проехали. Нет, это было зря. "
+  },
+  {
+    "id": "426",
+    "start": 3532857,
+    "end": 3551260,
+    "enText": "Let me see. Is it too early for a drink?",
+    "ruText": "Дай посмотрю. Не слишком ли рано для выпивки?"
+  },
+  {
+    "id": "427",
+    "start": 3561478,
+    "end": 3564314,
+    "enText": "I don't like the way you look at him. Come on.",
+    "ruText": "Мне не нравится, как ты на него смотришь. Да перестань."
+  },
+  {
+    "id": "428",
+    "start": 3568026,
+    "end": 3571697,
+    "enText": "You like him a little bit. Of course I like him. He's a billionaire.",
+    "ruText": "Он тебя зацепил. Ну еще бы. Он миллиардер."
+  },
+  {
+    "id": "429",
+    "start": 3573073,
+    "end": 3574491,
+    "enText": "That's not what I'm talking about.",
+    "ruText": "Я сейчас не об этом."
+  },
+  {
+    "id": "430",
+    "start": 3575492,
+    "end": 3579371,
+    "enText": "Look, I feel really good about this. We're very close.",
+    "ruText": "У меня очень хорошее предчувствие. Мы почти у цели."
+  },
+  {
+    "id": "431",
+    "start": 3580030,
+    "end": 3582791,
+    "enText": "He wants to meet with you at his office at one o'clock.",
+    "ruText": "Он хочет с тобой встретиться в офисе в час дня."
+  },
+  {
+    "id": "432",
+    "start": 3588847,
+    "end": 3592242,
+    "enText": "Well, maybe I don't wanna do this anymore.",
+    "ruText": "Что ж, может быть, я больше не хочу этим заниматься."
+  },
+  {
+    "id": "433",
+    "start": 3592342,
+    "end": 3600475,
+    "enText": "Why not? Don't be jealous. You know I don't like old men.",
+    "ruText": "Почему? Ну не ревнуй. Ты же знаешь, я не люблю стариков."
+  },
+  {
+    "id": "434",
+    "start": 3604605,
+    "end": 3614990,
+    "enText": "You know what I like. Okay.",
+    "ruText": "Ты мои вкусы знаешь. Да?"
+  },
+  {
+    "id": "435",
+    "start": 3617868,
+    "end": 3629780,
+    "enText": "No. Tell me what I like. You like me.",
+    "ruText": "Скажи. Кто в моём вкусе? Ну я."
+  },
+  {
+    "id": "436",
+    "start": 3633592,
+    "end": 3642267,
+    "enText": "I like you. Why do I like you?",
+    "ruText": "Ты в моём вкусе. А почему, знаешь?"
+  },
+  {
+    "id": "437",
+    "start": 3644144,
+    "end": 3653904,
+    "enText": "Because I get you what you want. So, get me what I want.",
+    "ruText": "Потому что я даю тебе то, что ты хочешь. Дай мне то, что я хочу."
+  },
+  {
+    "id": "438",
+    "start": 3656949,
+    "end": 3659910,
+    "enText": "Get me what I want. Okay.",
+    "ruText": "Дай то, что я хочу. Хорошо."
+  },
+  {
+    "id": "439",
+    "start": 3702244,
+    "end": 3708000,
+    "enText": "Max, thanks for coming. Hey. Are you okay?",
+    "ruText": "Макс, спасибо, что пришел. Здрасте. Как здоровье?"
+  },
+  {
+    "id": "440",
+    "start": 3708000,
+    "end": 3711211,
+    "enText": "Yeah, it's just maintenance. Here, follow me.",
+    "ruText": "Да это так, профилактика. Прошу, иди за мной."
+  },
+  {
+    "id": "441",
+    "start": 3711712,
+    "end": 3715966,
+    "enText": "I wanted to apologize about last night. It was inappropriate.",
+    "ruText": "Я хотел извиниться за вчерашнее. Я поступил некрасиво."
+  },
+  {
+    "id": "442",
+    "start": 3717050,
+    "end": 3718719,
+    "enText": "That's a hell of an understatement.",
+    "ruText": "Это еще мягко сказано."
+  },
+  {
+    "id": "443",
+    "start": 3719928,
+    "end": 3727311,
+    "enText": "You know, when your mother first told me about you, she said that you were well-educated, smart, clever.",
+    "ruText": "Знаешь, когда твоя мать впервые о тебе упомянула, она сказала, что ты очень образован, сообразителен, умен."
+  },
+  {
+    "id": "444",
+    "start": 3727895,
+    "end": 3732382,
+    "enText": "I thought, you know, I'm always on the lookout for a young man like that.",
+    "ruText": "Я подумал: вот такого юноши мне как раз и не хватает."
+  },
+  {
+    "id": "445",
+    "start": 3732482,
+    "end": 3735360,
+    "enText": "Are you offering me a job here? No. I doubt if you'd want one.",
+    "ruText": "Предлагаете работу? Вряд ли согласишься."
+  },
+  {
+    "id": "446",
+    "start": 3737738,
+    "end": 3741266,
+    "enText": "What are you doing here? Did you schedule a meeting?",
+    "ruText": "Ты что тут делаешь? Тебе было назначено?"
+  },
+  {
+    "id": "447",
+    "start": 3741366,
+    "end": 3743160,
+    "enText": "No. I didn't know that I needed one.",
+    "ruText": "Нет. Я не знал, что мне нужно записываться."
+  },
+  {
+    "id": "448",
+    "start": 3743160,
+    "end": 3749374,
+    "enText": "What is it, Tom? I'm back. Yeah, I can see that. So, what is it?",
+    "ruText": "В чём дело, Том? Я приехал. Да, это я вижу. Так в чём дело?"
+  },
+  {
+    "id": "449",
+    "start": 3750125,
+    "end": 3758290,
+    "enText": "Just wanted to say hi, see how you're feeling... Now is not a good time. All right, cool. See you around, Dad. Tom.",
+    "ruText": "Зашел повидаться, спросить... Ты не вовремя. Ладно, понял. Пока, пап. Том."
+  },
+  {
+    "id": "450",
+    "start": 3760590,
+    "end": 3765974,
+    "enText": "Come on, in here. That was my son.",
+    "ruText": "Идем туда. Это был мой сын."
+  },
+  {
+    "id": "451",
+    "start": 3766517,
+    "end": 3769311,
+    "enText": "I always assumed he would inherit all this.",
+    "ruText": "Я полагал, он унаследует мое дело."
+  },
+  {
+    "id": "452",
+    "start": 3770521,
+    "end": 3773315,
+    "enText": "Then his mother died and he didn't take it well.",
+    "ruText": "Потом умерла его мать, и он тяжело это воспринял."
+  },
+  {
+    "id": "453",
+    "start": 3773941,
+    "end": 3776735,
+    "enText": "He doesn't have the fortitude to work here. He's weak.",
+    "ruText": "У него не хватает мужества работать здесь. Он слаб."
+  },
+  {
+    "id": "454",
+    "start": 3779321,
+    "end": 3784785,
+    "enText": "When he turned 21, I offered him anything he wanted.",
+    "ruText": "На двадцатиоднолетие я ему сказал: «Проси что хочешь»."
+  },
+  {
+    "id": "455",
+    "start": 3785911,
+    "end": 3788497,
+    "enText": "You know what my son asked for?",
+    "ruText": "Знаешь, что мой сын попросил?"
+  },
+  {
+    "id": "456",
+    "start": 3789790,
+    "end": 3790832,
+    "enText": "I don't know, Richard.",
+    "ruText": "Не знаю, Ричард."
+  },
+  {
+    "id": "457",
+    "start": 3791333,
+    "end": 3796129,
+    "enText": "A signed copy of Charlotte Brontë's Jane Eyre.",
+    "ruText": "Книгу «Джейн Эйр», с автографом Шарлотты Бронте."
+  },
+  {
+    "id": "458",
+    "start": 3796964,
+    "end": 3799132,
+    "enText": "Now he wants to open a bookstore.",
+    "ruText": "Теперь он хочет книжный магазин."
+  },
+  {
+    "id": "459",
+    "start": 3800092,
+    "end": 3801802,
+    "enText": "Not exactly a sound investment.",
+    "ruText": "Не совсем разумная инвестиция."
+  },
+  {
+    "id": "460",
+    "start": 3802678,
+    "end": 3805222,
+    "enText": "No. But I'm gonna give it to him anyway.",
+    "ruText": "Нет. Но магазин я ему все равно куплю."
+  },
+  {
+    "id": "461",
+    "start": 3807307,
+    "end": 3808475,
+    "enText": "You know why, Max?",
+    "ruText": "А знаешь почему, Макс?"
+  },
+  {
+    "id": "462",
+    "start": 3810644,
+    "end": 3812271,
+    "enText": "Because we only get one life.",
+    "ruText": "Потому что жизнь одна."
+  },
+  {
+    "id": "463",
+    "start": 3812271,
+    "end": 3817025,
+    "enText": "And I will not be my son's jailer for his brief time on earth.",
+    "ruText": "И я не желаю быть моему сыну тюремщиком все отведенные ему годы."
+  },
+  {
+    "id": "464",
+    "start": 3823282,
+    "end": 3825659,
+    "enText": "I want you to be honest with yourself, Max.",
+    "ruText": "Ответь мне предельно честно, Макс."
+  },
+  {
+    "id": "465",
+    "start": 3827160,
+    "end": 3831415,
+    "enText": "If I were to hire you to work for me, how do you think it would end?",
+    "ruText": "Если бы я нанял тебя на работу, как бы всё сложилось?"
+  },
+  {
+    "id": "466",
+    "start": 3832916,
+    "end": 3836128,
+    "enText": "Not well. I agree.",
+    "ruText": "Не очень. Соглашусь."
+  },
+  {
+    "id": "467",
+    "start": 3838297,
+    "end": 3843594,
+    "enText": "Still, I want to offer you a job. I'm thinking $60,000 a month.",
+    "ruText": "И всё же я тебе предлагаю, к примеру, 60 000 долларов в месяц."
+  },
+  {
+    "id": "468",
+    "start": 3843594,
+    "end": 3846221,
+    "enText": "Sixty grand a month? For what?",
+    "ruText": "Шестьдесят в месяц? За что?"
+  },
+  {
+    "id": "469",
+    "start": 3846722,
+    "end": 3851185,
+    "enText": "To go out and find opportunity. Make a mark for yourself.",
+    "ruText": "Чтобы ты нашел свое дело. Чего-то добился сам."
+  },
+  {
+    "id": "470",
+    "start": 3852019,
+    "end": 3853228,
+    "enText": "You want me gone.",
+    "ruText": "Чтоб я свалил."
+  },
+  {
+    "id": "471",
+    "start": 3854396,
+    "end": 3859568,
+    "enText": "You cause your mother anguish, Max. And I will not have it.",
+    "ruText": "Мать из-за тебя страдает, Макс. Я этого не потерплю."
+  },
+  {
+    "id": "472",
+    "start": 3861361,
+    "end": 3865265,
+    "enText": "So, what am I then? A bad investment? I didn't get where I am making bad investments.",
+    "ruText": "Кто я для вас? Плохая инвестиция? Плохие инвестиции не в моей привычке."
+  },
+  {
+    "id": "473",
+    "start": 3865365,
+    "end": 3869244,
+    "enText": "Is that what I'm worth, Richard? Sixty thousand dollars a month?",
+    "ruText": "Столько я стою, Ричард? 60 000 долларов в месяц?"
+  },
+  {
+    "id": "474",
+    "start": 3869244,
+    "end": 3875709,
+    "enText": "I'm offering you an opportunity. I want a year's salary up-front.",
+    "ruText": "Я открываю перед тобой двери. Хочу годовой оклад авансом."
+  },
+  {
+    "id": "475",
+    "start": 3877044,
+    "end": 3882633,
+    "enText": "That can be arranged. I'll just transfer the money in... Transfer the money? No. What? So I can pay taxes?",
+    "ruText": "Это не проблема. Я лишь переведу деньги... Переведете? Нет. На налоги тратиться?"
+  },
+  {
+    "id": "476",
+    "start": 3882633,
+    "end": 3886678,
+    "enText": "Hire an accountant? No. I want cash up-front.",
+    "ruText": "На бухгалтера? Нет. Мне нужны наличные вперед."
+  },
+  {
+    "id": "477",
+    "start": 3890933,
+    "end": 3894061,
+    "enText": "Get me the cash and you get my mom all to yourself.",
+    "ruText": "Выдайте наличку, и моя матушка только ваша."
+  },
+  {
+    "id": "478",
+    "start": 3894061,
+    "end": 3897606,
+    "enText": "I'll be gone. You won't even hear from me. Not even a fucking postcard.",
+    "ruText": "Я исчезну. Раз и навсегда. Сраной открытки не пришлю."
+  },
+  {
+    "id": "479",
+    "start": 3902694,
+    "end": 4020687,
+    "enText": "Wait here. We did it. We did it, baby.",
+    "ruText": "Жди здесь. Это успех. Это успех, малыш."
+  },
+  {
+    "id": "480",
+    "start": 4026193,
+    "end": 4051426,
+    "enText": "Where the fuck is my money? Y'all look good. Let's go. Yeah! Let's do it. Here we go. We got the big Gs, buddy.",
+    "ruText": "Гони мое бабло. Красавцы! Жгите. Еще. Ура! Так. Разбирайте. Давай, пока холодненькая. То, что надо. Давайте. Чтоб баблишко не переводилось."
+  },
+  {
+    "id": "481",
+    "start": 4052861,
+    "end": 4059226,
+    "enText": "Yo, wait, look. There is this new guy named Goldie. He from, like, LA.",
+    "ruText": "Эй, подожди, посмотри. Есть один новый парень по имени Голди. Он из Лос-Анджелеса."
+  },
+  {
+    "id": "482",
+    "start": 4059226,
+    "end": 4062855,
+    "enText": "He started out working as a stuntman before he was grifting, or whatever the fuck we doing.",
+    "ruText": "Он работал каскадером до того, как занялся мошенничеством, или чем там, черт возьми, мы занимаемся."
+  },
+  {
+    "id": "483",
+    "start": 4062855,
+    "end": 4065023,
+    "enText": "He started working as a stuntman. Crazy.",
+    "ruText": "Реальный каскадер, прикинь?"
+  },
+  {
+    "id": "484",
+    "start": 4065023,
+    "end": 4067301,
+    "enText": "He comes highly recommended and he's looking for a score.",
+    "ruText": "Надежный, хочет по-крупному навариться."
+  },
+  {
+    "id": "485",
+    "start": 4067401,
+    "end": 4074157,
+    "enText": "And I need y'all. Tipsy... We're out.",
+    "ruText": "И тут ваш выход. Типси... Мы всё."
+  },
+  {
+    "id": "486",
+    "start": 4075242,
+    "end": 4085402,
+    "enText": "Come on, man. What you... What, y'all retiring? No. No, no, no. No. That's it? What y'all gonna do? Do the whole... Come on. No, we're taking... We're just gonna take a vacation. We're... We're... Yeah.",
+    "ruText": "Вы чего, серьезно? На пенсию, собрались? Реально? Нет, нет. Нет. Мы просто... Нет, у нас этот... У нас просто отпуск. Да. Отпуск у нас. "
+  },
+  {
+    "id": "487",
+    "start": 4085502,
+    "end": 4089590,
+    "enText": "Taking a vacation. Okay. Well, y'all let me know whenever y'all get back. Okay.",
+    "ruText": "Мы в отпуск. Ясно, маякните, когда вернетесь. Ладно."
+  },
+  {
+    "id": "488",
+    "start": 4089590,
+    "end": 4098599,
+    "enText": "Y'all gonna wanna meet him. Big shit, all right? Hey.",
+    "ruText": "Я вас познакомлю. Вы охренеете. Эй."
+  },
+  {
+    "id": "489",
+    "start": 4099892,
+    "end": 4108649.0000000005,
+    "enText": "You're bullshitting me. Where my money at? Come on. What?",
+    "ruText": "Ты прикалываешься? Где мое бабло? Тихо. Что?"
+  },
+  {
+    "id": "490",
+    "start": 4110694.0000000005,
+    "end": 4119661,
+    "enText": "That's it. Tipsy, that's it. No. We had expenses... We handled some expenses. ...that we didn't account for.",
+    "ruText": "Это всё. Типси, это всё. Возникли расходы, непредвиденные. Да, кое-какие расходы."
+  },
+  {
+    "id": "491",
+    "start": 4119661,
+    "end": 4126376,
+    "enText": "Yeah, okay, but this... No. No, no. This isn't what we agreed on, man. I know, but things change. Yeah.",
+    "ruText": "Ну хорошо, только... Нет. Нет. Мы так не договаривались. Знаю, просто так сложилось. Да."
+  },
+  {
+    "id": "492",
+    "start": 4130005,
+    "end": 4133091.0000000005,
+    "enText": "This is becoming a habit with y'all two. I'm starting to feel like I'm the mark.",
+    "ruText": "У вас это входит в привычку. Вы меня решили нагреть, да?"
+  },
+  {
+    "id": "493",
+    "start": 4133716.0000000005,
+    "end": 4137888,
+    "enText": "Now we're laughing about it. No. Come on, man. No. No, no, no. Uh-uh. Absolutely not.",
+    "ruText": "Смотрю, вам смешно. Да перестань. Что? Нет. Не выдумывай."
+  },
+  {
+    "id": "494",
+    "start": 4142935.0000000005,
+    "end": 4144728,
+    "enText": "It was a beautiful con though, right?",
+    "ruText": "Но это была прекрасная афера, верно?"
+  },
+  {
+    "id": "495",
+    "start": 4144728,
+    "end": 4151276,
+    "enText": "You can thank Madeline... Madeline for that. Stop it. Stop it. Thank you, Madeline.",
+    "ruText": "Спасибо Меделин за это. Хватит. Хватит. Спасибо, Меделин."
+  },
+  {
+    "id": "496",
+    "start": 4151276,
+    "end": 4158058,
+    "enText": "You're welcome, Tipsy. You're welcome. Thank you, Tipsy. Yeah. Thank you for everything, man. I'll ca... I'll call you. Yeah. For sure.",
+    "ruText": "Не за что, Типси. Не за что. Спасибо, Типси. Да. Спасибо за всё. Я позвоню. Заметано."
+  },
+  {
+    "id": "497",
+    "start": 4158158.0000000005,
+    "end": 4166917,
+    "enText": "Y'all stay warm, all right? Bye. Three quarters of a million. Not bad.",
+    "ruText": "Ладно, бывайте. Пока. Три четверти миллиона. Неплохо."
+  },
+  {
+    "id": "498",
+    "start": 4173465,
+    "end": 4178386,
+    "enText": "Now what? I'm gonna go home. I'm gonna get my stuff.",
+    "ruText": "Что дальше? Я поеду домой. Соберу свои вещи."
+  },
+  {
+    "id": "499",
+    "start": 4178386,
+    "end": 4183125,
+    "enText": "And I'm gonna tell him that I have a sick aunt in Jersey.",
+    "ruText": "А затем скажу ему, что заболела моя тетя из Нью-Джерси."
+  },
+  {
+    "id": "500",
+    "start": 4183225,
+    "end": 4185853,
+    "enText": "And I'm out first thing in the morning.",
+    "ruText": "И завтра же утром уеду."
+  },
+  {
+    "id": "501",
+    "start": 4187854.0000000005,
+    "end": 4192609.0000000005,
+    "enText": "You love me? Unfortunately.",
+    "ruText": "Ты меня любишь? К несчастью, да."
+  },
+  {
+    "id": "502",
+    "start": 4219094,
+    "end": 4223974,
+    "enText": "Hey. Hey. So...",
+    "ruText": "Да. Привет. В общем..."
+  },
+  {
+    "id": "503",
+    "start": 4223974,
+    "end": 4226768,
+    "enText": "I have some good news and some bad news.",
+    "ruText": "Есть хорошая новость, а есть плохая."
+  },
+  {
+    "id": "504",
+    "start": 4227352,
+    "end": 4230480,
+    "enText": "The good news is the money is all yours.",
+    "ruText": "Хорошая в том, что все деньги теперь твои."
+  },
+  {
+    "id": "505",
+    "start": 4231523,
+    "end": 4233275,
+    "enText": "Okay. What's the bad news?",
+    "ruText": "Так. А плохая?"
+  },
+  {
+    "id": "506",
+    "start": 4238739,
+    "end": 4241992,
+    "enText": "The bad news is you were right.",
+    "ruText": "А плохая новость в том, что ты прав."
+  },
+  {
+    "id": "507",
+    "start": 4242784,
+    "end": 4243785,
+    "enText": "Right about what?",
+    "ruText": "В чём я прав?"
+  },
+  {
+    "id": "508",
+    "start": 4247372,
+    "end": 4248749,
+    "enText": "The old man loves me.",
+    "ruText": "Старик меня любит."
+  },
+  {
+    "id": "509",
+    "start": 4249875,
+    "end": 4253086,
+    "enText": "He wants to marry me, so I'm staying.",
+    "ruText": "Он хочет на мне жениться, так что я остаюсь."
+  },
+  {
+    "id": "510",
+    "start": 4253086,
+    "end": 4254421,
+    "enText": "What are you talking about?",
+    "ruText": "Как остаешься?"
+  },
+  {
+    "id": "511",
+    "start": 4255756,
+    "end": 4260427,
+    "enText": "Maybe I don't wanna sit around in a bar all day pulling short cons for the rest of my life.",
+    "ruText": "Может, я не хочу до конца жизни торчать в баре и проворачивать мелкие аферы."
+  },
+  {
+    "id": "512",
+    "start": 4260969,
+    "end": 4262346,
+    "enText": "You can't be serious.",
+    "ruText": "Ты что, шутишь?"
+  },
+  {
+    "id": "513",
+    "start": 4262930,
+    "end": 4265140,
+    "enText": "Sooner or later the old man is gonna ask questions.",
+    "ruText": "Рано или поздно старик начнет задавать вопросы."
+  },
+  {
+    "id": "514",
+    "start": 4265140,
+    "end": 4267518,
+    "enText": "No. No, he won't. He's too invested.",
+    "ruText": "Нет. Не начнет. Слишком загружен."
+  },
+  {
+    "id": "515",
+    "start": 4268018,
+    "end": 4270562,
+    "enText": "He's got too much on his mind.",
+    "ruText": "У него и без этого масса забот."
+  },
+  {
+    "id": "516",
+    "start": 4270562,
+    "end": 4272356,
+    "enText": "You know, his health and his business.",
+    "ruText": "То здоровье. То бизнес."
+  },
+  {
+    "id": "517",
+    "start": 4272356,
+    "end": 4274858,
+    "enText": "And that... that emotional wreck of a son.",
+    "ruText": "То его вечно страдающий сын."
+  },
+  {
+    "id": "518",
+    "start": 4276443,
+    "end": 4278904,
+    "enText": "But I'm the good thing, right?",
+    "ruText": "Я его лучик света, правда?"
+  },
+  {
+    "id": "519",
+    "start": 4279613,
+    "end": 4282266,
+    "enText": "I'm the good thing he's got. Yeah.",
+    "ruText": "Единственный лучик света. Да."
+  },
+  {
+    "id": "520",
+    "start": 4282366,
+    "end": 4284785,
+    "enText": "I know you. You stay, you'll slip.",
+    "ruText": "Я знаю тебя. Если ты останешься, то выдашь себя."
+  },
+  {
+    "id": "521",
+    "start": 4285619,
+    "end": 4288956,
+    "enText": "No, I won't. I'm too good.",
+    "ruText": "Не выдам. Я профи."
+  },
+  {
+    "id": "522",
+    "start": 4290749,
+    "end": 4294711,
+    "enText": "And if they're not looking for you, they don't see you.",
+    "ruText": "И нельзя ведь найти того, кого не ищут."
+  },
+  {
+    "id": "523",
+    "start": 4296713,
+    "end": 4304680,
+    "enText": "Are you really doing this? Yeah.",
+    "ruText": "Ты точно решила? Да."
+  },
+  {
+    "id": "524",
+    "start": 4306181,
+    "end": 4311019,
+    "enText": "I don't wanna play the mom anymore. It's boring.",
+    "ruText": "Не хочу больше играть мамочку. Это скучно."
+  },
+  {
+    "id": "525",
+    "start": 4316066,
+    "end": 4320721,
+    "enText": "Max Burnett, it's the police. We have an outstanding warrant for your arrest. Open the door.",
+    "ruText": "Макс Бёрнетт, полиция. У нас ордер на ваш арест. Открывайте."
+  },
+  {
+    "id": "526",
+    "start": 4320821,
+    "end": 4323115,
+    "enText": "I don't believe you. Who's at the door? Tipsy?",
+    "ruText": "Я тебе не верю. Кто за дверью? Типси?"
+  },
+  {
+    "id": "527",
+    "start": 4326326,
+    "end": 4330589,
+    "enText": "You better go. You're bluffing.",
+    "ruText": "Лучше уходи. Ты блефуешь."
+  },
+  {
+    "id": "528",
+    "start": 4330689,
+    "end": 4333525,
+    "enText": "Yeah, well, then call my bluff and open the door.",
+    "ruText": "Если так, то открой и разоблачи меня."
+  },
+  {
+    "id": "529",
+    "start": 4336253,
+    "end": 4340299,
+    "enText": "Open the door. So, you used me?",
+    "ruText": "Открывайте. Развела меня?"
+  },
+  {
+    "id": "530",
+    "start": 4346889,
+    "end": 4437020,
+    "enText": "Max Burnett. Fuck. Open the door. I'm so sorry.",
+    "ruText": "Макс Бёрнетт. Сука. Открывайте. Соболезную."
+  },
+  {
+    "id": "531",
+    "start": 4437020,
+    "end": 4440107,
+    "enText": "I'm gonna need a minute of your time to go over Richard's will.",
+    "ruText": "Уделите минутку? Я оглашу завещание Ричарда."
+  },
+  {
+    "id": "532",
+    "start": 4440107,
+    "end": 4442609,
+    "enText": "There are documents that are time-sensitive.",
+    "ruText": "Есть документы, не терпящие отлагательств."
+  },
+  {
+    "id": "533",
+    "start": 4443110,
+    "end": 4447155,
+    "enText": "And also, I think it's best we do it right away, for Tom's sake.",
+    "ruText": "И думаю, для Тома будет лучше, если мы закроем вопрос сейчас."
+  },
+  {
+    "id": "534",
+    "start": 4448198,
+    "end": 4450200,
+    "enText": "Okay. Okay.",
+    "ruText": "Хорошо. Что же."
+  },
+  {
+    "id": "535",
+    "start": 4457583,
+    "end": 4461962,
+    "enText": "Richard dictated this last draft of the will to me personally, and then he signed it.",
+    "ruText": "Ричард продиктовал этот последний вариант завещания мне лично, а затем подписал его."
+  },
+  {
+    "id": "536",
+    "start": 4462504,
+    "end": 4471305,
+    "enText": "And because he was at the height of his sickness, I feel it's my obligation to assure you that he was cogent and of sound mind when he did so.",
+    "ruText": "Болезнь уже взяла над ним верх, я считаю своим долгом заверить вас, что он был в здравом уме и твердой памяти в тот момент."
+  },
+  {
+    "id": "537",
+    "start": 4473098,
+    "end": 4476435,
+    "enText": "Richard left the bulk of his estate to Madeline.",
+    "ruText": "Основное имущество Ричард завещал Меделин."
+  },
+  {
+    "id": "538",
+    "start": 4480147,
+    "end": 4482691,
+    "enText": "That's ridiculous, this... It should be Tom's.",
+    "ruText": "Это странно, а разве не Тому?"
+  },
+  {
+    "id": "539",
+    "start": 4482691,
+    "end": 4487362,
+    "enText": "Richard was very clear. After the past incident with Tom...",
+    "ruText": "Ричард выразился ясно. После того инцидента с Томом..."
+  },
+  {
+    "id": "540",
+    "start": 4487362,
+    "end": 4495954,
+    "enText": "I had $350,000 stolen from me. He had major misgivings... And I had a nervous breakdown. ...leaving Tom both the business and the estate.",
+    "ruText": "У меня украли 350 000. У него возникли опасения. Был нервный срыв. И он не решился оставить компанию и недвижимость."
+  },
+  {
+    "id": "541",
+    "start": 4498874,
+    "end": 4501376,
+    "enText": "You'll be taken care of through a trust.",
+    "ruText": "О твоем благополучии позаботится траст."
+  },
+  {
+    "id": "542",
+    "start": 4502002,
+    "end": 4503003,
+    "enText": "It's generous.",
+    "ruText": "Выплаты щедрые."
+  },
+  {
+    "id": "543",
+    "start": 4503921,
+    "end": 4506507,
+    "enText": "And it will allow you to hold on to your bookstore.",
+    "ruText": "Они позволят тебе сохранить книжный магазин."
+  },
+  {
+    "id": "544",
+    "start": 4507090,
+    "end": 4512179,
+    "enText": "Tom will also retain control of the charity, the Richard Hobbes Foundation.",
+    "ruText": "Том также продолжит управлять благотворительным Фондом Ричарда Хоббса."
+  },
+  {
+    "id": "545",
+    "start": 4512179,
+    "end": 4519061,
+    "enText": "As for everything else, property, assets, shares, stocks, the remaining 9.2 billion...",
+    "ruText": "Всё прочее - недвижимость, активы, акции, облигации. И сумма в 9,2 миллиарда..."
+  },
+  {
+    "id": "546",
+    "start": 4520854,
+    "end": 4522022,
+    "enText": "It will all go to Madeline.",
+    "ruText": "Отходит к Меделин."
+  },
+  {
+    "id": "547",
+    "start": 4524441,
+    "end": 4527277,
+    "enText": "Well, at least he trusted me with the Foundation.",
+    "ruText": "Ладно, хоть благотворительность доверил."
+  },
+  {
+    "id": "548",
+    "start": 4527277,
+    "end": 4530405,
+    "enText": "He did, Tom. You're chairman of the board.",
+    "ruText": "Именно, Том. Ты председатель правления."
+  },
+  {
+    "id": "549",
+    "start": 4532658,
+    "end": 4535160,
+    "enText": "And Madeline has been named trustee.",
+    "ruText": "А Меделин назначена попечителем."
+  },
+  {
+    "id": "550",
+    "start": 4537454,
+    "end": 4538747,
+    "enText": "I'm a trustee?",
+    "ruText": "Я попечитель?"
+  },
+  {
+    "id": "551",
+    "start": 4538747,
+    "end": 4540374,
+    "enText": "It's only a formality.",
+    "ruText": "Чистая формальность."
+  },
+  {
+    "id": "552",
+    "start": 4540374,
+    "end": 4547089,
+    "enText": "A piece of insurance in the event Tom is unable to fulfill his duties and Madeline will... Will take over. Yeah, I get it.",
+    "ruText": "Для подстраховки, если Том не сможет исполнять свои обязанности, Меделин тогда... Примет управление. Я понял."
+  },
+  {
+    "id": "553",
+    "start": 4550551,
+    "end": 4553762,
+    "enText": "He trusted you with control of the Foundation.",
+    "ruText": "Он был уверен, что тебе можно доверить фонд."
+  },
+  {
+    "id": "554",
+    "start": 4553762,
+    "end": 4556139,
+    "enText": "I can tell you that with complete sincerity.",
+    "ruText": "Говорю это совершенно искренне."
+  },
+  {
+    "id": "555",
+    "start": 4559226,
+    "end": 4563856,
+    "enText": "He thought the world of you. Yeah, okay. No offense, but my father's last wishes tell me exactly what he thought of me.",
+    "ruText": "Он был высокого мнения о тебе. Да, хорошо. Без обид, но последние пожелания моего отца точно говорят мне, что он думал обо мне."
+  },
+  {
+    "id": "556",
+    "start": 4565190,
+    "end": 4570404,
+    "enText": "David, I'd like to be alone with Tom for a minute, if that's okay. Of course. Of course.",
+    "ruText": "Дэвид, я бы хотела поговорить с Томом. Наедине, если позволишь. Конечно, конечно."
+  },
+  {
+    "id": "557",
+    "start": 4571321,
+    "end": 4572948,
+    "enText": "Thank you. Thank you.",
+    "ruText": "Спасибо. Спасибо."
+  },
+  {
+    "id": "558",
+    "start": 4576034,
+    "end": 4577227,
+    "enText": "I am so sorry.",
+    "ruText": "Ужасно жаль."
+  },
+  {
+    "id": "559",
+    "start": 4577327,
+    "end": 4579496,
+    "enText": "Don't be. It's not your fault. No, I just...",
+    "ruText": "Ты же не виновата. Нет, я... "
+  },
+  {
+    "id": "560",
+    "start": 4579496,
+    "end": 4581540,
+    "enText": "I want you to know that I'm your partner.",
+    "ruText": "Я лишь хотела сказать, что мы команда."
+  },
+  {
+    "id": "561",
+    "start": 4582541,
+    "end": 4583792,
+    "enText": "And that I'm here for you.",
+    "ruText": "Я всегда буду рядом."
+  },
+  {
+    "id": "562",
+    "start": 4585169,
+    "end": 4589031,
+    "enText": "I'm here for whatever you need. You don't have to go through this alone.",
+    "ruText": "И я тебя не оставлю. Знай, что ты сейчас не один."
+  },
+  {
+    "id": "563",
+    "start": 4589131,
+    "end": 4590574,
+    "enText": "Thank you for saying that.",
+    "ruText": "Спасибо, за эти слова."
+  },
+  {
+    "id": "564",
+    "start": 4590674,
+    "end": 4592659,
+    "enText": "You can stay with me for as long as you like.",
+    "ruText": "Оставайся у меня сколько хочешь."
+  },
+  {
+    "id": "565",
+    "start": 4592759,
+    "end": 4594803,
+    "enText": "You don't have to move out anytime soon.",
+    "ruText": "С переездом торопиться не нужно."
+  },
+  {
+    "id": "566",
+    "start": 4596555,
+    "end": 4599474,
+    "enText": "But I'm gonna have to sell this apartment because I can't do it.",
+    "ruText": "Но придется продать эту квартиру, иначе я не вынесу."
+  },
+  {
+    "id": "567",
+    "start": 4600517,
+    "end": 4604229,
+    "enText": "I can't... I can't stay here alone. I just can't.",
+    "ruText": "Я не могу... Я не могу оставаться здесь одна. Я просто не могу."
+  },
+  {
+    "id": "568",
+    "start": 4605230,
+    "end": 4606315,
+    "enText": "I can't manage it.",
+    "ruText": "Я просто не смогу."
+  },
+  {
+    "id": "569",
+    "start": 4607900,
+    "end": 4609710,
+    "enText": "I don't know why I brought this up. Okay.",
+    "ruText": "Ладно, не знаю, зачем я это сказала. Ясно."
+  },
+  {
+    "id": "570",
+    "start": 4609810,
+    "end": 4614240,
+    "enText": "I shouldn't... I shouldn't... No, I get it. I shouldn't have brought it up right now. We can discuss it some other time.",
+    "ruText": "Зря я заговорила об этом. Да ничего. Мне не следовало поднимать этот вопрос прямо сейчас. Мы можем обсудить это как-нибудь в другой раз."
+  },
+  {
+    "id": "571",
+    "start": 4615240,
+    "end": 4619286,
+    "enText": "I think it's just a lot. It's okay. It's okay. It's a lot for both of us to handle right now.",
+    "ruText": "Я думаю, это слишком много. Все в порядке. Все в порядке. Нам обоим сейчас очень тяжело с этим справиться."
+  },
+  {
+    "id": "572",
+    "start": 4647689,
+    "end": 4650025,
+    "enText": "Thank you, Patrick. You're welcome, Miss Hobbes.",
+    "ruText": "Спасибо, Патрик. Пожалуйста, миссис Хоббс."
+  },
+  {
+    "id": "573",
+    "start": 4653779,
+    "end": 4655781,
+    "enText": "Good morning, Charlie. How are you, Miss Hobbes?",
+    "ruText": "Здравствуй, Чарли. Доброе, миссис Хоббс."
+  },
+  {
+    "id": "574",
+    "start": 4673507,
+    "end": 4676510,
+    "enText": "I'm gonna check on the room. I'll be right back. Thank you so much.",
+    "ruText": "Посмотрю, готова ли примерочная. Огромное спасибо."
+  },
+  {
+    "id": "575",
+    "start": 4678178,
+    "end": 4690190,
+    "enText": "...Mrs. Hobbes. Wow. This is so pretty. May I see the other tray? Yes, of course.",
+    "ruText": "Пожалуйста, миссис Хоббс. Роскошно. Какое красивое. Еще вот эти покажите. Да, конечно."
+  },
+  {
+    "id": "576",
+    "start": 4719553,
+    "end": 4721847,
+    "enText": "Please, come this way. Tom is expecting you.",
+    "ruText": "Здравствуйте. Проходите. Том уже вас ждет."
+  },
+  {
+    "id": "577",
+    "start": 4726268,
+    "end": 4728946,
+    "enText": "He's gonna be bored out of his mind. Come talk to me in 20 years.",
+    "ruText": "Он сойдет с ума от скуки. Приходи поговорить со мной через 20 лет."
+  },
+  {
+    "id": "578",
+    "start": 4729146,
+    "end": 4731982,
+    "enText": "I'll be dealing with the exact same thing. You know what I'm saying?",
+    "ruText": "У меня будет все так же. Ты понимаешь, о чем я говорю?"
+  },
+  {
+    "id": "579",
+    "start": 4732649,
+    "end": 4735052,
+    "enText": "Mrs. Hobbes. Good morning. I'm Pat Braddock.",
+    "ruText": "Миссис Хоббс. Доброе утро. Пэт Брэддок."
+  },
+  {
+    "id": "580",
+    "start": 4735152,
+    "end": 4737404,
+    "enText": "We met briefly at your husband's memorial service.",
+    "ruText": "Мы виделись на прощании с вашим супругом."
+  },
+  {
+    "id": "581",
+    "start": 4738655,
+    "end": 4741742,
+    "enText": "Yes, of course. How do you do? I'm good. Thank you.",
+    "ruText": "Да, конечно. Как ваши дела? Хорошо, спасибо."
+  },
+  {
+    "id": "582",
+    "start": 4741742,
+    "end": 4744870,
+    "enText": "These are my associates, Mr. McCabe, Mr. Mosely.",
+    "ruText": "Это мои помощники мистер Маккейб, мистер Моузли."
+  },
+  {
+    "id": "583",
+    "start": 4746246,
+    "end": 4748582,
+    "enText": "We're here to see Tom. We're doing a bit of business for him.",
+    "ruText": "Мы к Тому по поводу его поручения."
+  },
+  {
+    "id": "584",
+    "start": 4749708,
+    "end": 4751084,
+    "enText": "What kind of business?",
+    "ruText": "Какого поручения?"
+  },
+  {
+    "id": "585",
+    "start": 4751084,
+    "end": 4755781,
+    "enText": "Pat, hey. It's okay, Madeline. Braddock is an old family friend. Hi, Tom.",
+    "ruText": "Пэт, привет. Да, Меделин. Он друг семьи. Привет, Том."
+  },
+  {
+    "id": "586",
+    "start": 4755881,
+    "end": 4760385,
+    "enText": "Good to see you. He did work for my father whenever he had anything sensitive he needed taken care of.",
+    "ruText": "Очень рад. Он помогал отцу решать деликатные вопросы."
+  },
+  {
+    "id": "587",
+    "start": 4760928,
+    "end": 4763096,
+    "enText": "Actually, Madeline, I want you to see this.",
+    "ruText": "Меделин, хочу, чтобы ты взглянула."
+  },
+  {
+    "id": "588",
+    "start": 4763764,
+    "end": 4766750,
+    "enText": "Tom enlisted our help to find the young woman who committed the theft.",
+    "ruText": "Том попросил нас найти девушку, похитившую деньги."
+  },
+  {
+    "id": "589",
+    "start": 4766850,
+    "end": 4771563,
+    "enText": "After running her picture through the system, we landed on this woman. We think this is her.",
+    "ruText": "Пробили ее по базе фото и обнаружили вот эту девицу. Думаем, это она."
+  },
+  {
+    "id": "590",
+    "start": 4775484,
+    "end": 4776427,
+    "enText": "That's her. All right.",
+    "ruText": "Это она. Да."
+  },
+  {
+    "id": "591",
+    "start": 4776527,
+    "end": 4780364,
+    "enText": "So her name is Sandra Carmichael. She was born in Seattle. Rough childhood.",
+    "ruText": "Ее зовут Сандра Кармайкл. Родилась в Сиэтле. Детство тяжелое."
+  },
+  {
+    "id": "592",
+    "start": 4780864,
+    "end": 4783700,
+    "enText": "Talked to the mother, but she hasn't spoken to her in several years.",
+    "ruText": "Поговорили с ее матерью, но она не разговаривала с ней уже несколько лет."
+  },
+  {
+    "id": "593",
+    "start": 4783700,
+    "end": 4790666,
+    "enText": "Okay, she drops out of high school at 16, starts racking up a number of offenses. Shoplifting, possession, assault.",
+    "ruText": "Так. Значит, в 16 вылетает из школы, и пошло-поехало. Кражи, хранение наркотиков, нападение."
+  },
+  {
+    "id": "594",
+    "start": 4791166,
+    "end": 4797714,
+    "enText": "But then she develops a habit, and she crisscrosses the country until she makes her way to Queens, where she's arrested again for possession.",
+    "ruText": "Потом серьезно подсаживается, колесит по стране и добирается до Квинса, где ее принимают за хранение."
+  },
+  {
+    "id": "595",
+    "start": 4797714,
+    "end": 4800634,
+    "enText": "She gets paroled and that's where the trail runs cold.",
+    "ruText": "Выходит по УДО, и вот тут-то след и теряется."
+  },
+  {
+    "id": "596",
+    "start": 4801635,
+    "end": 4806640,
+    "enText": "Okay, so that's it. She's a drug addict. Well, frankly, it raises some questions.",
+    "ruText": "Вот и выяснили. Она наркоманка. Вот это-то и вызывает вопросы."
+  },
+  {
+    "id": "597",
+    "start": 4807182,
+    "end": 4808667,
+    "enText": "What kind of questions? Yeah, like what?",
+    "ruText": "Какие вопросы? Да, какие?"
+  },
+  {
+    "id": "598",
+    "start": 4808767,
+    "end": 4813105,
+    "enText": "What she pulled required a great deal of sophistication. I don't see how this woman did it alone.",
+    "ruText": "Такое требует изощренности. Одна бы не справилась."
+  },
+  {
+    "id": "599",
+    "start": 4813105,
+    "end": 4815023,
+    "enText": "I think we're looking for more than one person.",
+    "ruText": "Думаю, у нее были подельники."
+  },
+  {
+    "id": "600",
+    "start": 4816441,
+    "end": 4818902,
+    "enText": "We'll keep you posted. Thank you. I really appreciate this.",
+    "ruText": "Будем на связи. Спасибо. Ты очень помог."
+  },
+  {
+    "id": "601",
+    "start": 4818902,
+    "end": 4821697,
+    "enText": "We're gonna get 'em. Okay. No, I trust you.",
+    "ruText": "Мы их найдем. Я в тебе не сомневаюсь."
+  },
+  {
+    "id": "602",
+    "start": 4823156,
+    "end": 4825826,
+    "enText": "We'll talk to you soon, all right? Okay. Yeah.",
+    "ruText": "Ну ладно, до скорого. Хорошо. Пока."
+  },
+  {
+    "id": "603",
+    "start": 4871079,
+    "end": 4874750,
+    "enText": "Hi! Hi!",
+    "ruText": "Привет! Привет!"
+  },
+  {
+    "id": "604",
+    "start": 4878170,
+    "end": 4881173,
+    "enText": "I didn't know you could cook. Not bad for a trophy wife, huh?",
+    "ruText": "Умеешь готовить? Неплохо для «трофейной жены», да?"
+  },
+  {
+    "id": "605",
+    "start": 4883550,
+    "end": 4885285,
+    "enText": "I mean, your dad told me what you said about me.",
+    "ruText": "Отец сказал, ты так меня окрестил."
+  },
+  {
+    "id": "606",
+    "start": 4885385,
+    "end": 4888605,
+    "enText": "Sorry. I didn't know you then. I don't care.",
+    "ruText": "Прости. Я же тебя не знал. А, да неважно."
+  },
+  {
+    "id": "607",
+    "start": 4888805,
+    "end": 4891141,
+    "enText": "It was more about him. I honestly... I really don't care.",
+    "ruText": "Хотел его задеть. Я не обращаю внимания."
+  },
+  {
+    "id": "608",
+    "start": 4892059,
+    "end": 4893268,
+    "enText": "You hungry?",
+    "ruText": "Есть хочешь?"
+  },
+  {
+    "id": "609",
+    "start": 4893894,
+    "end": 4896313,
+    "enText": "Yeah. I could eat. Let me just put my stuff down.",
+    "ruText": "Да. Я бы поел. Только вещи заброшу."
+  },
+  {
+    "id": "610",
+    "start": 4901235,
+    "end": 4903303,
+    "enText": "Did you have any luck finding that girl?",
+    "ruText": "Удалось найти ту девушку?"
+  },
+  {
+    "id": "611",
+    "start": 4903403,
+    "end": 4907157,
+    "enText": "Not yet. Braddock had a lead down in Miami but it was a bust.",
+    "ruText": "Нет, пока нет. Брэддоку намекнули, она в Майами, но облом."
+  },
+  {
+    "id": "612",
+    "start": 4908909,
+    "end": 4915165,
+    "enText": "Honey, you know, what these people did to you was awful and confusing and unfair.",
+    "ruText": "Родной, эти люди поступили с тобой ужасно, неправильно. Нечестно."
+  },
+  {
+    "id": "613",
+    "start": 4915165,
+    "end": 4920003,
+    "enText": "But I don't think that finding her is gonna make you feel any better.",
+    "ruText": "Но я очень сомневаюсь, что встреча с ней тебя как-то утешит."
+  },
+  {
+    "id": "614",
+    "start": 4921421,
+    "end": 4924424,
+    "enText": "I disagree. Yeah, well...",
+    "ruText": "А я нет. Не знаю..."
+  },
+  {
+    "id": "615",
+    "start": 4925008,
+    "end": 4927828,
+    "enText": "Okay. Hang on, I... I have something I wanna show you.",
+    "ruText": "Кстати. Я как раз хотела тебе показать."
+  },
+  {
+    "id": "616",
+    "start": 4927928,
+    "end": 4934026,
+    "enText": "So, I... started looking for apartments for you.",
+    "ruText": "Так, в общем, я начала искать для тебя квартирку."
+  },
+  {
+    "id": "617",
+    "start": 4934226,
+    "end": 4938364,
+    "enText": "These are all downtown near the bookstore, so it wouldn't be much of a commute.",
+    "ruText": "Эти все - в центре города, рядом с книжным. До работы будет рукой подать."
+  },
+  {
+    "id": "618",
+    "start": 4938564,
+    "end": 4939707,
+    "enText": "What is this? Well, I told you.",
+    "ruText": "Что это? Ну, я же говорила."
+  },
+  {
+    "id": "619",
+    "start": 4939807,
+    "end": 4946782,
+    "enText": "I'm gonna have to sell this apartment, so I want you to find a place. I know, but I don't need you to do this for me. But I want to, sweetheart. I wanna help you with this.",
+    "ruText": "Я говорила про продажу квартиры. Тебе нужно где-то жить. Помню, я и сам бы мог. Я хочу помочь. Мне будет приятно. "
+  },
+  {
+    "id": "620",
+    "start": 4946782,
+    "end": 4950893,
+    "enText": "I get that. I'm just saying that I can find my own apartment. Thank you. Why are you getting upset?",
+    "ruText": "Да, хорошо, просто говорю, что я сам найду. Расстроился?"
+  },
+  {
+    "id": "621",
+    "start": 4950993,
+    "end": 4952144,
+    "enText": "I'm not. No, you are.",
+    "ruText": "Нет, ничуть. Я же вижу, что расстроился."
+  },
+  {
+    "id": "622",
+    "start": 4952244,
+    "end": 4961111,
+    "enText": "No, I'm not. I'm just... You totally are getting upset. You can't come here and do this... No, but I want to. ...and expect me not to react. I wanna be a part of this. It's not your problem. You're not my mom! No, you're right. I'm not.",
+    "ruText": "Нет, это не так. Я просто... Ты точно расстроился. Ты не можешь прийти сюда и сделать это... Нет, но я хочу. ...и ожидать, что я никак не отреагирую. Я хочу быть частью этого. Это не твоя проблема. Ты мне не мама! Нет, ты прав. Я не она."
+  },
+  {
+    "id": "623",
+    "start": 4961211,
+    "end": 4963547,
+    "enText": "'Cause if I were, I'd tell you to grow the fuck up.",
+    "ruText": "Иначе бы сказала: «Кончай сопли разводить»."
+  },
+  {
+    "id": "624",
+    "start": 4968468,
+    "end": 4971263,
+    "enText": "People get their hearts broken every day.",
+    "ruText": "Сердца разбиваются каждый день."
+  },
+  {
+    "id": "625",
+    "start": 4971263,
+    "end": 4973473,
+    "enText": "It happens to everybody, okay?",
+    "ruText": "Никто не застрахован, никто."
+  },
+  {
+    "id": "626",
+    "start": 4975309,
+    "end": 4976310,
+    "enText": "All the time.",
+    "ruText": "Это жизнь."
+  },
+  {
+    "id": "627",
+    "start": 4978103,
+    "end": 4982049,
+    "enText": "But most kids aren't entitled enough to hire men to find the girl who did it.",
+    "ruText": "Но большинство не могут нанять человека, который бы выследил бывшую."
+  },
+  {
+    "id": "628",
+    "start": 4982149,
+    "end": 4987738,
+    "enText": "She stole money from me. That's not why you're doing it. You want to see her again. Right?",
+    "ruText": "Она украла у меня деньги. Дело не в деньгах. Ты хочешь увидеть ее снова. Так?"
+  },
+  {
+    "id": "629",
+    "start": 4990908,
+    "end": 4993035,
+    "enText": "You can lie to yourself, but you can't lie to me.",
+    "ruText": "Себя ты обманешь, а меня нет."
+  },
+  {
+    "id": "630",
+    "start": 5000209,
+    "end": 5001919,
+    "enText": "I'm sorry. That was harsh.",
+    "ruText": "Прости, что так сурово."
+  },
+  {
+    "id": "631",
+    "start": 5001919,
+    "end": 5006632,
+    "enText": "You think I'm a loser. No, I don't. Yeah, you do. No, I don't think that you're a loser. I think that...",
+    "ruText": "Считаешь, я слабак. Нет. Считаешь. Нет, я не считаю, что ты слабак. Я считаю..."
+  },
+  {
+    "id": "632",
+    "start": 5009468,
+    "end": 5010802,
+    "enText": "I think that you're human.",
+    "ruText": "...что ты человек."
+  },
+  {
+    "id": "633",
+    "start": 5013096,
+    "end": 5016475,
+    "enText": "I think we're all human.",
+    "ruText": "Что мы все люди."
+  },
+  {
+    "id": "634",
+    "start": 5016475,
+    "end": 5018101,
+    "enText": "We're just doing the best we can.",
+    "ruText": "И мы хотим как лучше."
+  },
+  {
+    "id": "635",
+    "start": 5023565,
+    "end": 5025150,
+    "enText": "I'll have Braddock call it off.",
+    "ruText": "Я отзову Брэддока."
+  },
+  {
+    "id": "636",
+    "start": 5028946,
+    "end": 5032074,
+    "enText": "Good for you, sweetheart. I know it's hard.",
+    "ruText": "Умница, милый. Я знаю, это тяжело."
+  },
+  {
+    "id": "637",
+    "start": 5035369,
+    "end": 5039456,
+    "enText": "This apartment is unlisted. You're the first people to see it. That's exciting.",
+    "ruText": "Даже объявления нет. Вы первые смотрите. О, как здорово."
+  },
+  {
+    "id": "638",
+    "start": 5040123,
+    "end": 5041458,
+    "enText": "This is a great neighbourhood. Hello?",
+    "ruText": "Район замечательный."
+  },
+  {
+    "id": "639",
+    "start": 5041458,
+    "end": 5043252,
+    "enText": "There are lots of young people here. Yeah?",
+    "ruText": "Тут столько молодежи! Да?"
+  },
+  {
+    "id": "640",
+    "start": 5043252,
+    "end": 5048182,
+    "enText": "Well, Tom has a bookstore on Thompson Street... Yeah. Okay. ...so this may be absolutely perfect. Bring her to the apartment. Yeah.",
+    "ruText": "У Тома магазин на Томпсон-стрит. Хорошо. Место для нас идеальное. Везите ее домой. Да, спасибо."
+  },
+  {
+    "id": "641",
+    "start": 5048382,
+    "end": 5052427,
+    "enText": "Honey, what... what's going on? Okay. Thanks. They found her.",
+    "ruText": "Милый, что случилось? Они нашли ее."
+  },
+  {
+    "id": "642",
+    "start": 5052886,
+    "end": 5058809,
+    "enText": "I thought you told them to stop looking for her? Well, I did... I did. But they had one last lead and they found her.",
+    "ruText": "Я думала, ты сказал им больше не искать. Сказал, да. Они просто проверяли последнюю зацепку."
+  },
+  {
+    "id": "643",
+    "start": 5059434,
+    "end": 5066608,
+    "enText": "Where is she? They're bringing her to the apartment. I just wanna talk to her. I have to go. I'm sorry. I'm so sorry. We're gonna have to do this another time. Thank you so much.",
+    "ruText": "И где она? Ее везут в квартиру. Я только поговорю с ней. Извините. Ясно. Прошу прощения, отложим. Большое спасибо."
+  },
+  {
+    "id": "644",
+    "start": 5068026,
+    "end": 5069695,
+    "enText": "We've got her in the guest room. Okay.",
+    "ruText": "В гостевой спальне. Ясно."
+  },
+  {
+    "id": "645",
+    "start": 5069695,
+    "end": 5073866,
+    "enText": "She was living in the Lincoln Motel off the Cross Bronx Expressway.",
+    "ruText": "Она жила в мотеле «Линкольн» прямо у скоростного шоссе Кросс-Бронкс."
+  },
+  {
+    "id": "646",
+    "start": 5074616,
+    "end": 5079204,
+    "enText": "And she has a serious heroin addiction. She's fallen since you've seen her, Tom.",
+    "ruText": "Серьезно подсела на героин. Такой ты ее еще не видел."
+  },
+  {
+    "id": "647",
+    "start": 5079204,
+    "end": 5081415,
+    "enText": "All right? Hold on. Just wait a second.",
+    "ruText": "Слышишь? Стой-стой, секундочку."
+  },
+  {
+    "id": "648",
+    "start": 5083375,
+    "end": 5088589,
+    "enText": "We gave her a sedative to calm her down, but she's gonna be experiencing some pretty heavy withdrawal so...",
+    "ruText": "Мы пока дали ей успокоительное, но скоро у нее начнется тяжелейшая ломка, поэтому..."
+  },
+  {
+    "id": "649",
+    "start": 5088589,
+    "end": 5092134,
+    "enText": "Can I go in and talk to her? I'm gonna go with you. No. I'm okay.",
+    "ruText": "Можно с ней поговорить? Я пойду с тобой. Нет. Я сам."
+  },
+  {
+    "id": "650",
+    "start": 5103437,
+    "end": 5111320,
+    "enText": "Did she say anything else? You have any more insight? Not yet.",
+    "ruText": "Она что-то рассказала? О своей афере? Пока нет."
+  },
+  {
+    "id": "651",
+    "start": 5123624,
+    "end": 5130088,
+    "enText": "You all right, sweetheart? Yeah. Yeah. I'm okay.",
+    "ruText": "Ты в порядке, милый? Да. Да. Я в порядке."
+  },
+  {
+    "id": "652",
+    "start": 5130797,
+    "end": 5133383,
+    "enText": "It's weird. It's like, it's her, but it's not her.",
+    "ruText": "Так странно. Вроде она, а вроде и нет."
+  },
+  {
+    "id": "653",
+    "start": 5133383,
+    "end": 5134676,
+    "enText": "Did she tell you anything?",
+    "ruText": "Ты что-то узнал?"
+  },
+  {
+    "id": "654",
+    "start": 5136220,
+    "end": 5137262,
+    "enText": "Yeah, you were right.",
+    "ruText": "Да, ты был прав."
+  },
+  {
+    "id": "655",
+    "start": 5137930,
+    "end": 5142100,
+    "enText": "She wasn't working alone. There was... There's this guy who was her accomplice.",
+    "ruText": "Она действовала не одна. С ней был один тип, ее сообщник."
+  },
+  {
+    "id": "656",
+    "start": 5142100,
+    "end": 5147064,
+    "enText": "He taught her everything and trained her. He planned the whole thing.",
+    "ruText": "Он научил ее всему, натаскал. И он же всё спланировал."
+  },
+  {
+    "id": "657",
+    "start": 5147064,
+    "end": 5151360,
+    "enText": "She said that he has some sort of connection to... to us.",
+    "ruText": "Она говорит, он вроде как связан, что ли, с нами."
+  },
+  {
+    "id": "658",
+    "start": 5151985,
+    "end": 5153554,
+    "enText": "What kind of connection?",
+    "ruText": "А что значит «связан»?"
+  },
+  {
+    "id": "659",
+    "start": 5153654,
+    "end": 5157574,
+    "enText": "She said that he knew all about me. She said that it seemed personal.",
+    "ruText": "Она сказала, он всё обо мне знал. И это что-то личное."
+  },
+  {
+    "id": "660",
+    "start": 5159618,
+    "end": 5165040,
+    "enText": "Did she describe him? Did she say what he looked like at all? No, but he cheated her too.",
+    "ruText": "А она его описала? Сказала хоть, как он выглядит? Нет. Но ее он тоже кинул."
+  },
+  {
+    "id": "661",
+    "start": 5165832,
+    "end": 5173966,
+    "enText": "He left her with nothing. I told her she could stay here... No, no, no, no. She can't stay here. ...and...",
+    "ruText": "Оставил ни с чем. Я предложил пожить ей у нас... Ой, нет. Она не останется. Нет."
+  },
+  {
+    "id": "662",
+    "start": 5173966,
+    "end": 5182808,
+    "enText": "She's sick... No. ...and she needs a place to detox... No. ...and she regrets what she did. She's a junkie, you can't trust her. She's gonna do anything to get money. I agree. Very easy for me to do. No. She's staying here.",
+    "ruText": "Ей плохо, ей нужно переждать ломку. Нет. И она раскаивается. Она наркоманка, ты не можешь ей доверять. Она сделает все, чтобы раздобыть деньги. Согласен. Она остается. "
+  },
+  {
+    "id": "663",
+    "start": 5182808,
+    "end": 5189590,
+    "enText": "I'll take care of her. I'll bring doctors or nurses, or whatever. But I wanna do this. Mr. Braddock, this isn't safe. I need your help with this. Well, I...",
+    "ruText": "Я о ней позабочусь. Найду врачей - кого нужно. Я так решил. Мистер Брэддок, это небезопасно. Мне нужна ваша помощь с этим. Ну, я..."
+  },
+  {
+    "id": "664",
+    "start": 5189690,
+    "end": 5193026,
+    "enText": "Look, I can put men outside her room. She'll essentially be under lock and key.",
+    "ruText": "Ладно, я могу выставить охрану. Девчонка никуда не денется."
+  },
+  {
+    "id": "665",
+    "start": 5193026,
+    "end": 5195487,
+    "enText": "That's not what I'm worried about. But, come on.",
+    "ruText": "Это не проблема. Но послушай."
+  },
+  {
+    "id": "666",
+    "start": 5195988,
+    "end": 5200392,
+    "enText": "I mean, are you ready for when she sobers up and you have to see the real her? I'm dying to see the real her.",
+    "ruText": "Готов ли ты к тому, что она протрезвеет и тебе придется увидеть ее настоящую? Я умираю от желания увидеть ее настоящую."
+  },
+  {
+    "id": "667",
+    "start": 5200492,
+    "end": 5203245,
+    "enText": "Okay. If she's gonna stay here, then I need to talk to her.",
+    "ruText": "Хорошо. Если она останется здесь, тогда мне нужно с ней поговорить."
+  },
+  {
+    "id": "668",
+    "start": 5203787,
+    "end": 5206031,
+    "enText": "No, wait. She needs to rest. No, I should.",
+    "ruText": "Подожди. Дай ей отдохнуть. Иначе никак."
+  },
+  {
+    "id": "669",
+    "start": 5252503,
+    "end": 5263138,
+    "enText": "Sandra? Sandra? Hi, I'm Madeline.",
+    "ruText": "Сандра? Сандра. Здравствуй, я Меделин."
+  },
+  {
+    "id": "670",
+    "start": 5264139,
+    "end": 5267601,
+    "enText": "I was married to Tom's father. I'm his stepmother.",
+    "ruText": "Я была замужем за отцом Тома. Я его мачеха."
+  },
+  {
+    "id": "671",
+    "start": 5270187,
+    "end": 5273565,
+    "enText": "Suck my dick, you lying bitch.",
+    "ruText": "Отсоси, лживая сука."
+  },
+  {
+    "id": "672",
+    "start": 5275609,
+    "end": 5277653,
+    "enText": "Yeah, I know who you are, Madeline.",
+    "ruText": "Знаю я, кто ты, Меделин."
+  },
+  {
+    "id": "673",
+    "start": 5279613,
+    "end": 5281240,
+    "enText": "Max told me the whole score.",
+    "ruText": "Макс всё мне рассказал."
+  },
+  {
+    "id": "674",
+    "start": 5282991,
+    "end": 5286203,
+    "enText": "That you set the cops on him, but then had to beg him to come back.",
+    "ruText": "Как ты натравила копов, а потом умоляла вернуться."
+  },
+  {
+    "id": "675",
+    "start": 5286703,
+    "end": 5292501,
+    "enText": "How there was an old man who was dying and was gonna leave behind a fortune, and all we needed to do was...",
+    "ruText": "Про старикана, который вот-вот даст дуба и оставит после себя целое состояние, и надо только..."
+  },
+  {
+    "id": "676",
+    "start": 5293919,
+    "end": 5297881,
+    "enText": "nudge aside the son so that his very full of shit widow could inherit it all.",
+    "ruText": "Сынка его подвинуть, чтоб хитрожопая вдовушка унаследовала всё."
+  },
+  {
+    "id": "677",
+    "start": 5299633,
+    "end": 5300801,
+    "enText": "So, what do you want?",
+    "ruText": "Чего ты хочешь?"
+  },
+  {
+    "id": "678",
+    "start": 5300801,
+    "end": 5306014,
+    "enText": "I wanna confess. Confess to it all and get this off my chest.",
+    "ruText": "Хочу сознаться. Сознаться во всем. Камень с души снять."
+  },
+  {
+    "id": "679",
+    "start": 5306014,
+    "end": 5309001,
+    "enText": "Do me a favour and get Tom. Tom? How much?",
+    "ruText": "Позови, пожалуйста, Тома. Том! Сколько?"
+  },
+  {
+    "id": "680",
+    "start": 5311019,
+    "end": 5312521,
+    "enText": "I don't want your money, bitch.",
+    "ruText": "Дело не в деньгах, тварь."
+  },
+  {
+    "id": "681",
+    "start": 5313272,
+    "end": 5314273,
+    "enText": "You don't?",
+    "ruText": "Не в деньгах?"
+  },
+  {
+    "id": "682",
+    "start": 5314773,
+    "end": 5316859,
+    "enText": "Max and I were supposed to meet at Penn Station.",
+    "ruText": "Я ждала Макса на Пенсильванском вокзале."
+  },
+  {
+    "id": "683",
+    "start": 5317568,
+    "end": 5318986,
+    "enText": "I waited there for three days.",
+    "ruText": "Проторчала там три дня."
+  },
+  {
+    "id": "684",
+    "start": 5319570,
+    "end": 5323198,
+    "enText": "Because I was so fucking stupid, I thought something had happened to him.",
+    "ruText": "Какая же я тупица. Думала, с ним что-то стряслось."
+  },
+  {
+    "id": "685",
+    "start": 5324867,
+    "end": 5329705,
+    "enText": "Can you believe that? He left me.",
+    "ruText": "Ты представляешь? Он бросил меня."
+  },
+  {
+    "id": "686",
+    "start": 5333792,
+    "end": 5335169,
+    "enText": "Then what can I do for you?",
+    "ruText": "Чем я могу помочь?"
+  },
+  {
+    "id": "687",
+    "start": 5340674,
+    "end": 5345095,
+    "enText": "I want Max. I wanna see Max.",
+    "ruText": "Найди Макса. Хочу увидеть Макса."
+  },
+  {
+    "id": "688",
+    "start": 5347097,
+    "end": 5350434,
+    "enText": "I wanna look into his face, and I want him to see what he did to me.",
+    "ruText": "Посмотреть ему в глаза, чтобы понял, до чего меня довел."
+  },
+  {
+    "id": "689",
+    "start": 5352811,
+    "end": 5357941,
+    "enText": "I wanna see Max. Honey, I don't know where he is.",
+    "ruText": "Хочу видеть Макса. Детка, я даже не знаю, где он."
+  },
+  {
+    "id": "690",
+    "start": 5357941,
+    "end": 5359318,
+    "enText": "Well, you better find out.",
+    "ruText": "Что ж, тебе лучше это выяснить."
+  },
+  {
+    "id": "691",
+    "start": 5360611,
+    "end": 5363906,
+    "enText": "Or I will tell everyone in the next room who you really fucking are.",
+    "ruText": "Или я расскажу всем в соседней комнате, кто ты на самом деле, черт возьми."
+  },
+  {
+    "id": "692",
+    "start": 5372831,
+    "end": 5373916,
+    "enText": "She can stay.",
+    "ruText": "Она остается."
+  },
+  {
+    "id": "693",
+    "start": 5375626,
+    "end": 5379213,
+    "enText": "Your call has been forwarded to an automated voice message system.",
+    "ruText": "Ваш звонок перенаправлен на голосовую почту."
+  },
+  {
+    "id": "694",
+    "start": 5379213,
+    "end": 5383967,
+    "enText": "When you are finished recording, you may hang up or press one for more options.",
+    "ruText": "По окончании записи завершите звонок или нажмите «один» для доступа к меню."
+  },
+  {
+    "id": "695",
+    "start": 5385344,
+    "end": 5386562,
+    "enText": "So, I have a problem.",
+    "ruText": "Слушай, у меня тут проблема."
+  },
+  {
+    "id": "696",
+    "start": 5386762,
+    "end": 5391308,
+    "enText": "They found your girl getting high off the Cross Bronx Expressway.",
+    "ruText": "Нашли твою девицу. Ширялась где-то в районе Кросс-Бронкса."
+  },
+  {
+    "id": "697",
+    "start": 5391308,
+    "end": 5394811,
+    "enText": "And now she's in my apartment pining after you.",
+    "ruText": "И теперь она в моей квартире, тоскует по тебе."
+  },
+  {
+    "id": "698",
+    "start": 5395729,
+    "end": 5398048,
+    "enText": "You really did a number on her, didn't you?",
+    "ruText": "Смотрю, ты с ней серьезно поработал, да?"
+  },
+  {
+    "id": "699",
+    "start": 5398148,
+    "end": 5400184,
+    "enText": "You... You didn't have to go that hard.",
+    "ruText": "Можно было с ней и полегче."
+  },
+  {
+    "id": "700",
+    "start": 5400484,
+    "end": 5404363,
+    "enText": "I mean, what the fuck did you tell her? Call me.",
+    "ruText": "Какого хрена ты ей про меня наплел? Перезвони."
+  },
+  {
+    "id": "701",
+    "start": 5408325,
+    "end": 5454162,
+    "enText": "Where is he? Where is he? Did you find him? Did you find him?",
+    "ruText": "Где он? Где он?! Ты его нашла?"
+  },
+  {
+    "id": "702",
+    "start": 5454162,
+    "end": 5458792,
+    "enText": "When you are finished recording, you may hang up or press one for more options.",
+    "ruText": "По окончании записи завершите звонок или нажмите «один» для доступа к меню."
+  },
+  {
+    "id": "703",
+    "start": 5459543,
+    "end": 5463922,
+    "enText": "Max. Hey, it's me again. Can you give me a call?",
+    "ruText": "Макс. Привет, снова я. Перезвони, пожалуйста."
+  },
+  {
+    "id": "704",
+    "start": 5481773,
+    "end": 5485110,
+    "enText": "Max told me the whole score. And I know who you are.",
+    "ruText": "Макс всё мне рассказал. Я знаю, кто ты."
+  },
+  {
+    "id": "705",
+    "start": 5485652,
+    "end": 5487696,
+    "enText": "Please call me back. I need you.",
+    "ruText": "Пожалуйста, позвони. Ты мне нужен."
+  },
+  {
+    "id": "706",
+    "start": 5487696,
+    "end": 5493402,
+    "enText": "I want Max. I wanna see Max. I wanna see Max.",
+    "ruText": "Найди Макса. Хочу увидеть Макса. Хочу увидеть Макса."
+  },
+  {
+    "id": "707",
+    "start": 5493702,
+    "end": 5498457,
+    "enText": "Just please call me back. Come on, Max. Please. Or I will tell everyone in the next room who you really fucking are.",
+    "ruText": "Да перезвони же, прошу. Или я всем расскажу, что ты за дрянь."
+  },
+  {
+    "id": "708",
+    "start": 5506673,
+    "end": 5508584,
+    "enText": "Listen, I came back like you asked.",
+    "ruText": "Слушай, я вернулся, как ты и просила."
+  },
+  {
+    "id": "709",
+    "start": 5508884,
+    "end": 5512204,
+    "enText": "I gave Tom a nervous breakdown. I got my money. Now I'm out.",
+    "ruText": "Том получил нервный срыв. Я получил бабло. Вот и всё."
+  },
+  {
+    "id": "710",
+    "start": 5513096,
+    "end": 5521063,
+    "enText": "Yeah, but I... It's just that I... I think...",
+    "ruText": "Да, просто я... Ты знаешь, я... Я хочу..."
+  },
+  {
+    "id": "711",
+    "start": 5522606,
+    "end": 5528403,
+    "enText": "I want you back. You want me back?",
+    "ruText": "Чтобы ты приехал. Хочешь, чтобы я приехал?"
+  },
+  {
+    "id": "712",
+    "start": 5531573,
+    "end": 5539998,
+    "enText": "Yeah. You want me back to fix this. Fuck, yes.",
+    "ruText": "Да. Чтобы приехал и всё исправил. Чёрт, да."
+  },
+  {
+    "id": "713",
+    "start": 5540958,
+    "end": 5543085,
+    "enText": "Put that down... Yeah, I know that's right.",
+    "ruText": "Кладу сюда. Правильно."
+  },
+  {
+    "id": "714",
+    "start": 5543085,
+    "end": 5547748,
+    "enText": "Okay. And then I'm gonna... You're winning, so I don't understand why you have so many questions.",
+    "ruText": "Беру одну. Сама выигрывает... ...и столько вопросов задает."
+  },
+  {
+    "id": "715",
+    "start": 5548048,
+    "end": 5550008,
+    "enText": "Are you cheating me? You hustling me?",
+    "ruText": "Прикидываешься? Мухлюешь, да?"
+  },
+  {
+    "id": "716",
+    "start": 5550008,
+    "end": 5552828,
+    "enText": "Hi. How's our young patient doing?",
+    "ruText": "Привет. Как наша пациентка?"
+  },
+  {
+    "id": "717",
+    "start": 5552928,
+    "end": 5557916,
+    "enText": "I'm doing a lot better. Thanks. Yeah, last night was rough, but I think we're over the hump. That's a relief.",
+    "ruText": "Намного лучше. Спасибо. Да, ночь была тяжелая, думаю, худшее позади. Это радует."
+  },
+  {
+    "id": "718",
+    "start": 5558016,
+    "end": 5559142,
+    "enText": "You look a lot better.",
+    "ruText": "Ты так посвежела."
+  },
+  {
+    "id": "719",
+    "start": 5560310,
+    "end": 5562062,
+    "enText": "I was gonna take a walk. Do you want to join me?",
+    "ruText": "Я собиралась прогуляться. Не хочешь присоединиться ко мне?"
+  },
+  {
+    "id": "720",
+    "start": 5562980,
+    "end": 5565257,
+    "enText": "No. You know, she's still not 100%.",
+    "ruText": "Нет. Она еще не совсем в норме."
+  },
+  {
+    "id": "721",
+    "start": 5565357,
+    "end": 5567559,
+    "enText": "I think the fresh air might do her good.",
+    "ruText": "Я считаю, свежий воздух ей полезен."
+  },
+  {
+    "id": "722",
+    "start": 5568360,
+    "end": 5572531,
+    "enText": "I don't know about that. No. A walk would be perfect. Good. Brought you a sweater.",
+    "ruText": "Я даже не знаю. Знаете, а я бы прогулялась. Принесла тебе свитер."
+  },
+  {
+    "id": "723",
+    "start": 5577411,
+    "end": 5580497,
+    "enText": "That was fast. Where was he? You can ask him yourself.",
+    "ruText": "Так скоро. Где он был? Вот у него и спросишь."
+  },
+  {
+    "id": "724",
+    "start": 5582165,
+    "end": 5583250,
+    "enText": "We have a deal, right?",
+    "ruText": "Как договорились?"
+  },
+  {
+    "id": "725",
+    "start": 5584293,
+    "end": 5586044,
+    "enText": "Once you see him, you get out of my life.",
+    "ruText": "Встретишься с ним и исчезнешь."
+  },
+  {
+    "id": "726",
+    "start": 5587129,
+    "end": 5589006,
+    "enText": "I don't want anything from you. Good.",
+    "ruText": "От тебя мне ничего не нужно. Я рада."
+  },
+  {
+    "id": "727",
+    "start": 5595512,
+    "end": 5599224,
+    "enText": "How can you do what you do? Practice.",
+    "ruText": "Как у вас это получается? Практика."
+  },
+  {
+    "id": "728",
+    "start": 5628295,
+    "end": 5669044,
+    "enText": "Where are we going? This is good.",
+    "ruText": "Куда мы едем? Вот здесь."
+  },
+  {
+    "id": "729",
+    "start": 5700242,
+    "end": 5706540,
+    "enText": "You left me! You... I waited for days! You fucking left me! How could you?",
+    "ruText": "Бросил меня! Обманул. Я тебя там ждала! А ты взял и свалил! Как ты мог?"
+  },
+  {
+    "id": "730",
+    "start": 5706540,
+    "end": 5708792,
+    "enText": "You threw me aside like I was fucking trash!",
+    "ruText": "Избавился от меня, как от мусора!"
+  },
+  {
+    "id": "731",
+    "start": 5713338,
+    "end": 5716133,
+    "enText": "Oh, my God. Please. You done?",
+    "ruText": "Ну и сцена. Боже. Ты всё?"
+  },
+  {
+    "id": "732",
+    "start": 5717718,
+    "end": 5719803,
+    "enText": "You got taken. That's what we do.",
+    "ruText": "Тебя развели. Да, мы такие."
+  },
+  {
+    "id": "733",
+    "start": 5720721,
+    "end": 5723432,
+    "enText": "So now, the question is, how do we make this right by you?",
+    "ruText": "Вопрос сейчас в том, как нам загладить вину?"
+  },
+  {
+    "id": "734",
+    "start": 5724057,
+    "end": 5728020,
+    "enText": "I want him to apologize. Well, he can't. Because he's not sorry.",
+    "ruText": "Он должен извиниться. Но он не чувствует сожаления."
+  },
+  {
+    "id": "735",
+    "start": 5730230,
+    "end": 5734985,
+    "enText": "Did you feel anything for me? I felt nothing.",
+    "ruText": "Хоть какие-то чувства были? Никаких."
+  },
+  {
+    "id": "736",
+    "start": 5739656,
+    "end": 5747998,
+    "enText": "What the fuck is this? Shit.",
+    "ruText": "Ну и какого хрена? Чёрт."
+  },
+  {
+    "id": "737",
+    "start": 5756548,
+    "end": 5757866,
+    "enText": "What did I tell you?",
+    "ruText": "Что я тебе говорил?"
+  },
+  {
+    "id": "738",
+    "start": 5757966,
+    "end": 5761428,
+    "enText": "She's used these two to swipe your inheritance right out from under you.",
+    "ruText": "Она их наняла, чтобы увести наследство у тебя из-под носа."
+  },
+  {
+    "id": "739",
+    "start": 5762804,
+    "end": 5764014,
+    "enText": "What? You have nothing to say?",
+    "ruText": "Что, язык проглотили?"
+  },
+  {
+    "id": "740",
+    "start": 5765891,
+    "end": 5767601,
+    "enText": "The inheritance belongs to Tom.",
+    "ruText": "Наследство принадлежит Тому."
+  },
+  {
+    "id": "741",
+    "start": 5767601,
+    "end": 5770379,
+    "enText": "And you're gonna give it back to him. It's his money.",
+    "ruText": "И ты всё ему вернешь. Деньги - его."
+  },
+  {
+    "id": "742",
+    "start": 5770479,
+    "end": 5774024,
+    "enText": "If it was Tom's money, he would have his money. But it's my money.",
+    "ruText": "Будь это деньги Тома, ими распоряжался он. Но они мои."
+  },
+  {
+    "id": "743",
+    "start": 5774675,
+    "end": 5776285,
+    "enText": "And you know what I'm gonna do with my money?",
+    "ruText": "Знаешь, что я сделаю со своими деньгами?"
+  },
+  {
+    "id": "744",
+    "start": 5776485,
+    "end": 5779121,
+    "enText": "I'm gonna take a billion dollars and aim it in your direction.",
+    "ruText": "Возьму миллиард и запущу им в тебя."
+  },
+  {
+    "id": "745",
+    "start": 5779321,
+    "end": 5783200,
+    "enText": "Your three-bedroom in Scarsdale or Lloyd Harbor, or whatever the fuck.",
+    "ruText": "Домику в Скарсдейле или каком другом сраном элитном предместье - «чао»."
+  },
+  {
+    "id": "746",
+    "start": 5783200,
+    "end": 5793544,
+    "enText": "It's gone. Your Benz. Gone. Your kids' college fund. By the time I'm done with you, it's all gone. 'Cause it's all about the money for you, right? That's all any of you care about is the money.",
+    "ruText": "Мерсу - чао. Деньгам на учебу детей... Да у тебя не останется ни черта. Деньги ведь - самое главное, так? Вас только одно заботит- деньги."
+  },
+  {
+    "id": "747",
+    "start": 5794127,
+    "end": 5810469,
+    "enText": "Right, Sandra? Hey! Say something! Answer me! Hey, hey. Tom. Tom. No. Hey! Hey, hey. You've been fucking with me since we first met.",
+    "ruText": "Да, Сандра? Что молчишь? Отвечай! Том! Тихо! Ты мне с первой встречи мозги пудрила. Том..."
+  },
+  {
+    "id": "748",
+    "start": 5810569,
+    "end": 5814273,
+    "enText": "Tom... Put the gun down. Put it down. You took everything.",
+    "ruText": "Том... положи оружие. Всё у меня отняла."
+  },
+  {
+    "id": "749",
+    "start": 5815774,
+    "end": 5817660,
+    "enText": "I'm sorry. You're a fucking liar. Don't say...",
+    "ruText": "Я сожалею. Опять врешь."
+  },
+  {
+    "id": "750",
+    "start": 5817860,
+    "end": 5821680,
+    "enText": "Tom, put it down. Come on. Put the gun down. Put the gun down. Tom. Put the gun down.",
+    "ruText": "Убери оружие. Брось пистолет, Том. Брось пушку."
+  },
+  {
+    "id": "751",
+    "start": 5821680,
+    "end": 5824867,
+    "enText": "I meant what I said, Tom. I meant what I said.",
+    "ruText": "Помнишь мои слова, Том? Я была искренна."
+  },
+  {
+    "id": "752",
+    "start": 5841341,
+    "end": 5842634,
+    "enText": "You're right. You're right. It's not you.",
+    "ruText": "Ну да, ты не главная."
+  },
+  {
+    "id": "753",
+    "start": 5845429,
+    "end": 5851668,
+    "enText": "Tom, no! What are you doing? Hey. No. No, no, no, no. Tom, no. You did this. You ruined us. Look at me. Look what you did to me. Look what you did to my dad!",
+    "ruText": "Том, нет. Что ты делаешь? Стой. Ты нам жизнь сломала. Посмотри. До чего ты меня довела. Моего отца!"
+  },
+  {
+    "id": "754",
+    "start": 5851768,
+    "end": 5854088,
+    "enText": "I took care of your father. I kept him alive.",
+    "ruText": "Я о нем заботилась. Я его оберегала."
+  },
+  {
+    "id": "755",
+    "start": 5854188,
+    "end": 5859401,
+    "enText": "Bullshit! Tom, please don't do this. Just shut up. Tom, put it do... Put the gun down, okay?",
+    "ruText": "Брехня! Том, пожалуйста... Заткнись. Том, положи оружие, ладно?"
+  },
+  {
+    "id": "756",
+    "start": 5861278,
+    "end": 5874166,
+    "enText": "Please, just put it down. Put it down. Tom, no. No! Stay back. Put the gun down. Stay back.",
+    "ruText": "Пожалуйста, брось пистолет. Брось его. Том, стой. Нет! Назад. Положи его. Назад."
+  },
+  {
+    "id": "757",
+    "start": 5874166,
+    "end": 5888430,
+    "enText": "Put the gun down, Madeline. You wanna kill me, Madeline? Get back. Tom, no. You wanna shoot me? Just do it! Hey! Tom. Just do it. No, no, no, no, no, no, no, no. What? What... Tom?",
+    "ruText": "Меделин, брось оружие. Убьешь меня? Стреляй! Назад. Том, уйди. Хватит, Том! Что ты... Нет, нет. Том?"
+  },
+  {
+    "id": "758",
+    "start": 5888430,
+    "end": 5905364,
+    "enText": "Come on. Stay with me. Tom. What the fuck? Oh, my God. You killed him.",
+    "ruText": "Держись. Не засыпай. Том. Твою мать. Господи. Ты его убила."
+  },
+  {
+    "id": "759",
+    "start": 5905989,
+    "end": 5912146,
+    "enText": "I didn't. He... He... He shot himself. You saw it. Call the police. I'm on it. No! He killed himself.",
+    "ruText": "Это не я. Он выстрелил сам. Ты видел. Звоните в полицию. Сейчас. Нет! Выстрелил он."
+  },
+  {
+    "id": "760",
+    "start": 5912246,
+    "end": 5918377,
+    "enText": "I'm sorry, what? Who the fuck are you? Shut the fuck up. You're a part of this. I need to report a shooting. I didn't do it. I... I...",
+    "ruText": "Я не понял. Ты еще кто? Рот закрыл. Ты соучастник! Застрелили человека. Я ни при чём."
+  },
+  {
+    "id": "761",
+    "start": 5918377,
+    "end": 5923298,
+    "enText": "I didn't kill him. Yes, there's been a shooting. A young man's been shot in the chest. I'm not sure.",
+    "ruText": "Я не убивала. Да, молодому мужчине выстрелили в грудь. Не знаю..."
+  },
+  {
+    "id": "762",
+    "start": 5923298,
+    "end": 5929263,
+    "enText": "This... This kid is dead. This is a... This is... This is a tragedy. But I... I didn't... No, she didn't. He killed himself.",
+    "ruText": "Его уже не вернуть. Это трагедия. Но я же не... Она ни при чём. Выстрелил он."
+  },
+  {
+    "id": "763",
+    "start": 5929263,
+    "end": 5932975,
+    "enText": "I can make amends. I can... I can make amends. I'm sorry, what?",
+    "ruText": "Я компенсирую. Да, я компенсирую. Это как?"
+  },
+  {
+    "id": "764",
+    "start": 5934059,
+    "end": 5937379,
+    "enText": "I'll give the money back. I'll give it to the Foundation. What are you talking about?",
+    "ruText": "Я верну деньги. Всё отдам фонду. О чем ты говоришь?"
+  },
+  {
+    "id": "765",
+    "start": 5937479,
+    "end": 5939273,
+    "enText": "You're just gonna give it up? Yes.",
+    "ruText": "Вот так вот просто? Да."
+  },
+  {
+    "id": "766",
+    "start": 5939982,
+    "end": 5944787,
+    "enText": "I don't want to go to jail for something I didn't do! No. They're coming. The police are coming.",
+    "ruText": "Я не хочу в тюрьму за то, чего не совершала! Нет. Уже поздно. Полиция едет."
+  },
+  {
+    "id": "767",
+    "start": 5944987,
+    "end": 5948657,
+    "enText": "You leave us to the police and that money's not going anywhere.",
+    "ruText": "Сдашь нас полиции - и этих денег никто не увидит."
+  },
+  {
+    "id": "768",
+    "start": 5948657,
+    "end": 5951201,
+    "enText": "Just think of what it can do. Oh, you.",
+    "ruText": "Включи воображение. Да ты..."
+  },
+  {
+    "id": "769",
+    "start": 5951852,
+    "end": 5958709,
+    "enText": "They'll give the money back! Please! Please! I beg you, please! I don't wanna go to jail!",
+    "ruText": "Я верну все деньги! Пожалуйста! Пожалуйста! Я тебя умоляю. Я не хочу за решетку!"
+  },
+  {
+    "id": "770",
+    "start": 5962004,
+    "end": 5963255,
+    "enText": "What a fucking mess.",
+    "ruText": "Ну мы и вляпались."
+  },
+  {
+    "id": "771",
+    "start": 5967467,
+    "end": 5970429,
+    "enText": "Madeline Hobbes on line one. She says it's urgent.",
+    "ruText": "Меделин Хоббс на первой линии. Говорит, это срочно."
+  },
+  {
+    "id": "772",
+    "start": 5971180,
+    "end": 5979146,
+    "enText": "Excuse me a minute. Madeline... Hello? Is everything all right?",
+    "ruText": "Я прошу прощения. Меделин... Что-то случилось?"
+  },
+  {
+    "id": "773",
+    "start": 5980230,
+    "end": 5984985,
+    "enText": "I wanna transfer my inheritance... to the Richard Hobbes Foundation.",
+    "ruText": "Я хочу передать всё наследство Фонду Ричарда Хоббса."
+  },
+  {
+    "id": "774",
+    "start": 5986069,
+    "end": 5989632,
+    "enText": "It was Richard's wish that you receive the inheritance, Madeline. It's yours.",
+    "ruText": "Ричард пожелал оставить состояние вам, Меделин. Оно ваше."
+  },
+  {
+    "id": "775",
+    "start": 5990032,
+    "end": 5994786,
+    "enText": "But I want it to go to the Foundation. And I want it done today.",
+    "ruText": "А я хочу передать его Фонду. И сделайте это сегодня."
+  },
+  {
+    "id": "776",
+    "start": 5996663,
+    "end": 5999833,
+    "enText": "I need you to do this, David. I need you to do this as soon as possible.",
+    "ruText": "Дело срочное, Дэвид. Займитесь этим как можно скорее."
+  },
+  {
+    "id": "777",
+    "start": 6000584,
+    "end": 6006507,
+    "enText": "Madeline, what is this? Are you under duress? No.",
+    "ruText": "Меделин, в чём дело? Вам угрожают? Нет."
+  },
+  {
+    "id": "778",
+    "start": 6007174,
+    "end": 6009635,
+    "enText": "You can tell me if something has happened. I can help.",
+    "ruText": "Скажите, если у вас неприятности. Я помогу."
+  },
+  {
+    "id": "779",
+    "start": 6011345,
+    "end": 6015766,
+    "enText": "Next flight out is to Oklahoma City. We have 40 minutes. Keep moving.",
+    "ruText": "Ближайший рейс - Оклахома-Сити. У нас 40 минут. Шевелитесь."
+  },
+  {
+    "id": "780",
+    "start": 6016350,
+    "end": 6020020,
+    "enText": "Madeline? Have you spoken to Tom about this?",
+    "ruText": "Меделин? А вы обсудили это с Томом?"
+  },
+  {
+    "id": "781",
+    "start": 6025234,
+    "end": 6029363,
+    "enText": "You're my lawyer, right? Yes. Of course.",
+    "ruText": "Вы же мой юрист? Да, конечно."
+  },
+  {
+    "id": "782",
+    "start": 6034535,
+    "end": 6044044,
+    "enText": "Then I want you to do what I say and transfer the money. All of it.",
+    "ruText": "Тогда сделайте как я прошу: переведите деньги. Все деньги."
+  },
+  {
+    "id": "783",
+    "start": 6046213,
+    "end": 6047631,
+    "enText": "We'll prepare the papers.",
+    "ruText": "Мы подготовим документы."
+  },
+  {
+    "id": "784",
+    "start": 6056974,
+    "end": 6058559,
+    "enText": "Make it look like a robbery.",
+    "ruText": "Инсценируйте ограбление."
+  },
+  {
+    "id": "785",
+    "start": 6087337,
+    "end": 6090966,
+    "enText": "You seem very calm for someone who lost a lot of money. Well, I'm a professional.",
+    "ruText": "Ты упустила состояние и так спокойна? Я же профессионал."
+  },
+  {
+    "id": "786",
+    "start": 6091675,
+    "end": 6093468,
+    "enText": "You gave away billions of dollars.",
+    "ruText": "Выкинула миллиарды долларов."
+  },
+  {
+    "id": "787",
+    "start": 6093468,
+    "end": 6096180,
+    "enText": "Is that what I did? Did you? I don't know. Did I?",
+    "ruText": "Ты так считаешь? А ты нет? Не знаю даже."
+  },
+  {
+    "id": "788",
+    "start": 6096680,
+    "end": 6099600,
+    "enText": "I mean, I gave the money to the Foundation.",
+    "ruText": "Ну да, все деньги я перечислила фонду."
+  },
+  {
+    "id": "789",
+    "start": 6100392,
+    "end": 6102311,
+    "enText": "The head of the Foundation is Tom.",
+    "ruText": "Фонд возглавляет Том."
+  },
+  {
+    "id": "790",
+    "start": 6102311,
+    "end": 6107224,
+    "enText": "Or should I say, was. Tom is dead.",
+    "ruText": "Точнее говоря, возглавлял. Но Том умер."
+  },
+  {
+    "id": "791",
+    "start": 6107524,
+    "end": 6112112,
+    "enText": "And so, the money is controlled by the trustee. And guess who that is?",
+    "ruText": "Значит, деньгами распоряжается попечитель. Угадай, кто это."
+  },
+  {
+    "id": "792",
+    "start": 6118076,
+    "end": 6122581,
+    "enText": "You're still talking about money. Yes. Yes, we are.",
+    "ruText": "У вас одни деньги на уме. Да, одни деньги."
+  },
+  {
+    "id": "793",
+    "start": 6123498,
+    "end": 6130322,
+    "enText": "Tom is dead. We killed him. We killed him.",
+    "ruText": "Том умер. Мы его убили. Мы его убили."
+  },
+  {
+    "id": "794",
+    "start": 6130422,
+    "end": 6138180,
+    "enText": "Keep it together. I'm gonna be sick. We gotta get rid of her.",
+    "ruText": "Не истери. Меня сейчас вырвет. Надо от нее отделаться."
+  },
+  {
+    "id": "795",
+    "start": 6139598,
+    "end": 6142518,
+    "enText": "We can't. She's a witness. She knows too much.",
+    "ruText": "Нельзя. Она свидетель. Слишком много знает."
+  },
+  {
+    "id": "796",
+    "start": 6143602,
+    "end": 6149033,
+    "enText": "What is it? Did she get to you? No.",
+    "ruText": "Да что ты? Ты ей увлекся? Нет."
+  },
+  {
+    "id": "797",
+    "start": 6149233,
+    "end": 6152653,
+    "enText": "It's okay. I mean, it happens. She didn't get to me.",
+    "ruText": "Не страшно. Я пойму. Я ей не увлекся."
+  },
+  {
+    "id": "798",
+    "start": 6153737,
+    "end": 6157991,
+    "enText": "I mean, you can do what you want. I don't care.",
+    "ruText": "В смысле, делай что хочешь. Мне плевать."
+  },
+  {
+    "id": "799",
+    "start": 6159076,
+    "end": 6161537,
+    "enText": "She didn't get to me. Good.",
+    "ruText": "Я ей не увлекся. Ладно."
+  },
+  {
+    "id": "800",
+    "start": 6162204,
+    "end": 6166083,
+    "enText": "Would you like some water? Thanks.",
+    "ruText": "Вода, пожалуйста. Спасибо."
+  },
+  {
+    "id": "801",
+    "start": 6177594,
+    "end": 6181557,
+    "enText": "This isn't blood. What? Look. It comes out too easily.",
+    "ruText": "Это не кровь. Что? Видишь? Легко оттирается."
+  },
+  {
+    "id": "802",
+    "start": 6183183,
+    "end": 6188397,
+    "enText": "This isn't blood. Let me see. If it's not blood, then what is it?",
+    "ruText": "Это не кровь. Покажи. А что это, если не кровь?"
+  },
+  {
+    "id": "803",
+    "start": 6190899,
+    "end": 6194444,
+    "enText": "You tell me. What do you mean?",
+    "ruText": "Ты мне скажи. В смысле?"
+  },
+  {
+    "id": "804",
+    "start": 6195028,
+    "end": 6196029,
+    "enText": "Are you behind this?",
+    "ruText": "Твои фокусы?"
+  },
+  {
+    "id": "805",
+    "start": 6197865,
+    "end": 6199950,
+    "enText": "Behind what? You got me to give away the money.",
+    "ruText": "Фокусы? Ты вынудил меня отдать деньги."
+  },
+  {
+    "id": "806",
+    "start": 6201326,
+    "end": 6204922,
+    "enText": "No, I did no such thing. No, Tom's alive. You fucked me.",
+    "ruText": "Ничего такого не делал. Я знаю, Том жив. Ты поимел меня."
+  },
+  {
+    "id": "807",
+    "start": 6205122,
+    "end": 6210544,
+    "enText": "What are you talking about? You fucked me. I will fucking kill you. I didn't have anything... I will fucking end you! I didn't have anything to do with this.",
+    "ruText": "Ты о чём? Я тебя прикончу. Тебе не жить, скотина! Я вообще ни при делах."
+  },
+  {
+    "id": "808",
+    "start": 6214047,
+    "end": 6225601,
+    "enText": "Sandra. Sandra! Sandra?",
+    "ruText": "Сандра. Сандра! Сандра?"
+  },
+  {
+    "id": "809",
+    "start": 6241366,
+    "end": 6244269,
+    "enText": "Merry Christmas, Max. Merry Christmas, Sandra.",
+    "ruText": "С Рождеством, Макс. С Рождеством, Сандра."
+  },
+  {
+    "id": "810",
+    "start": 6244369,
+    "end": 6246914,
+    "enText": "Sandy. Everybody calls me Sandy.",
+    "ruText": "Сэнди. Все зовут меня Сэнди."
+  },
+  {
+    "id": "811",
+    "start": 6247831,
+    "end": 6250751,
+    "enText": "We're gonna give people the impression that you're somebody that you're not.",
+    "ruText": "Мы создадим у людей впечатление, что ты та, кем на самом деле не являешься."
+  },
+  {
+    "id": "812",
+    "start": 6251251,
+    "end": 6253378,
+    "enText": "And when I'm done with you, it's gonna be 100% convincing.",
+    "ruText": "Я сделаю из тебя совершенно другого человека."
+  },
+  {
+    "id": "813",
+    "start": 6254546,
+    "end": 6257508,
+    "enText": "And what happens if I stay? You work for me.",
+    "ruText": "А если я останусь? Будешь работать."
+  },
+  {
+    "id": "814",
+    "start": 6258133,
+    "end": 6262846,
+    "enText": "Is this real? This is real. How can I be sure?",
+    "ruText": "Это не сон? Это не сон. А чем докажешь?"
+  },
+  {
+    "id": "815",
+    "start": 6264056,
+    "end": 6267976,
+    "enText": "I really like you. I really like you too.",
+    "ruText": "Ты правда мне нравишься. И ты мне нравишься."
+  },
+  {
+    "id": "816",
+    "start": 6269353,
+    "end": 6270896,
+    "enText": "It's my brother. He needs money.",
+    "ruText": "Это мой брат. Денег просил."
+  },
+  {
+    "id": "817",
+    "start": 6270896,
+    "end": 6273273,
+    "enText": "Jason. Keep your voice... Listen. Yo, listen to me for two seconds!",
+    "ruText": "Не кричи так! Послушай две секунды!"
+  },
+  {
+    "id": "818",
+    "start": 6273373,
+    "end": 6275692,
+    "enText": "I live with my dad and his new wife.",
+    "ruText": "Я живу с отцом и его новой женой."
+  },
+  {
+    "id": "819",
+    "start": 6276902,
+    "end": 6278278,
+    "enText": "He thinks I'm a disappointment.",
+    "ruText": "Я его разочаровал."
+  },
+  {
+    "id": "820",
+    "start": 6280155,
+    "end": 6284826,
+    "enText": "But you're not a disappointment. I love you.",
+    "ruText": "Меня ты не разочаровал. Я люблю тебя."
+  },
+  {
+    "id": "821",
+    "start": 6287996,
+    "end": 6289915,
+    "enText": "You can't cheat an honest man, right?",
+    "ruText": "Кто честен, того не обманешь, так?"
+  },
+  {
+    "id": "822",
+    "start": 6290916,
+    "end": 6292793,
+    "enText": "That's why we never feel sorry for the mark.",
+    "ruText": "Поэтому мы не сочувствуем объекту."
+  },
+  {
+    "id": "823",
+    "start": 6297464,
+    "end": 6299132,
+    "enText": "Max told me the whole score.",
+    "ruText": "Макс всё мне рассказал."
+  },
+  {
+    "id": "824",
+    "start": 6300968,
+    "end": 6304847,
+    "enText": "There was an old man who was dying and was gonna leave behind a fortune.",
+    "ruText": "Про старикана, который вот-вот даст дуба и оставит после себя состояние."
+  },
+  {
+    "id": "825",
+    "start": 6307724,
+    "end": 6314064,
+    "enText": "We just needed to nudge aside the son so that his very full of shit widow could inherit it all.",
+    "ruText": "И надо только сынка его подвинуть, чтобы хитрожопая вдовушка унаследовала всё."
+  },
+  {
+    "id": "826",
+    "start": 6323782,
+    "end": 6329913,
+    "enText": "I wanna confess. Confess to it all.",
+    "ruText": "Хочу сознаться. Сознаться во всем."
+  },
+  {
+    "id": "827",
+    "start": 6336003,
+    "end": 6337504,
+    "enText": "I'm so sorry for all of this.",
+    "ruText": "Прости меня за всё."
+  },
+  {
+    "id": "828",
+    "start": 6341300,
+    "end": 6342301,
+    "enText": "How you doing, Tipsy?",
+    "ruText": "Как дела, Типси?"
+  },
+  {
+    "id": "829",
+    "start": 6347306,
+    "end": 6349558,
+    "enText": "Richard's dead and Madeline got all the money.",
+    "ruText": "Ричард умер. Меделин досталось всё."
+  },
+  {
+    "id": "830",
+    "start": 6349558,
+    "end": 6353821,
+    "enText": "What she pulled required a great deal of sophistication. I don't see how this woman did it alone.",
+    "ruText": "Такое требует изощренности. Одна бы не справилась."
+  },
+  {
+    "id": "831",
+    "start": 6354021,
+    "end": 6359493,
+    "enText": "I think we're looking for more than one person. There's a white dude named Goldie. We like to call him Goldie 'cause he got... he got, like red hair.",
+    "ruText": "Думаю, у нее были подельники. Есть мужик. Мы его зовем Голди, потому что у него волосы золотистые."
+  },
+  {
+    "id": "832",
+    "start": 6363780,
+    "end": 6371205,
+    "enText": "We have to take this out of here. Yeah, you were right. There was... There was this guy who was her accomplice.",
+    "ruText": "Работаем здесь. Да, ты был прав. Она действовала не одна. С ней был один тип, ее сообщник."
+  },
+  {
+    "id": "833",
+    "start": 6372497,
+    "end": 6382883,
+    "enText": "He taught her everything and trained her. He planned the whole thing. No. One more time. He cheated her too. He left her with nothing.",
+    "ruText": "Он научил ее всему, натаскал. И он же всё спланировал. Нет, заново. Ее он тоже кинул. Оставил ни с чем."
+  },
+  {
+    "id": "834",
+    "start": 6395354,
+    "end": 6400776,
+    "enText": "How can you do what you do? Practice.",
+    "ruText": "Как у вас это получается? Практика."
+  },
+  {
+    "id": "835",
+    "start": 6476185,
+    "end": 6483233,
+    "enText": "Hey, excuse me, I got a quick question. I need to know where the fuck is my money? Look at y'all. There he is.",
+    "ruText": "Извините, я только спросить. А где мое бабло, где мое баблишко? Здорово. Явился."
+  },
+  {
+    "id": "836",
+    "start": 6483901,
+    "end": 6487362,
+    "enText": "Look like undercover cops. What's up? What's up, baby? How you doing? Here's your money.",
+    "ruText": "Чего вырядились как копы? Здорово, малой. А ты как? Твоя доля."
+  },
+  {
+    "id": "837",
+    "start": 6487662,
+    "end": 6491934,
+    "enText": "Okay. Not bad, Sandy. Max taught you well, I see.",
+    "ruText": "Нормас, Сэнди. Макс хорошо тебя обучил."
+  },
+  {
+    "id": "838",
+    "start": 6492034,
+    "end": 6497089,
+    "enText": "All right, last chance, huh? I really could use someone like you. Sorry, Goldie. I'm done.",
+    "ruText": "Это да. Последний раз предлагаю. Ты бы мне реально пригодилась. Прости. Я завязала."
+  },
+  {
+    "id": "839",
+    "start": 6497289,
+    "end": 6501577,
+    "enText": "Yeah, whatever. I heard that one before. I'm done. All right. We gotta bounce. Yeah.",
+    "ruText": "Ага, где-то я уже это слышал. Я вышла. Мы погнали. Пока."
+  },
+  {
+    "id": "840",
+    "start": 6501877,
+    "end": 6510427,
+    "enText": "See you guys later. Peace. Take it easy. Gonna invest in some real estate, baby. Let's get it! Yep! Bye, Sandy.",
+    "ruText": "Увидимся. Бывайте. Пойду вложусь в недвижку. Зашибись! Пока, Сэнди."
+  },
+  {
+    "id": "841",
+    "start": 6523407,
+    "end": 6528028,
+    "enText": "You got a lot of money, Tom. I hope you can do some good with it.",
+    "ruText": "Ты теперь богач, Том. Пора делать добрые дела."
+  },
+  {
+    "id": "842",
+    "start": 6529947,
+    "end": 6534043,
+    "enText": "I will. Thank you. You're thanking me?",
+    "ruText": "Пора. Спасибо. «Спасибо» мне?"
+  },
+  {
+    "id": "843",
+    "start": 6534243,
+    "end": 6539498,
+    "enText": "I got everything taken from you. You also got it back.",
+    "ruText": "Я же всё у тебя отняла. Ну вернула же."
+  },
+  {
+    "id": "844",
+    "start": 6555389,
+    "end": 6558517,
+    "enText": "So, there's this great little Japanese restaurant on Mott Street.",
+    "ruText": "Тут есть один японский ресторанчик на Мотт-стрит."
+  },
+  {
+    "id": "845",
+    "start": 6560352,
+    "end": 6562020,
+    "enText": "If you're not doing anything, dinner's on me.",
+    "ruText": "Если у тебя нет планов, ужин за мой счет."
+  },
+  {
+    "id": "846",
+    "start": 6569152,
+    "end": 6573782,
+    "enText": "Well, I am single. And I kinda like being single.",
+    "ruText": "Я сейчас один. И это это даже прикольно."
+  },
+  {
+    "id": "847",
+    "start": 6573782,
+    "end": 6643571,
+    "enText": "...",
+    "ruText": "..."
+  }
+]
