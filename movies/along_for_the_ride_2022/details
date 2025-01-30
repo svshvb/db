@@ -31,6 +31,28 @@
     "enText": "The summer before college Auden meets the mysterious Eli, a fellow insomniac. While the seaside town of Colby sleeps, the two embark on a nightly quest to help Auden experience the fun, carefree teen life she never knew she wanted."
   },
   "titleType": "movie",
+  "media": [
+    "https://m.media-amazon.com/images/M/MV5BOWNiZDIxZGItY2YxYi00NTVlLWJhMzAtMjkyZDFjNGNjYmVhXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BZGQzNzk3ODYtYzYxMy00NDRiLTkxMTItNjI0ZTM5ZDZjZWNkXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BNGZjN2RhODYtYzkxZi00NDMyLTkzYzEtYWI0N2VhNzZlMWZlXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BNTA1ODA0ZTAtMmEzMS00M2U4LWFkODItMDQzMWFhYjljOGUwXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BYmQzNzc1ZmUtYzIxMC00NzUyLTljZWEtYjkxYWQyMDJmMzAxXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BOGNhNTg5MTUtN2YxNy00ZTQzLThmYzktOTZjYTFjMDNlNmFiXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BZjJjMGFjMjMtYmY3NS00YzZlLWIyOGQtOWYwZmQwNGFjOGQ5XkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BNmZiMjM0MWEtMzc3Yi00MjliLWI3NjMtNTIxNWQ3NGNmMjkzXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMjM0YmJlZjEtNDU2Mi00ZTZhLWJhMTAtNTgxOTM1MTI0ZTdiXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMTUyODU5ZTAtYjJlYS00OWExLWI3NjctOWE3MDNhZGZhMDU0XkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMmI5YjU2YjctY2I2Ni00YWI4LWIwMTktOTQ0OTU3YWY0YTEyXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BYmRiYzExZmUtOWVlNS00YTUwLWFkNTItYTIzZmU0MWJlMmYyXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BNDM2NWU4YTUtZjE2NC00MzEyLWI5ZjQtMmExN2NhZjcwM2VhXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BYTg3ZmFjNzUtMWYxZC00YWI3LTlkZjYtMjU1MGM2ZmVlMjUyXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMGM1YTk4ODItNGRkZi00YWQ5LWFjMGItYzgxMGMzNTYyZjY0XkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMzMwY2NmNzYtYjY5YS00Yzc1LTk2MzktYjgwNjdhYWE3NWQzXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BNTQxMDJhMGQtMGU5NS00MGY5LWEwMWYtYzliODMxOThmYTZjXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BYzA5YWFlOTYtMTgzNS00M2Q5LTg5ZGUtYTUzOGNhOTNlODg0XkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BODIwMzQ2MzQtOTRjZi00NzdlLWI0NTctOTU3YzM1MDI0ZTE1XkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BZTE4N2E0MGQtNjJhMi00YjQzLTkyYzItODg4ODE1M2Q4OTY1XkEyXkFqcGc@._V1_QL75_UX820_.jpg"
+  ],
   "countries": [
     {
       "id": "US"
