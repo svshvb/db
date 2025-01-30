@@ -1,3 +1,39 @@
 {
-  "magnet": "9D58563DB652459931BF2609823181629E5C3428"
+  "imdbId": "tt4276820",
+  "magnet": "9D58563DB652459931BF2609823181629E5C3428",
+  "titleText": {
+    "ruText": "Основатель",
+    "enText": "The Founder"
+  },
+  "ratingsSummary": {
+    "aggregateRating": 7.2,
+    "voteCount": 187974
+  },
+  "releaseYear": 2016,
+  "genres": [
+    {
+      "ruText": "Биография",
+      "enText": "Biography"
+    },
+    {
+      "ruText": "Драма",
+      "enText": "Drama"
+    }
+  ],
+  "runtime": {
+    "seconds": 6900
+  },
+  "certificate": {
+    "rating": "PG-13"
+  },
+  "plotText": {
+    "ruText": "История Рэя Крока, продавца, который превратил инновационную закусочную быстрого питания McDonald's, принадлежащую двум братьям, в крупнейший ресторанный бизнес в мире, сочетая в себе амбиции, настойчивость и безжалостность.",
+    "enText": "The story of Ray Kroc, a salesman who turned two brothers' innovative fast food eatery, McDonald's, into the biggest restaurant business in the world, with a combination of ambition, persistence, and ruthlessness."
+  },
+  "titleType": "movie",
+  "countries": [
+    {
+      "id": "US"
+    }
+  ]
 }
