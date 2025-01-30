@@ -1,3 +1,43 @@
 {
-  "magnet": "526700D47CA226910A6DA1E24F3CABF5909C6F78"
+  "imdbId": "tt15326988",
+  "magnet": "526700D47CA226910A6DA1E24F3CABF5909C6F78",
+  "titleText": {
+    "ruText": "Без ответа",
+    "enText": "Ghosted"
+  },
+  "ratingsSummary": {
+    "aggregateRating": 5.8,
+    "voteCount": 70070
+  },
+  "releaseYear": 2023,
+  "genres": [
+    {
+      "ruText": "Боевик",
+      "enText": "Action"
+    },
+    {
+      "ruText": "Приключение",
+      "enText": "Adventure"
+    },
+    {
+      "ruText": "Комедия",
+      "enText": "Comedy"
+    }
+  ],
+  "runtime": {
+    "seconds": 6960
+  },
+  "certificate": {
+    "rating": "PG-13"
+  },
+  "plotText": {
+    "ruText": "Коул влюбляется в загадочную Сэди, но выясняется, что она секретный агент. Прежде чем они успевают пойти на второе свидание, Коул и Сэди отправляются в приключение, чтобы спасти мир.",
+    "enText": "Cole falls head over heels for enigmatic Sadie, but then makes the shocking discovery that she's a secret agent. Before they can decide on a second date, Cole and Sadie are swept away on an international adventure to save the world."
+  },
+  "titleType": "movie",
+  "countries": [
+    {
+      "id": "US"
+    }
+  ]
 }
