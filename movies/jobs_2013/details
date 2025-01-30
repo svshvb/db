@@ -1,3 +1,39 @@
 {
-  "magnet": "7BB7D4B9AF75FCA9385C02B2A031950C5F05F36F"
+  "imdbId": "tt2357129",
+  "magnet": "7BB7D4B9AF75FCA9385C02B2A031950C5F05F36F",
+  "titleText": {
+    "ruText": "Джобс: Империя соблазна",
+    "enText": "Jobs"
+  },
+  "ratingsSummary": {
+    "aggregateRating": 6,
+    "voteCount": 105116
+  },
+  "releaseYear": 2013,
+  "genres": [
+    {
+      "ruText": "Биография",
+      "enText": "Biography"
+    },
+    {
+      "ruText": "Драма",
+      "enText": "Drama"
+    }
+  ],
+  "runtime": {
+    "seconds": 7680
+  },
+  "certificate": {
+    "rating": "12+"
+  },
+  "plotText": {
+    "ruText": "История восхождения Стива Джобса от выпускника колледжа до одного из самых почитаемых творческих предпринимателей 20-го века.",
+    "enText": "The story of Steve Jobs' ascension from college dropout into one of the most revered creative entrepreneurs of the 20th century."
+  },
+  "titleType": "movie",
+  "countries": [
+    {
+      "id": "US"
+    }
+  ]
 }
