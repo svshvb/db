@@ -35,6 +35,28 @@
     "enText": "Motivations are suspect and expectations are turned to chaos as a con artist takes on Manhattan billionaires."
   },
   "titleType": "movie",
+  "media": [
+    "https://m.media-amazon.com/images/M/MV5BNjU3ODE4NmItZDhhOS00MjM1LTk4NzgtOTI4ZTc0ZjM5OTMwXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BYjI2YWMxZjgtMDgzZC00NjdjLTk2MDQtODJkZGM2OGQ1NjIwXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BZmRhNWQ3YmUtODc3NC00MTk0LTg2NGQtZDIxMjY5NWYwOTMyXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BNzBjODE5OWUtOTEwYy00MTM0LWE3OTQtMDg1MmQ5NDE5YmYzXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMGU0YTBkNTUtZDk3Zi00NmQ5LTk0OTYtNmQwMzc4YmY1ZTEwXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BOThlOWMwNGUtYmY1YS00YmMzLTg0N2UtZGYzZDg3MmEyZDliXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMjQ5ZjhiMDMtZDEwMi00Y2E1LWFlZmMtODdkMTYwMDEyOTJjXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BNzY5YzhlNDctMWRlNi00M2Y3LThiNDItNjA0YTFkMzZiMzgwXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMjc4ZjJiYTItN2IyNy00MWE3LWE2YzctNmI3NzY2ZGNlZWEzXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BZWQwZmQzNDEtM2ZlMi00Y2UwLTg0ZjktMGNiZDU3ZmYyMWIyXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BYWMwNTE2N2MtYTQwMi00ZTIxLTg4OGEtZDI1ZWVjMDRhZTdmXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BZjgzNzdiYzItODMxNC00NDE4LTgxOGMtZjA3YWFkNTIxMzVmXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BYTJiOTM0NmQtM2MxNi00ZDdmLTg3NmUtN2EwNGY1OTI4MDkzXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMTI5ZjdhZGUtODViMi00MzE5LTk2ZmItMmRiMjNmMGI1NWU0XkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BYTgxNTk5ZmEtNWY1OC00NzAwLWJkNjAtZGFhODU4ZGY2ODk2XkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BYTZlMDc2MjUtMTFmNC00NzRjLTgxNTMtYzk0MTljYjI3MmEwXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BZDdhNDJhOGEtN2Q1My00NjMxLThhMTgtNDI5YTYwZjg3NjMwXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BZDQ4OGZlMDAtYTI3Zi00Y2Y4LTk4MmEtOGEzZGY3MGM0NjYzXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BZmJmMTAyNjAtYzE1My00NTE5LWJlNjAtNzIyNTlkOTkyZWNkXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BNDVlYmNhYTgtYjRlYi00M2U3LWFhNjAtYmRhOGZiNDU2ZDFhXkEyXkFqcGc@._V1_QL75_UX820_.jpg"
+  ],
   "countries": [
     {
       "id": "US"
