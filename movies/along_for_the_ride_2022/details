@@ -1,3 +1,39 @@
 {
-  "magnet": "490CE64D7C8941059E5827A929DFA7E89453E0B7"
+  "imdbId": "tt14506528",
+  "magnet": "490CE64D7C8941059E5827A929DFA7E89453E0B7",
+  "titleText": {
+    "ruText": "Прогулки вдвоём",
+    "enText": "Along for the Ride"
+  },
+  "ratingsSummary": {
+    "aggregateRating": 6.2,
+    "voteCount": 9804
+  },
+  "releaseYear": 2022,
+  "genres": [
+    {
+      "ruText": "Драма",
+      "enText": "Drama"
+    },
+    {
+      "ruText": "Романтика",
+      "enText": "Romance"
+    }
+  ],
+  "runtime": {
+    "seconds": 6360
+  },
+  "certificate": {
+    "rating": "TV-14"
+  },
+  "plotText": {
+    "ruText": "Летом перед колледжем прилежная ученица Оден встречает загадочного парня Илая, и во время ночных прогулок он помогает ей окунуться в беззаботную подростковую жизнь.",
+    "enText": "The summer before college Auden meets the mysterious Eli, a fellow insomniac. While the seaside town of Colby sleeps, the two embark on a nightly quest to help Auden experience the fun, carefree teen life she never knew she wanted."
+  },
+  "titleType": "movie",
+  "countries": [
+    {
+      "id": "US"
+    }
+  ]
 }
