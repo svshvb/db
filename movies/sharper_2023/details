@@ -1,3 +1,43 @@
 {
-  "magnet": "560F3B9BF7FB1D8D1E81528CE9ED288C337B2DE3"
+  "imdbId": "tt12573454",
+  "magnet": "560F3B9BF7FB1D8D1E81528CE9ED288C337B2DE3",
+  "titleText": {
+    "ruText": "Аферисты",
+    "enText": "Sharper"
+  },
+  "ratingsSummary": {
+    "aggregateRating": 6.7,
+    "voteCount": 34226
+  },
+  "releaseYear": 2023,
+  "genres": [
+    {
+      "ruText": "Криминал",
+      "enText": "Crime"
+    },
+    {
+      "ruText": "Драма",
+      "enText": "Drama"
+    },
+    {
+      "ruText": "Триллер",
+      "enText": "Thriller"
+    }
+  ],
+  "runtime": {
+    "seconds": 6960
+  },
+  "certificate": {
+    "rating": "R"
+  },
+  "plotText": {
+    "ruText": "Мошенница, обманывающая миллионеров с Манхэттена, встречает авантюриста, который зарабатывает на аферах с хитрыми схемами.",
+    "enText": "Motivations are suspect and expectations are turned to chaos as a con artist takes on Manhattan billionaires."
+  },
+  "titleType": "movie",
+  "countries": [
+    {
+      "id": "US"
+    }
+  ]
 }
