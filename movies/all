@@ -2,31 +2,55 @@
   {
     "id": "along_for_the_ride_2022",
     "name": "Along For The Ride",
-    "cover": "https://img.yts.mx/assets/images/movies/along_for_the_ride_2022/medium-cover.jpg"
+    "cover": "https://img.yts.mx/assets/images/movies/along_for_the_ride_2022/medium-cover.jpg",
+    "ratingsSummary": {
+      "aggregateRating": 6.2,
+      "voteCount": 9804
+    }
   },
   {
     "id": "ghosted_2023",
     "name": "Ghosted",
-    "cover": "https://img.yts.mx/assets/images/movies/ghosted_2023/medium-cover.jpg"
+    "cover": "https://img.yts.mx/assets/images/movies/ghosted_2023/medium-cover.jpg",
+    "ratingsSummary": {
+      "aggregateRating": 5.8,
+      "voteCount": 70070
+    }
   },
   {
     "id": "jerry_and_marge_go_large_2022",
     "name": "Jerry And Marge Go Large",
-    "cover": "https://img.yts.mx/assets/images/movies/jerry_and_marge_go_large_2022/medium-cover.jpg"
+    "cover": "https://img.yts.mx/assets/images/movies/jerry_and_marge_go_large_2022/medium-cover.jpg",
+    "ratingsSummary": {
+      "aggregateRating": 6.9,
+      "voteCount": 29385
+    }
   },
   {
     "id": "jobs_2013",
     "name": "Jobs",
-    "cover": "https://img.yts.mx/assets/images/movies/JOBS_2013/medium-cover.jpg"
+    "cover": "https://img.yts.mx/assets/images/movies/JOBS_2013/medium-cover.jpg",
+    "ratingsSummary": {
+      "aggregateRating": 6.0,
+      "voteCount": 105116
+    }
   },
   {
     "id": "sharper_2023",
     "name": "Sharper",
-    "cover": "https://img.yts.mx/assets/images/movies/sharper_2023/medium-cover.jpg"
+    "cover": "https://img.yts.mx/assets/images/movies/sharper_2023/medium-cover.jpg",
+    "ratingsSummary": {
+      "aggregateRating": 6.7,
+      "voteCount": 34226
+    }
   },
   {
     "id": "the_founder_2016",
     "name": "The Founder",
-    "cover": "https://img.yts.mx/assets/images/movies/the_founder_2016/medium-cover.jpg"
+    "cover": "https://img.yts.mx/assets/images/movies/the_founder_2016/medium-cover.jpg",
+    "ratingsSummary": {
+      "aggregateRating": 7.2,
+      "voteCount": 187974
+    }
   }
 ]
