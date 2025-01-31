@@ -6,20 +6,6 @@
     "enText": "Sharper"
   },
   "releaseYear": 2023,
-  "genres": [
-    {
-      "ruText": "Криминал",
-      "enText": "Crime"
-    },
-    {
-      "ruText": "Драма",
-      "enText": "Drama"
-    },
-    {
-      "ruText": "Триллер",
-      "enText": "Thriller"
-    }
-  ],
   "runtime": {
     "seconds": 6960
   },
