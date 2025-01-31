@@ -6,7 +6,11 @@
     "ratingsSummary": {
       "aggregateRating": 6.2,
       "voteCount": 9804
-    }
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "id": "ghosted_2023",
@@ -15,7 +19,12 @@
     "ratingsSummary": {
       "aggregateRating": 5.8,
       "voteCount": 70070
-    }
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ]
   },
   {
     "id": "jerry_and_marge_go_large_2022",
@@ -24,7 +33,12 @@
     "ratingsSummary": {
       "aggregateRating": 6.9,
       "voteCount": 29385
-    }
+    },
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "id": "jobs_2013",
@@ -33,7 +47,11 @@
     "ratingsSummary": {
       "aggregateRating": 6.0,
       "voteCount": 105116
-    }
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
   },
   {
     "id": "sharper_2023",
@@ -42,7 +60,12 @@
     "ratingsSummary": {
       "aggregateRating": 6.7,
       "voteCount": 34226
-    }
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "id": "the_founder_2016",
@@ -51,6 +74,10 @@
     "ratingsSummary": {
       "aggregateRating": 7.2,
       "voteCount": 187974
-    }
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ]
   }
 ]
