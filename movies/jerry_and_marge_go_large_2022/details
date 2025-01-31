@@ -6,20 +6,6 @@
     "enText": "Jerry & Marge Go Large"
   },
   "releaseYear": 2022,
-  "genres": [
-    {
-      "ruText": "Биография",
-      "enText": "Biography"
-    },
-    {
-      "ruText": "Комедия",
-      "enText": "Comedy"
-    },
-    {
-      "ruText": "Драма",
-      "enText": "Drama"
-    }
-  ],
   "runtime": {
     "seconds": 5760
   },
