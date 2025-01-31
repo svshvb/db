@@ -6,16 +6,6 @@
     "enText": "The Founder"
   },
   "releaseYear": 2016,
-  "genres": [
-    {
-      "ruText": "Биография",
-      "enText": "Biography"
-    },
-    {
-      "ruText": "Драма",
-      "enText": "Drama"
-    }
-  ],
   "runtime": {
     "seconds": 6900
   },
