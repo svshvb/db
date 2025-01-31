@@ -6,20 +6,6 @@
     "enText": "Ghosted"
   },
   "releaseYear": 2023,
-  "genres": [
-    {
-      "ruText": "Боевик",
-      "enText": "Action"
-    },
-    {
-      "ruText": "Приключение",
-      "enText": "Adventure"
-    },
-    {
-      "ruText": "Комедия",
-      "enText": "Comedy"
-    }
-  ],
   "runtime": {
     "seconds": 6960
   },
