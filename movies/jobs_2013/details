@@ -6,16 +6,6 @@
     "enText": "Jobs"
   },
   "releaseYear": 2013,
-  "genres": [
-    {
-      "ruText": "Биография",
-      "enText": "Biography"
-    },
-    {
-      "ruText": "Драма",
-      "enText": "Drama"
-    }
-  ],
   "runtime": {
     "seconds": 7680
   },
