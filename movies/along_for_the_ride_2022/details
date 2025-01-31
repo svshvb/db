@@ -6,16 +6,6 @@
     "enText": "Along for the Ride"
   },
   "releaseYear": 2022,
-  "genres": [
-    {
-      "ruText": "Драма",
-      "enText": "Drama"
-    },
-    {
-      "ruText": "Романтика",
-      "enText": "Romance"
-    }
-  ],
   "runtime": {
     "seconds": 6360
   },
