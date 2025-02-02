@@ -19,15 +19,6 @@
   "titleType": "movie",
   "media": [
     "https://m.media-amazon.com/images/M/MV5BMTBjYzhmMTAtMjMxYy00NGM1LTllZGYtZjBmODEwYmRhMTIxXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
-    "https://m.media-amazon.com/images/M/MV5BYzIzZjZjMjItN2FlNi00MTA0LWFmZjEtZDMxMzVhMDJhMmQwXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
-    "https://m.media-amazon.com/images/M/MV5BZDYyNGVkNzMtNWRjOS00Yjc2LWJjNjktYTk3ZWNmMWYyZDA4XkEyXkFqcGc@._V1_QL75_UX820_.jpg",
-    "https://m.media-amazon.com/images/M/MV5BNmQ4MGVmOWYtMTg0OC00YWNjLWFhOGQtNDAyNWNjNjEwZDJhXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
-    "https://m.media-amazon.com/images/M/MV5BNjdjZTEyNmMtNTdlYS00YjAzLWI1NDgtMTFmMDA1MDcyN2UwXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
-    "https://m.media-amazon.com/images/M/MV5BNTFhYTM3YzktNWZjMC00NGY5LTkyMjYtMzg1NzNlNjAzYjA0XkEyXkFqcGc@._V1_QL75_UX820_.jpg",
-    "https://m.media-amazon.com/images/M/MV5BMDkzNGYyN2UtYWE3MS00ZTNhLThiOTMtYTEzN2QwYzU0ZGQxXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
-    "https://m.media-amazon.com/images/M/MV5BMTJmZjlmMGQtZGIwYS00MzRjLThkZGUtNDMzZDQxNjhmYzEyXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
-    "https://m.media-amazon.com/images/M/MV5BMGNhZGI4OGQtZjg1Mi00ZDA1LWE5MDEtNDI2NTUzM2UzNjBlXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
-    "https://m.media-amazon.com/images/M/MV5BMjUyMTM1ZjAtMmI5MS00MDhmLWI3MGEtMTU3ODM1MjgyZDMyXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
     "https://m.media-amazon.com/images/M/MV5BMDk3YjAzNGItYmY1NS00ZjJiLThjNDUtZWRjNDlhNGZhY2NjXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
     "https://m.media-amazon.com/images/M/MV5BN2NhOTU1OGUtNmMzNC00MDVjLTk5MmUtOTIyYWZlYzEzOGU4XkEyXkFqcGc@._V1_QL75_UX820_.jpg",
     "https://m.media-amazon.com/images/M/MV5BNDEwM2EyOTYtYjUxOC00MWY4LWI0Y2MtMGIxMGFlYTE2MjVkXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
@@ -35,7 +26,6 @@
     "https://m.media-amazon.com/images/M/MV5BMzgzNGY3OTItMzViZS00NDUxLWJhMzItMDFmZWZkMDQzYjczXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
     "https://m.media-amazon.com/images/M/MV5BZmFhY2JmNTctMTdmZi00N2FhLWI5OTEtNTU0OTIxYWYzOWU0XkEyXkFqcGc@._V1_QL75_UX820_.jpg",
     "https://m.media-amazon.com/images/M/MV5BMmZjZjUyOWYtODA0OS00MzE1LWFkYTYtM2VjMWZlZDUxZDM3XkEyXkFqcGc@._V1_QL75_UX820_.jpg",
-    "https://m.media-amazon.com/images/M/MV5BMzZmZjI2YmUtZGM4OC00MGY0LTg3YzItNmUwMTViOWRjZmM2XkEyXkFqcGc@._V1_QL75_UX820_.jpg",
     "https://m.media-amazon.com/images/M/MV5BOGY5Mjg5MDEtOGIxMy00ZDBkLWFkYTctOGI1OTcxMzA1NjljXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
     "https://m.media-amazon.com/images/M/MV5BMGJkYmE0NzQtMzQyYi00MDIzLTk0N2ItNGFkYzk1NTdmNGI5XkEyXkFqcGc@._V1_QL75_UX820_.jpg"
   ],
